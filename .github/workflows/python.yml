@@ -29,9 +29,8 @@ jobs:
         run: |
           pip install poetry
           poetry install
-          poetry shell
-          playwright install
+          poetry run playwright install
       - name: Run
         run: |
           # stop the build if there are Python syntax errors or undefined names
-          python main.py
+          poetry run python main.py
