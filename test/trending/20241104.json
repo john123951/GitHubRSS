@@ -1,0 +1,164 @@
+[
+  {
+    "projectName": "DS4SD /docling",
+    "desc": "Get your docs ready for gen AI",
+    "language": "Python",
+    "stars": "3,748",
+    "todayStars": "615 stars today",
+    "forks": "214",
+    "link": "/DS4SD/docling"
+  },
+  {
+    "projectName": "abi /screenshot-to-code",
+    "desc": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "language": "Python",
+    "stars": "57,958",
+    "todayStars": "152 stars today",
+    "forks": "7,196",
+    "link": "/abi/screenshot-to-code"
+  },
+  {
+    "projectName": "tw93 /Pake",
+    "desc": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+    "language": "Rust",
+    "stars": "32,372",
+    "todayStars": "197 stars today",
+    "forks": "5,597",
+    "link": "/tw93/Pake"
+  },
+  {
+    "projectName": "All-Hands-AI /OpenHands",
+    "desc": "🙌 OpenHands: Code Less, Make More",
+    "language": "Python",
+    "stars": "33,733",
+    "todayStars": "70 stars today",
+    "forks": "3,854",
+    "link": "/All-Hands-AI/OpenHands"
+  },
+  {
+    "projectName": "kestra-io /kestra",
+    "desc": "⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...",
+    "language": "Java",
+    "stars": "12,220",
+    "todayStars": "231 stars today",
+    "forks": "1,029",
+    "link": "/kestra-io/kestra"
+  },
+  {
+    "projectName": "Cinnamon /kotaemon",
+    "desc": "An open-source RAG-based tool for chatting with your documents.",
+    "language": "Python",
+    "stars": "16,005",
+    "todayStars": "705 stars today",
+    "forks": "1,226",
+    "link": "/Cinnamon/kotaemon"
+  },
+  {
+    "projectName": "microsoft /genaiscript",
+    "desc": "Automatable GenAI Scripting",
+    "language": "TypeScript",
+    "stars": "1,432",
+    "todayStars": "267 stars today",
+    "forks": "83",
+    "link": "/microsoft/genaiscript"
+  },
+  {
+    "projectName": "bluesky-social /social-app",
+    "desc": "The Bluesky Social application for Web, iOS, and Android",
+    "language": "TypeScript",
+    "stars": "9,865",
+    "todayStars": "126 stars today",
+    "forks": "1,258",
+    "link": "/bluesky-social/social-app"
+  },
+  {
+    "projectName": "trufflesecurity /trufflehog",
+    "desc": "Find, verify, and analyze leaked credentials",
+    "language": "Go",
+    "stars": "16,793",
+    "todayStars": "171 stars today",
+    "forks": "1,695",
+    "link": "/trufflesecurity/trufflehog"
+  },
+  {
+    "projectName": "AUTOMATIC1111 /stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "language": "Python",
+    "stars": "142,277",
+    "todayStars": "61 stars today",
+    "forks": "26,844",
+    "link": "/AUTOMATIC1111/stable-diffusion-webui"
+  },
+  {
+    "projectName": "mingrammer /diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "language": "Python",
+    "stars": "37,985",
+    "todayStars": "80 stars today",
+    "forks": "2,482",
+    "link": "/mingrammer/diagrams"
+  },
+  {
+    "projectName": "usememos /memos",
+    "desc": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+    "language": "Go",
+    "stars": "33,501",
+    "todayStars": "205 stars today",
+    "forks": "2,431",
+    "link": "/usememos/memos"
+  },
+  {
+    "projectName": "3b1b /videos",
+    "desc": "Code for the manim-generated scenes used in 3blue1brown videos",
+    "language": "Python",
+    "stars": "7,970",
+    "todayStars": "132 stars today",
+    "forks": "1,713",
+    "link": "/3b1b/videos"
+  },
+  {
+    "projectName": "getmaxun /maxun",
+    "desc": "Free, open-source no-code web data extraction platform. Build custom robots to automate data scraping [In Beta]",
+    "language": "TypeScript",
+    "stars": "2,246",
+    "todayStars": "501 stars today",
+    "forks": "141",
+    "link": "/getmaxun/maxun"
+  },
+  {
+    "projectName": "kamranahmedse /developer-roadmap",
+    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "language": "TypeScript",
+    "stars": "295,979",
+    "todayStars": "103 stars today",
+    "forks": "39,057",
+    "link": "/kamranahmedse/developer-roadmap"
+  },
+  {
+    "projectName": "tiann /KernelSU",
+    "desc": "A Kernel based root solution for Android",
+    "language": "Kotlin",
+    "stars": "10,271",
+    "todayStars": "22 stars today",
+    "forks": "1,683",
+    "link": "/tiann/KernelSU"
+  },
+  {
+    "projectName": "daytonaio /daytona",
+    "desc": "The Open Source Dev Environment Manager.",
+    "language": "Go",
+    "stars": "9,913",
+    "todayStars": "174 stars today",
+    "forks": "809",
+    "link": "/daytonaio/daytona"
+  },
+  {
+    "projectName": "meta-llama /llama-stack",
+    "desc": "Model components of the Llama Stack APIs",
+    "language": "Python",
+    "stars": "4,307",
+    "todayStars": "180 stars today",
+    "forks": "552",
+    "link": "/meta-llama/llama-stack"
+  }
+]
