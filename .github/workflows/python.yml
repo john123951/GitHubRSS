@@ -65,7 +65,7 @@ jobs:
 
       - name: Copy data to website
         run: |
-          cp -r /tmp/data/* ./data/
+          rsync -av --delete /tmp/data/* ./data/
 
       - name: Set up Git
         run: |
