@@ -26,12 +26,12 @@ def trending_daily_scheduler():
 
     # save rss
     rss_save_path = os.path.join(save_folder, f'{today}-trending.xml')
-    with open(rss_save_path, 'w', encoding='utf-8') as file:
+    with open(rss_save_path, 'w+', encoding='utf-8') as file:
         file.write(trending_rss)
 
     # save json
     json_save_path = os.path.join(save_folder, f'{today}-trending.json')
-    with open(json_save_path, 'w', encoding='utf-8') as file:
+    with open(json_save_path, 'w+', encoding='utf-8') as file:
         file.write(json.dumps(trending_list, ensure_ascii=False))
 
     pass
