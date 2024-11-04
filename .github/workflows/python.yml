@@ -61,7 +61,7 @@ jobs:
       - name: Clone website branch
         uses: actions/checkout@v4
         with:
-          ref: 'website'
+          ref: 'gh-pages'
 
       - name: Copy data to website
         run: |
