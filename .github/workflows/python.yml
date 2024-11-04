@@ -22,7 +22,8 @@ jobs:
       - run: echo "Fetch GitHub Trending Data..."
 
       - uses: actions/checkout@v4
-        ref: 'main'
+        with:
+          ref: 'main'
 
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
