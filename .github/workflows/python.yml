@@ -42,9 +42,9 @@ jobs:
           poetry run python main.py
 
       - name: Upload data artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
-          name: generated-data
+          name: trending-data
           path: ./data
 
   deploy_job:
@@ -53,9 +53,9 @@ jobs:
 
     steps:
       - name: Download data artifact
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v4
         with:
-          name: generated-data
+          name: trending-data
           path: /tmp/data
 
       - name: Set up Git
