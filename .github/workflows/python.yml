@@ -6,8 +6,8 @@ name: Python application
 on:
   push:
     branches:
-    - main
-    - release/*
+      - main
+      - release/*
   schedule:
     - cron: "20 8 * * *"
 
@@ -20,17 +20,62 @@ jobs:
 
     steps:
       - run: echo "Fetch GitHub Trending Data..."
+
       - uses: actions/checkout@v4
+        ref: 'main'
+
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
       - name: Install dependencies
         run: |
           pip install poetry
           poetry install
           poetry run playwright install
+
       - name: Run
         run: |
-          # stop the build if there are Python syntax errors or undefined names
+          # read github trending page
           poetry run python main.py
+
+      - name: Upload data artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: generated-data
+          path: ./data
+
+  deploy_job:
+    runs-on: ubuntu-latest
+    needs: fetch_data
+
+    steps:
+      - name: Download data artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: generated-data
+          path: /tmp/data
+
+      - name: Set up Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Clone website branch
+        run: |
+          git clone --branch website https://github.com/${{ github.repository }}.git website
+
+      - name: Copy data to website
+        run: |
+          mkdir -p website/data
+          cp -r /tmp/data/* website/data/
+
+      - name: Commit and push changes
+        run: |
+          cd website
+          git add .
+          git commit -m "Update data"
+          git push origin website
+
+
