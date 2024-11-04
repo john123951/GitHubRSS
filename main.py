@@ -17,8 +17,8 @@ def trending_daily_scheduler():
     today = current_date.strftime('%Y%m%d')
 
     # create folder
-    save_folder = os.path.join('data', year, month)
-    os.makedirs(os.path.dirname(save_folder), exist_ok=True)
+    save_folder = os.path.join('.', 'data', year, month)
+    os.makedirs(save_folder, exist_ok=True)
 
     # fetch data
     trending_list = asyncio.run(github_trending_crawler(verbose=True))
