@@ -10,6 +10,10 @@ from trending.feeder import generate_rss
 
 
 def trending_daily_scheduler():
+    # fetch data
+    trending_list = asyncio.run(github_trending_crawler(verbose=True))
+    trending_rss = generate_rss(trending_list=trending_list)
+
     # params
     current_date = datetime.now()
     year = current_date.strftime('%Y')
@@ -19,10 +23,6 @@ def trending_daily_scheduler():
     # create folder
     save_folder = os.path.join('.', 'data', year, month)
     os.makedirs(save_folder, exist_ok=True)
-
-    # fetch data
-    trending_list = asyncio.run(github_trending_crawler(verbose=True))
-    trending_rss = generate_rss(trending_list=trending_list)
 
     # save rss
     rss_save_path = os.path.join(save_folder, f'{today}-trending.xml')
