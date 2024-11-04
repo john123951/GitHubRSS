@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Mon, 04 Nov 2024 10:02:03 +0000</lastBuildDate>
+    <item>
+      <title>DS4SD /docling</title>
+      <link>https://www.github.com/DS4SD/docling</link>
+      <description>Get your docs ready for gen AI</description>
+    </item>
+    <item>
+      <title>abi /screenshot-to-code</title>
+      <link>https://www.github.com/abi/screenshot-to-code</link>
+      <description>Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)</description>
+    </item>
+    <item>
+      <title>tw93 /Pake</title>
+      <link>https://www.github.com/tw93/Pake</link>
+      <description>🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</description>
+    </item>
+    <item>
+      <title>All-Hands-AI /OpenHands</title>
+      <link>https://www.github.com/All-Hands-AI/OpenHands</link>
+      <description>🙌 OpenHands: Code Less, Make More</description>
+    </item>
+    <item>
+      <title>kestra-io /kestra</title>
+      <link>https://www.github.com/kestra-io/kestra</link>
+      <description>⚡ Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...</description>
+    </item>
+    <item>
+      <title>Cinnamon /kotaemon</title>
+      <link>https://www.github.com/Cinnamon/kotaemon</link>
+      <description>An open-source RAG-based tool for chatting with your documents.</description>
+    </item>
+    <item>
+      <title>microsoft /genaiscript</title>
+      <link>https://www.github.com/microsoft/genaiscript</link>
+      <description>Automatable GenAI Scripting</description>
+    </item>
+    <item>
+      <title>bluesky-social /social-app</title>
+      <link>https://www.github.com/bluesky-social/social-app</link>
+      <description>The Bluesky Social application for Web, iOS, and Android</description>
+    </item>
+    <item>
+      <title>trufflesecurity /trufflehog</title>
+      <link>https://www.github.com/trufflesecurity/trufflehog</link>
+      <description>Find, verify, and analyze leaked credentials</description>
+    </item>
+    <item>
+      <title>AUTOMATIC1111 /stable-diffusion-webui</title>
+      <link>https://www.github.com/AUTOMATIC1111/stable-diffusion-webui</link>
+      <description>Stable Diffusion web UI</description>
+    </item>
+    <item>
+      <title>mingrammer /diagrams</title>
+      <link>https://www.github.com/mingrammer/diagrams</link>
+      <description>🎨 Diagram as Code for prototyping cloud system architectures</description>
+    </item>
+    <item>
+      <title>usememos /memos</title>
+      <link>https://www.github.com/usememos/memos</link>
+      <description>An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.</description>
+    </item>
+    <item>
+      <title>3b1b /videos</title>
+      <link>https://www.github.com/3b1b/videos</link>
+      <description>Code for the manim-generated scenes used in 3blue1brown videos</description>
+    </item>
+    <item>
+      <title>getmaxun /maxun</title>
+      <link>https://www.github.com/getmaxun/maxun</link>
+      <description>Free, open-source no-code web data extraction platform. Build custom robots to automate data scraping [In Beta]</description>
+    </item>
+    <item>
+      <title>kamranahmedse /developer-roadmap</title>
+      <link>https://www.github.com/kamranahmedse/developer-roadmap</link>
+      <description>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</description>
+    </item>
+    <item>
+      <title>tiann /KernelSU</title>
+      <link>https://www.github.com/tiann/KernelSU</link>
+      <description>A Kernel based root solution for Android</description>
+    </item>
+    <item>
+      <title>daytonaio /daytona</title>
+      <link>https://www.github.com/daytonaio/daytona</link>
+      <description>The Open Source Dev Environment Manager.</description>
+    </item>
+    <item>
+      <title>meta-llama /llama-stack</title>
+      <link>https://www.github.com/meta-llama/llama-stack</link>
+      <description>Model components of the Llama Stack APIs</description>
+    </item>
+  </channel>
+</rss>
