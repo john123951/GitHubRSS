@@ -2,10 +2,30 @@
 # -*- coding: utf-8 -*-
 
 import json
+import re
 from typing import List, Dict
 
 from crawl4ai import AsyncWebCrawler
 from crawl4ai.extraction_strategy import JsonCssExtractionStrategy
+
+num_regex = re.compile(r'(\d+)')
+
+
+def clean_data(item: Dict) -> Dict:
+    if not item:
+        return item
+
+    if item['projectName']:
+        item['projectName'] = item['projectName'].replace(' ', '') if item['projectName'] else None
+
+    if item['todayStars']:
+        today_stars: str = item['todayStars']
+        match = num_regex.match(today_stars)
+        if match:
+            today_stars = match.group(1)
+        item['todayStars'] = today_stars
+
+    return item
 
 
 async def github_trending_crawler(proxy=None, verbose=True) -> List[Dict]:
@@ -65,6 +85,8 @@ async def github_trending_crawler(proxy=None, verbose=True) -> List[Dict]:
         assert result.success, "Failed to crawl the page"
 
         projects = json.loads(result.extracted_content)
+        projects = [clean_data(p) for p in projects]
+
         print(f"Successfully extracted {len(projects)} github trending")
         print(json.dumps(projects, indent=2, ensure_ascii=False))
 

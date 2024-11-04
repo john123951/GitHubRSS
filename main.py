@@ -32,7 +32,7 @@ def trending_daily_scheduler():
     # save json
     json_save_path = os.path.join(save_folder, f'{today}-trending.json')
     with open(json_save_path, 'w', encoding='utf-8') as file:
-        file.write(json.dumps(trending_list, ensure_ascii=False))
+        file.write(json.dumps(trending_list, indent=2, ensure_ascii=False))
 
     pass
 
