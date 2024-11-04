@@ -17,7 +17,7 @@ def trending_daily_scheduler():
     formatted_date = current_date.strftime('%Y%m%d')
 
     # save rss
-    save_path = f'{formatted_date}-trending.xml'
+    save_path = f'./data/{formatted_date}-trending.xml'
     with open(save_path, 'w+', encoding='utf-8') as file:
         file.write(trending_rss)
         file.flush()
