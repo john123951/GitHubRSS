@@ -27,6 +27,7 @@ jobs:
           python-version: "3.12"
       - name: Install dependencies
         run: |
+          pip install --upgrade pip poetry
           poetry install
       - name: Run
         run: |
