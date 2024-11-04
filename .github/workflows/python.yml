@@ -58,25 +58,23 @@ jobs:
           name: trending-data
           path: /tmp/data
 
+      - name: Clone website branch
+        uses: actions/checkout@v4
+        with:
+          ref: 'website'
+
+      - name: Copy data to website
+        run: |
+          cp -r /tmp/data/* ./data/
+
       - name: Set up Git
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-      - name: Clone website branch
-        run: |
-          git clone --branch website https://github.com/${{ github.repository }}.git website
-
-      - name: Copy data to website
-        run: |
-          mkdir -p website/data
-          cp -r /tmp/data/* website/data/
-
       - name: Commit and push changes
         run: |
-          cd website
-          git add .
+          git add -A
           git commit -m "Update data"
-          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git website
-
+          git push 
 
