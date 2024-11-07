@@ -1,0 +1,137 @@
+[
+  {
+    "projectName": "DS4SD/docling",
+    "desc": "Get your documents ready for gen AI",
+    "language": "Python",
+    "stars": "6,395",
+    "todayStars": "871",
+    "forks": "310",
+    "link": "/DS4SD/docling"
+  },
+  {
+    "projectName": "django/django",
+    "desc": "The Web framework for perfectionists with deadlines.",
+    "language": "Python",
+    "stars": "80,552",
+    "todayStars": "457",
+    "forks": "31,780",
+    "link": "/django/django"
+  },
+  {
+    "projectName": "godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "language": "C++",
+    "stars": "90,900",
+    "todayStars": "52",
+    "forks": "21,144",
+    "link": "/godotengine/godot"
+  },
+  {
+    "projectName": "kamranahmedse/developer-roadmap",
+    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "language": "TypeScript",
+    "stars": "296,748",
+    "todayStars": "342",
+    "forks": "39,102",
+    "link": "/kamranahmedse/developer-roadmap"
+  },
+  {
+    "projectName": "llvm/llvm-project",
+    "desc": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+    "language": "LLVM",
+    "stars": "28,945",
+    "todayStars": "44",
+    "forks": "11,938",
+    "link": "/llvm/llvm-project"
+  },
+  {
+    "projectName": "localsend/localsend",
+    "desc": "An open-source cross-platform alternative to AirDrop",
+    "language": "Dart",
+    "stars": "51,206",
+    "todayStars": "175",
+    "forks": "2,735",
+    "link": "/localsend/localsend"
+  },
+  {
+    "projectName": "iterative/datachain",
+    "desc": "AI-data warehouse to enrich, transform and analyze unstructured data",
+    "language": "Python",
+    "stars": "1,695",
+    "todayStars": "228",
+    "forks": "76",
+    "link": "/iterative/datachain"
+  },
+  {
+    "projectName": "Shpota/github-activity-generator",
+    "desc": "A script that helps generate a rich GitHub Contribution Graph for your account 🤖",
+    "language": "Python",
+    "stars": "1,755",
+    "todayStars": "161",
+    "forks": "138",
+    "link": "/Shpota/github-activity-generator"
+  },
+  {
+    "projectName": "haydenbleasel/next-forge",
+    "desc": "Production-grade Turborepo template for Next.js apps.",
+    "language": "TypeScript",
+    "stars": "1,791",
+    "todayStars": "147",
+    "forks": "123",
+    "link": "/haydenbleasel/next-forge"
+  },
+  {
+    "projectName": "twbs/bootstrap",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "language": "JavaScript",
+    "stars": "170,640",
+    "todayStars": "20",
+    "forks": "78,858",
+    "link": "/twbs/bootstrap"
+  },
+  {
+    "projectName": "teableio/teable",
+    "desc": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+    "language": "TypeScript",
+    "stars": "12,856",
+    "todayStars": "264",
+    "forks": "573",
+    "link": "/teableio/teable"
+  },
+  {
+    "projectName": "Stirling-Tools/Stirling-PDF",
+    "desc": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+    "language": "Java",
+    "stars": "45,280",
+    "todayStars": "82",
+    "forks": "3,680",
+    "link": "/Stirling-Tools/Stirling-PDF"
+  },
+  {
+    "projectName": "twentyhq/twenty",
+    "desc": "Building a modern alternative to Salesforce, powered by the community.",
+    "language": "TypeScript",
+    "stars": "19,947",
+    "todayStars": "278",
+    "forks": "2,212",
+    "link": "/twentyhq/twenty"
+  },
+  {
+    "projectName": "All-Hands-AI/OpenHands",
+    "desc": "🙌 OpenHands: Code Less, Make More",
+    "language": "Python",
+    "stars": "34,653",
+    "todayStars": "207",
+    "forks": "3,914",
+    "link": "/All-Hands-AI/OpenHands"
+  },
+  {
+    "projectName": "zmh-program/chatnio",
+    "desc": "🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
+    "language": "TypeScript",
+    "stars": "5,453",
+    "todayStars": "391",
+    "forks": "743",
+    "link": "/zmh-program/chatnio"
+  }
+]

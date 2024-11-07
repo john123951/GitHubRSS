@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Thu, 07 Nov 2024 08:34:26 +0000</lastBuildDate>
+    <item>
+      <title>zmh-program/chatnio</title>
+      <link>https://www.github.com/zmh-program/chatnio</link>
+      <description>🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。</description>
+    </item>
+    <item>
+      <title>All-Hands-AI/OpenHands</title>
+      <link>https://www.github.com/All-Hands-AI/OpenHands</link>
+      <description>🙌 OpenHands: Code Less, Make More</description>
+    </item>
+    <item>
+      <title>twentyhq/twenty</title>
+      <link>https://www.github.com/twentyhq/twenty</link>
+      <description>Building a modern alternative to Salesforce, powered by the community.</description>
+    </item>
+    <item>
+      <title>Stirling-Tools/Stirling-PDF</title>
+      <link>https://www.github.com/Stirling-Tools/Stirling-PDF</link>
+      <description>#1 Locally hosted web application that allows you to perform various operations on PDF files</description>
+    </item>
+    <item>
+      <title>teableio/teable</title>
+      <link>https://www.github.com/teableio/teable</link>
+      <description>✨ The Next Gen Airtable Alternative: No-Code Postgres</description>
+    </item>
+    <item>
+      <title>twbs/bootstrap</title>
+      <link>https://www.github.com/twbs/bootstrap</link>
+      <description>The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.</description>
+    </item>
+    <item>
+      <title>haydenbleasel/next-forge</title>
+      <link>https://www.github.com/haydenbleasel/next-forge</link>
+      <description>Production-grade Turborepo template for Next.js apps.</description>
+    </item>
+    <item>
+      <title>Shpota/github-activity-generator</title>
+      <link>https://www.github.com/Shpota/github-activity-generator</link>
+      <description>A script that helps generate a rich GitHub Contribution Graph for your account 🤖</description>
+    </item>
+    <item>
+      <title>iterative/datachain</title>
+      <link>https://www.github.com/iterative/datachain</link>
+      <description>AI-data warehouse to enrich, transform and analyze unstructured data</description>
+    </item>
+    <item>
+      <title>localsend/localsend</title>
+      <link>https://www.github.com/localsend/localsend</link>
+      <description>An open-source cross-platform alternative to AirDrop</description>
+    </item>
+    <item>
+      <title>llvm/llvm-project</title>
+      <link>https://www.github.com/llvm/llvm-project</link>
+      <description>The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.</description>
+    </item>
+    <item>
+      <title>kamranahmedse/developer-roadmap</title>
+      <link>https://www.github.com/kamranahmedse/developer-roadmap</link>
+      <description>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</description>
+    </item>
+    <item>
+      <title>godotengine/godot</title>
+      <link>https://www.github.com/godotengine/godot</link>
+      <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
+    </item>
+    <item>
+      <title>django/django</title>
+      <link>https://www.github.com/django/django</link>
+      <description>The Web framework for perfectionists with deadlines.</description>
+    </item>
+    <item>
+      <title>DS4SD/docling</title>
+      <link>https://www.github.com/DS4SD/docling</link>
+      <description>Get your documents ready for gen AI</description>
+    </item>
+  </channel>
+</rss>
