@@ -1,0 +1,99 @@
+[
+  {
+    "projectName": "django/django",
+    "desc": "The Web framework for perfectionists with deadlines.",
+    "language": "Python",
+    "stars": "80,719",
+    "todayStars": "228",
+    "forks": "31,791",
+    "link": "/django/django"
+  },
+  {
+    "projectName": "All-Hands-AI/OpenHands",
+    "desc": "🙌 OpenHands: Code Less, Make More",
+    "language": "Python",
+    "stars": "34,943",
+    "todayStars": "508",
+    "forks": "3,935",
+    "link": "/All-Hands-AI/OpenHands"
+  },
+  {
+    "projectName": "immich-app/immich",
+    "desc": "High performance self-hosted photo and video management solution.",
+    "language": "TypeScript",
+    "stars": "50,878",
+    "todayStars": "211",
+    "forks": "2,691",
+    "link": "/immich-app/immich"
+  },
+  {
+    "projectName": "twbs/bootstrap",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "language": "JavaScript",
+    "stars": "170,739",
+    "todayStars": "116",
+    "forks": "78,856",
+    "link": "/twbs/bootstrap"
+  },
+  {
+    "projectName": "danielmiessler/fabric",
+    "desc": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "language": "Go",
+    "stars": "24,879",
+    "todayStars": "85",
+    "forks": "2,641",
+    "link": "/danielmiessler/fabric"
+  },
+  {
+    "projectName": "grafana/grafana",
+    "desc": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "language": "TypeScript",
+    "stars": "64,906",
+    "todayStars": "35",
+    "forks": "12,115",
+    "link": "/grafana/grafana"
+  },
+  {
+    "projectName": "ml-tooling/best-of-ml-python",
+    "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "stars": "17,690",
+    "todayStars": "115",
+    "forks": "2,482",
+    "link": "/ml-tooling/best-of-ml-python"
+  },
+  {
+    "projectName": "zmh-program/chatnio",
+    "desc": "🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
+    "language": "TypeScript",
+    "stars": "5,979",
+    "todayStars": "1",
+    "forks": "791",
+    "link": "/zmh-program/chatnio"
+  },
+  {
+    "projectName": "zyronon/douyin",
+    "desc": "Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile",
+    "language": "Vue",
+    "stars": "9,552",
+    "todayStars": "34",
+    "forks": "2,606",
+    "link": "/zyronon/douyin"
+  },
+  {
+    "projectName": "LibraHp/GetQzonehistory",
+    "desc": "获取QQ空间发布的历史说说",
+    "language": "Python",
+    "stars": "2,208",
+    "todayStars": "385",
+    "forks": "191",
+    "link": "/LibraHp/GetQzonehistory"
+  },
+  {
+    "projectName": "DataExpert-io/data-engineer-handbook",
+    "desc": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "stars": "11,851",
+    "todayStars": "139",
+    "forks": "1,635",
+    "link": "/DataExpert-io/data-engineer-handbook"
+  }
+]
