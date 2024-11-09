@@ -1,0 +1,137 @@
+[
+  {
+    "projectName": "immich-app/immich",
+    "desc": "High performance self-hosted photo and video management solution.",
+    "language": "TypeScript",
+    "stars": "51,105",
+    "todayStars": "355",
+    "forks": "2,699",
+    "link": "/immich-app/immich"
+  },
+  {
+    "projectName": "Azure-Samples/cognitive-services-speech-sdk",
+    "desc": "Sample code for the Microsoft Cognitive Services Speech SDK",
+    "language": "C#",
+    "stars": "2,931",
+    "todayStars": "2",
+    "forks": "1,854",
+    "link": "/Azure-Samples/cognitive-services-speech-sdk"
+  },
+  {
+    "projectName": "psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "language": "Python",
+    "stars": "39,035",
+    "todayStars": "17",
+    "forks": "2,464",
+    "link": "/psf/black"
+  },
+  {
+    "projectName": "vectordotdev/vector",
+    "desc": "A high-performance observability data pipeline.",
+    "language": "Rust",
+    "stars": "18,000",
+    "todayStars": "19",
+    "forks": "1,588",
+    "link": "/vectordotdev/vector"
+  },
+  {
+    "projectName": "puppeteer/puppeteer",
+    "desc": "JavaScript API for Chrome and Firefox",
+    "language": "TypeScript",
+    "stars": "88,788",
+    "todayStars": "12",
+    "forks": "9,074",
+    "link": "/puppeteer/puppeteer"
+  },
+  {
+    "projectName": "Stirling-Tools/Stirling-PDF",
+    "desc": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+    "language": "Java",
+    "stars": "45,639",
+    "todayStars": "155",
+    "forks": "3,711",
+    "link": "/Stirling-Tools/Stirling-PDF"
+  },
+  {
+    "projectName": "All-Hands-AI/OpenHands",
+    "desc": "🙌 OpenHands: Code Less, Make More",
+    "language": "Python",
+    "stars": "35,170",
+    "todayStars": "303",
+    "forks": "3,966",
+    "link": "/All-Hands-AI/OpenHands"
+  },
+  {
+    "projectName": "louislam/uptime-kuma",
+    "desc": "A fancy self-hosted monitoring tool",
+    "language": "JavaScript",
+    "stars": "59,398",
+    "todayStars": "284",
+    "forks": "5,314",
+    "link": "/louislam/uptime-kuma"
+  },
+  {
+    "projectName": "webpack/webpack",
+    "desc": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "language": "JavaScript",
+    "stars": "64,744",
+    "todayStars": "7",
+    "forks": "8,823",
+    "link": "/webpack/webpack"
+  },
+  {
+    "projectName": "twbs/bootstrap",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "language": "JavaScript",
+    "stars": "170,833",
+    "todayStars": "111",
+    "forks": "78,865",
+    "link": "/twbs/bootstrap"
+  },
+  {
+    "projectName": "khoj-ai/khoj",
+    "desc": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, gemini, llama, qwen, mistral).",
+    "language": "Python",
+    "stars": "13,766",
+    "todayStars": "201",
+    "forks": "696",
+    "link": "/khoj-ai/khoj"
+  },
+  {
+    "projectName": "dataease/dataease",
+    "desc": "🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。",
+    "language": "Java",
+    "stars": "17,951",
+    "todayStars": "21",
+    "forks": "3,269",
+    "link": "/dataease/dataease"
+  },
+  {
+    "projectName": "LibraHp/GetQzonehistory",
+    "desc": "获取QQ空间发布的历史说说",
+    "language": "Python",
+    "stars": "2,390",
+    "todayStars": "303",
+    "forks": "197",
+    "link": "/LibraHp/GetQzonehistory"
+  },
+  {
+    "projectName": "Shpota/github-activity-generator",
+    "desc": "A script that helps generate a rich GitHub Contribution Graph for your account 🤖",
+    "language": "Python",
+    "stars": "2,146",
+    "todayStars": "181",
+    "forks": "166",
+    "link": "/Shpota/github-activity-generator"
+  },
+  {
+    "projectName": "zmh-program/chatnio",
+    "desc": "🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
+    "language": "TypeScript",
+    "stars": "6,237",
+    "todayStars": "404",
+    "forks": "813",
+    "link": "/zmh-program/chatnio"
+  }
+]
