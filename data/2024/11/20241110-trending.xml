@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Sun, 10 Nov 2024 08:32:34 +0000</lastBuildDate>
+    <item>
+      <title>PrefectHQ/prefect</title>
+      <link>https://www.github.com/PrefectHQ/prefect</link>
+      <description>Prefect is a workflow orchestration framework for building resilient data pipelines in Python.</description>
+    </item>
+    <item>
+      <title>infinition/Bjorn</title>
+      <link>https://www.github.com/infinition/Bjorn</link>
+      <description>Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.</description>
+    </item>
+    <item>
+      <title>immich-app/immich</title>
+      <link>https://www.github.com/immich-app/immich</link>
+      <description>High performance self-hosted photo and video management solution.</description>
+    </item>
+    <item>
+      <title>payloadcms/payload</title>
+      <link>https://www.github.com/payloadcms/payload</link>
+      <description>Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.</description>
+    </item>
+    <item>
+      <title>THUDM/CogVideo</title>
+      <link>https://www.github.com/THUDM/CogVideo</link>
+      <description>text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)</description>
+    </item>
+    <item>
+      <title>LibraHp/GetQzonehistory</title>
+      <link>https://www.github.com/LibraHp/GetQzonehistory</link>
+      <description>获取QQ空间发布的历史说说</description>
+    </item>
+    <item>
+      <title>AlexxIT/go2rtc</title>
+      <link>https://www.github.com/AlexxIT/go2rtc</link>
+      <description>Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.</description>
+    </item>
+    <item>
+      <title>psf/black</title>
+      <link>https://www.github.com/psf/black</link>
+      <description>The uncompromising Python code formatter</description>
+    </item>
+    <item>
+      <title>yuliskov/SmartTube</title>
+      <link>https://www.github.com/yuliskov/SmartTube</link>
+      <description>SmartTube - an advanced player for set-top boxes and tvs running Android OS</description>
+    </item>
+    <item>
+      <title>dromara/Sa-Token</title>
+      <link>https://www.github.com/dromara/Sa-Token</link>
+      <description>一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0</description>
+    </item>
+    <item>
+      <title>danielmiessler/fabric</title>
+      <link>https://www.github.com/danielmiessler/fabric</link>
+      <description>fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</description>
+    </item>
+  </channel>
+</rss>

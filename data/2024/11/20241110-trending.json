@@ -1,0 +1,101 @@
+[
+  {
+    "projectName": "danielmiessler/fabric",
+    "desc": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "language": "Go",
+    "stars": "25,074",
+    "todayStars": "67",
+    "forks": "2,659",
+    "link": "/danielmiessler/fabric"
+  },
+  {
+    "projectName": "dromara/Sa-Token",
+    "desc": "一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0",
+    "language": "Java",
+    "stars": "16,447",
+    "todayStars": "17",
+    "forks": "2,596",
+    "link": "/dromara/Sa-Token"
+  },
+  {
+    "projectName": "yuliskov/SmartTube",
+    "desc": "SmartTube - an advanced player for set-top boxes and tvs running Android OS",
+    "language": "Java",
+    "stars": "19,778",
+    "todayStars": "53",
+    "forks": "1,072",
+    "link": "/yuliskov/SmartTube"
+  },
+  {
+    "projectName": "psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "language": "Python",
+    "stars": "39,107",
+    "todayStars": "108",
+    "forks": "2,469",
+    "link": "/psf/black"
+  },
+  {
+    "projectName": "AlexxIT/go2rtc",
+    "desc": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+    "language": "Go",
+    "stars": "5,594",
+    "todayStars": "130",
+    "forks": "422",
+    "link": "/AlexxIT/go2rtc"
+  },
+  {
+    "projectName": "LibraHp/GetQzonehistory",
+    "desc": "获取QQ空间发布的历史说说",
+    "language": "Python",
+    "stars": "2,633",
+    "todayStars": "179",
+    "forks": "211",
+    "link": "/LibraHp/GetQzonehistory"
+  },
+  {
+    "projectName": "THUDM/CogVideo",
+    "desc": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+    "language": "Python",
+    "stars": "8,752",
+    "todayStars": "72",
+    "forks": "835",
+    "link": "/THUDM/CogVideo"
+  },
+  {
+    "projectName": "payloadcms/payload",
+    "desc": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
+    "language": "TypeScript",
+    "stars": "25,372",
+    "todayStars": "78",
+    "forks": "1,615",
+    "link": "/payloadcms/payload"
+  },
+  {
+    "projectName": "immich-app/immich",
+    "desc": "High performance self-hosted photo and video management solution.",
+    "language": "TypeScript",
+    "stars": "51,333",
+    "todayStars": "230",
+    "forks": "2,718",
+    "link": "/immich-app/immich"
+  },
+  {
+    "projectName": "infinition/Bjorn",
+    "desc": "Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.",
+    "language": "Python",
+    "stars": "681",
+    "todayStars": "42",
+    "forks": "23",
+    "link": "/infinition/Bjorn"
+  },
+  {
+    "projectName": "PrefectHQ/prefect",
+    "desc": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+    "language": "Python",
+    "stars": "16,903",
+    "todayStars": "37",
+    "forks": "1,616",
+    "link": "/PrefectHQ/prefect"
+  }
+]
