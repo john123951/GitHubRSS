@@ -1,0 +1,137 @@
+[
+  {
+    "projectName": "adityatelange/hugo-PaperMod",
+    "desc": "A fast, clean, responsive Hugo theme.",
+    "language": "HTML",
+    "stars": "10,068",
+    "todayStars": "17",
+    "forks": "2,709",
+    "link": "/adityatelange/hugo-PaperMod"
+  },
+  {
+    "projectName": "microsoft/autogen",
+    "desc": "A programming framework for agentic AI 🤖",
+    "language": "Jupyter Notebook",
+    "stars": "33,298",
+    "todayStars": "88",
+    "forks": "4,828",
+    "link": "/microsoft/autogen"
+  },
+  {
+    "projectName": "AlexxIT/go2rtc",
+    "desc": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+    "language": "Go",
+    "stars": "5,982",
+    "todayStars": "297",
+    "forks": "443",
+    "link": "/AlexxIT/go2rtc"
+  },
+  {
+    "projectName": "khoj-ai/khoj",
+    "desc": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, gemini, llama, qwen, mistral).",
+    "language": "Python",
+    "stars": "14,298",
+    "todayStars": "117",
+    "forks": "709",
+    "link": "/khoj-ai/khoj"
+  },
+  {
+    "projectName": "pr3y/Bruce",
+    "desc": "Predatory ESP32 Firmware",
+    "language": "C",
+    "stars": "756",
+    "todayStars": "17",
+    "forks": "94",
+    "link": "/pr3y/Bruce"
+  },
+  {
+    "projectName": "letta-ai/letta",
+    "desc": "Letta (formerly MemGPT) is a framework for creating LLM services with memory.",
+    "language": "Python",
+    "stars": "12,474",
+    "todayStars": "59",
+    "forks": "1,364",
+    "link": "/letta-ai/letta"
+  },
+  {
+    "projectName": "harry0703/MoneyPrinterTurbo",
+    "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "stars": "17,326",
+    "todayStars": "163",
+    "forks": "2,714",
+    "link": "/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "projectName": "actualbudget/actual",
+    "desc": "A local-first personal finance app",
+    "language": "TypeScript",
+    "stars": "15,311",
+    "todayStars": "214",
+    "forks": "1,193",
+    "link": "/actualbudget/actual"
+  },
+  {
+    "projectName": "THUDM/CogVideo",
+    "desc": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+    "language": "Python",
+    "stars": "8,927",
+    "todayStars": "162",
+    "forks": "845",
+    "link": "/THUDM/CogVideo"
+  },
+  {
+    "projectName": "PrefectHQ/prefect",
+    "desc": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+    "language": "Python",
+    "stars": "17,129",
+    "todayStars": "530",
+    "forks": "1,627",
+    "link": "/PrefectHQ/prefect"
+  },
+  {
+    "projectName": "dataease/dataease",
+    "desc": "🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。",
+    "language": "Java",
+    "stars": "18,092",
+    "todayStars": "30",
+    "forks": "3,276",
+    "link": "/dataease/dataease"
+  },
+  {
+    "projectName": "exo-explore/exo",
+    "desc": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+    "language": "Python",
+    "stars": "11,935",
+    "todayStars": "407",
+    "forks": "687",
+    "link": "/exo-explore/exo"
+  },
+  {
+    "projectName": "AmruthPillai/Reactive-Resume",
+    "desc": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "language": "TypeScript",
+    "stars": "24,537",
+    "todayStars": "386",
+    "forks": "2,553",
+    "link": "/AmruthPillai/Reactive-Resume"
+  },
+  {
+    "projectName": "vercel/ai-chatbot",
+    "desc": "A full-featured, hackable Next.js AI chatbot built by Vercel",
+    "language": "TypeScript",
+    "stars": "7,761",
+    "todayStars": "75",
+    "forks": "2,236",
+    "link": "/vercel/ai-chatbot"
+  },
+  {
+    "projectName": "dockur/windows",
+    "desc": "Windows inside a Docker container.",
+    "language": "Shell",
+    "stars": "22,442",
+    "todayStars": "1",
+    "forks": "1,727",
+    "link": "/dockur/windows"
+  }
+]
