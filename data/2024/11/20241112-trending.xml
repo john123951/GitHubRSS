@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Tue, 12 Nov 2024 08:35:07 +0000</lastBuildDate>
+    <item>
+      <title>dockur/windows</title>
+      <link>https://www.github.com/dockur/windows</link>
+      <description>Windows inside a Docker container.</description>
+    </item>
+    <item>
+      <title>vercel/ai-chatbot</title>
+      <link>https://www.github.com/vercel/ai-chatbot</link>
+      <description>A full-featured, hackable Next.js AI chatbot built by Vercel</description>
+    </item>
+    <item>
+      <title>exo-explore/exo</title>
+      <link>https://www.github.com/exo-explore/exo</link>
+      <description>Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚</description>
+    </item>
+    <item>
+      <title>PrefectHQ/prefect</title>
+      <link>https://www.github.com/PrefectHQ/prefect</link>
+      <description>Prefect is a workflow orchestration framework for building resilient data pipelines in Python.</description>
+    </item>
+    <item>
+      <title>hacksider/Deep-Live-Cam</title>
+      <link>https://www.github.com/hacksider/Deep-Live-Cam</link>
+      <description>real time face swap and one-click video deepfake with only a single image</description>
+    </item>
+    <item>
+      <title>microsoft/autogen</title>
+      <link>https://www.github.com/microsoft/autogen</link>
+      <description>A programming framework for agentic AI 🤖</description>
+    </item>
+    <item>
+      <title>AlexxIT/go2rtc</title>
+      <link>https://www.github.com/AlexxIT/go2rtc</link>
+      <description>Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.</description>
+    </item>
+    <item>
+      <title>harry0703/MoneyPrinterTurbo</title>
+      <link>https://www.github.com/harry0703/MoneyPrinterTurbo</link>
+      <description>利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.</description>
+    </item>
+    <item>
+      <title>LibraHp/GetQzonehistory</title>
+      <link>https://www.github.com/LibraHp/GetQzonehistory</link>
+      <description>获取QQ空间发布的历史说说</description>
+    </item>
+    <item>
+      <title>AmruthPillai/Reactive-Resume</title>
+      <link>https://www.github.com/AmruthPillai/Reactive-Resume</link>
+      <description>A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!</description>
+    </item>
+    <item>
+      <title>mudler/LocalAI</title>
+      <link>https://www.github.com/mudler/LocalAI</link>
+      <description>🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</description>
+    </item>
+    <item>
+      <title>DataExpert-io/data-engineer-handbook</title>
+      <link>https://www.github.com/DataExpert-io/data-engineer-handbook</link>
+      <description>This is a repo with links to everything you'd ever want to learn about data engineering</description>
+    </item>
+    <item>
+      <title>adityatelange/hugo-PaperMod</title>
+      <link>https://www.github.com/adityatelange/hugo-PaperMod</link>
+      <description>A fast, clean, responsive Hugo theme.</description>
+    </item>
+    <item>
+      <title>infinition/Bjorn</title>
+      <link>https://www.github.com/infinition/Bjorn</link>
+      <description>Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.</description>
+    </item>
+  </channel>
+</rss>

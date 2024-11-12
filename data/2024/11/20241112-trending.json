@@ -1,0 +1,127 @@
+[
+  {
+    "projectName": "infinition/Bjorn",
+    "desc": "Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.",
+    "language": "Python",
+    "stars": "1,501",
+    "todayStars": "391",
+    "forks": "45",
+    "link": "/infinition/Bjorn"
+  },
+  {
+    "projectName": "adityatelange/hugo-PaperMod",
+    "desc": "A fast, clean, responsive Hugo theme.",
+    "language": "HTML",
+    "stars": "10,171",
+    "todayStars": "124",
+    "forks": "2,713",
+    "link": "/adityatelange/hugo-PaperMod"
+  },
+  {
+    "projectName": "DataExpert-io/data-engineer-handbook",
+    "desc": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "stars": "12,494",
+    "todayStars": "125",
+    "forks": "1,730",
+    "link": "/DataExpert-io/data-engineer-handbook"
+  },
+  {
+    "projectName": "mudler/LocalAI",
+    "desc": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "language": "C++",
+    "stars": "25,017",
+    "todayStars": "215",
+    "forks": "1,901",
+    "link": "/mudler/LocalAI"
+  },
+  {
+    "projectName": "AmruthPillai/Reactive-Resume",
+    "desc": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "language": "TypeScript",
+    "stars": "24,946",
+    "todayStars": "560",
+    "forks": "2,580",
+    "link": "/AmruthPillai/Reactive-Resume"
+  },
+  {
+    "projectName": "LibraHp/GetQzonehistory",
+    "desc": "获取QQ空间发布的历史说说",
+    "language": "Python",
+    "stars": "3,334",
+    "todayStars": "466",
+    "forks": "262",
+    "link": "/LibraHp/GetQzonehistory"
+  },
+  {
+    "projectName": "harry0703/MoneyPrinterTurbo",
+    "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "stars": "17,592",
+    "todayStars": "261",
+    "forks": "2,744",
+    "link": "/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "projectName": "AlexxIT/go2rtc",
+    "desc": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+    "language": "Go",
+    "stars": "6,273",
+    "todayStars": "394",
+    "forks": "459",
+    "link": "/AlexxIT/go2rtc"
+  },
+  {
+    "projectName": "microsoft/autogen",
+    "desc": "A programming framework for agentic AI 🤖",
+    "language": "Jupyter Notebook",
+    "stars": "33,506",
+    "todayStars": "258",
+    "forks": "4,850",
+    "link": "/microsoft/autogen"
+  },
+  {
+    "projectName": "hacksider/Deep-Live-Cam",
+    "desc": "real time face swap and one-click video deepfake with only a single image",
+    "language": "Python",
+    "stars": "40,219",
+    "todayStars": "137",
+    "forks": "5,881",
+    "link": "/hacksider/Deep-Live-Cam"
+  },
+  {
+    "projectName": "PrefectHQ/prefect",
+    "desc": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+    "language": "Python",
+    "stars": "17,287",
+    "todayStars": "197",
+    "forks": "1,634",
+    "link": "/PrefectHQ/prefect"
+  },
+  {
+    "projectName": "exo-explore/exo",
+    "desc": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+    "language": "Python",
+    "stars": "12,404",
+    "todayStars": "482",
+    "forks": "704",
+    "link": "/exo-explore/exo"
+  },
+  {
+    "projectName": "vercel/ai-chatbot",
+    "desc": "A full-featured, hackable Next.js AI chatbot built by Vercel",
+    "language": "TypeScript",
+    "stars": "8,758",
+    "todayStars": "1",
+    "forks": "2,326",
+    "link": "/vercel/ai-chatbot"
+  },
+  {
+    "projectName": "dockur/windows",
+    "desc": "Windows inside a Docker container.",
+    "language": "Shell",
+    "stars": "25,301",
+    "todayStars": "2",
+    "forks": "1,830",
+    "link": "/dockur/windows"
+  }
+]
