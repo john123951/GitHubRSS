@@ -1,0 +1,164 @@
+[
+  {
+    "projectName": "QwenLM/Qwen2.5-Coder",
+    "desc": "Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.",
+    "language": "Python",
+    "stars": "2,198",
+    "todayStars": "487",
+    "forks": "145",
+    "link": "/QwenLM/Qwen2.5-Coder"
+  },
+  {
+    "projectName": "spack/spack",
+    "desc": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+    "language": "Python",
+    "stars": "4,382",
+    "todayStars": "6",
+    "forks": "2,282",
+    "link": "/spack/spack"
+  },
+  {
+    "projectName": "toss/es-toolkit",
+    "desc": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+    "language": "TypeScript",
+    "stars": "6,976",
+    "todayStars": "37",
+    "forks": "321",
+    "link": "/toss/es-toolkit"
+  },
+  {
+    "projectName": "blacklanternsecurity/bbot",
+    "desc": "A recursive internet scanner for hackers.",
+    "language": "Python",
+    "stars": "5,083",
+    "todayStars": "29",
+    "forks": "445",
+    "link": "/blacklanternsecurity/bbot"
+  },
+  {
+    "projectName": "primefaces/primeng",
+    "desc": "The Most Complete Angular UI Component Library",
+    "language": "CSS",
+    "stars": "10,540",
+    "todayStars": "9",
+    "forks": "4,606",
+    "link": "/primefaces/primeng"
+  },
+  {
+    "projectName": "motiondivision/motion",
+    "desc": "A modern animation library for React and JavaScript",
+    "language": "TypeScript",
+    "stars": "24,511",
+    "todayStars": "141",
+    "forks": "822",
+    "link": "/motiondivision/motion"
+  },
+  {
+    "projectName": "Huanshere/VideoLingo",
+    "desc": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+    "language": "Python",
+    "stars": "6,249",
+    "todayStars": "393",
+    "forks": "632",
+    "link": "/Huanshere/VideoLingo"
+  },
+  {
+    "projectName": "Cinnamon/kotaemon",
+    "desc": "An open-source RAG-based tool for chatting with your documents.",
+    "language": "Python",
+    "stars": "17,173",
+    "todayStars": "124",
+    "forks": "1,324",
+    "link": "/Cinnamon/kotaemon"
+  },
+  {
+    "projectName": "nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "stars": "80,334",
+    "todayStars": "116",
+    "forks": "8,025",
+    "link": "/nvm-sh/nvm"
+  },
+  {
+    "projectName": "Guovin/TV",
+    "desc": "📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool",
+    "language": "Python",
+    "stars": "5,507",
+    "todayStars": "212",
+    "forks": "1,223",
+    "link": "/Guovin/TV"
+  },
+  {
+    "projectName": "dotnet/runtime",
+    "desc": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+    "language": "C#",
+    "stars": "15,345",
+    "todayStars": "12",
+    "forks": "4,741",
+    "link": "/dotnet/runtime"
+  },
+  {
+    "projectName": "exo-explore/exo",
+    "desc": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+    "language": "Python",
+    "stars": "14,592",
+    "todayStars": "351",
+    "forks": "780",
+    "link": "/exo-explore/exo"
+  },
+  {
+    "projectName": "microsoft/TinyTroupe",
+    "desc": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
+    "language": "Python",
+    "stars": "2,432",
+    "todayStars": "723",
+    "forks": "137",
+    "link": "/microsoft/TinyTroupe"
+  },
+  {
+    "projectName": "ai16z/eliza",
+    "desc": "Conversational Agent for Twitter and Discord",
+    "language": "TypeScript",
+    "stars": "913",
+    "todayStars": "158",
+    "forks": "257",
+    "link": "/ai16z/eliza"
+  },
+  {
+    "projectName": "yorukot/superfile",
+    "desc": "Pretty fancy and modern terminal file manager",
+    "language": "Go",
+    "stars": "7,257",
+    "todayStars": "116",
+    "forks": "154",
+    "link": "/yorukot/superfile"
+  },
+  {
+    "projectName": "opendatalab/MinerU",
+    "desc": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+    "language": "Python",
+    "stars": "15,355",
+    "todayStars": "455",
+    "forks": "1,118",
+    "link": "/opendatalab/MinerU"
+  },
+  {
+    "projectName": "haydenbleasel/next-forge",
+    "desc": "Production-grade Turborepo template for Next.js apps.",
+    "language": "TypeScript",
+    "stars": "3,291",
+    "todayStars": "159",
+    "forks": "262",
+    "link": "/haydenbleasel/next-forge"
+  },
+  {
+    "projectName": "dockur/macos",
+    "desc": "OSX (macOS) inside a Docker container.",
+    "language": "Python",
+    "stars": "7,117",
+    "todayStars": "2",
+    "forks": "232",
+    "link": "/dockur/macos"
+  }
+]
