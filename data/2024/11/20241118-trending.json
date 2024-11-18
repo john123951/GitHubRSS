@@ -1,0 +1,146 @@
+[
+  {
+    "projectName": "docusealco/docuseal",
+    "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+    "language": "Ruby",
+    "stars": "7,539",
+    "todayStars": "399",
+    "forks": "509",
+    "link": "/docusealco/docuseal"
+  },
+  {
+    "projectName": "xtekky/gpt4free",
+    "desc": "The official gpt4free repository | various collection of powerful language models",
+    "language": "Python",
+    "stars": "61,390",
+    "todayStars": "23",
+    "forks": "13,331",
+    "link": "/xtekky/gpt4free"
+  },
+  {
+    "projectName": "lvgl/lvgl",
+    "desc": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+    "language": "C",
+    "stars": "17,012",
+    "todayStars": "134",
+    "forks": "3,273",
+    "link": "/lvgl/lvgl"
+  },
+  {
+    "projectName": "blacklanternsecurity/bbot",
+    "desc": "A recursive internet scanner for hackers.",
+    "language": "Python",
+    "stars": "5,822",
+    "todayStars": "207",
+    "forks": "470",
+    "link": "/blacklanternsecurity/bbot"
+  },
+  {
+    "projectName": "2dust/v2rayN",
+    "desc": "A GUI client for Windows and Linux, support Xray core and v2fly core and others",
+    "language": "C#",
+    "stars": "69,754",
+    "todayStars": "63",
+    "forks": "11,531",
+    "link": "/2dust/v2rayN"
+  },
+  {
+    "projectName": "freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "language": "Python",
+    "stars": "29,443",
+    "todayStars": "26",
+    "forks": "6,227",
+    "link": "/freqtrade/freqtrade"
+  },
+  {
+    "projectName": "ItzCrazyKns/Perplexica",
+    "desc": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+    "language": "TypeScript",
+    "stars": "15,245",
+    "todayStars": "118",
+    "forks": "1,457",
+    "link": "/ItzCrazyKns/Perplexica"
+  },
+  {
+    "projectName": "epasveer/seer",
+    "desc": "Seer - a gui frontend to gdb",
+    "language": "C++",
+    "stars": "2,811",
+    "todayStars": "71",
+    "forks": "79",
+    "link": "/epasveer/seer"
+  },
+  {
+    "projectName": "AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "language": "Python",
+    "stars": "143,055",
+    "todayStars": "60",
+    "forks": "26,960",
+    "link": "/AUTOMATIC1111/stable-diffusion-webui"
+  },
+  {
+    "projectName": "codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "stars": "311,655",
+    "todayStars": "1",
+    "forks": "28,982",
+    "link": "/codecrafters-io/build-your-own-x"
+  },
+  {
+    "projectName": "tursodatabase/libsql",
+    "desc": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
+    "language": "C",
+    "stars": "11,509",
+    "todayStars": "205",
+    "forks": "286",
+    "link": "/tursodatabase/libsql"
+  },
+  {
+    "projectName": "leaningtech/webvm",
+    "desc": "Virtual Machine for the Web",
+    "language": "Svelte",
+    "stars": "6,557",
+    "todayStars": "443",
+    "forks": "1,279",
+    "link": "/leaningtech/webvm"
+  },
+  {
+    "projectName": "donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "stars": "276,311",
+    "todayStars": "214",
+    "forks": "46,365",
+    "link": "/donnemartin/system-design-primer"
+  },
+  {
+    "projectName": "ai16z/eliza",
+    "desc": "Conversational Agent for Twitter and Discord",
+    "language": "TypeScript",
+    "stars": "1,306",
+    "todayStars": "80",
+    "forks": "345",
+    "link": "/ai16z/eliza"
+  },
+  {
+    "projectName": "GoogleCloudPlatform/generative-ai",
+    "desc": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+    "language": "Jupyter Notebook",
+    "stars": "7,922",
+    "todayStars": "122",
+    "forks": "2,235",
+    "link": "/GoogleCloudPlatform/generative-ai"
+  },
+  {
+    "projectName": "DataExpert-io/data-engineer-handbook",
+    "desc": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "language": "Makefile",
+    "stars": "15,771",
+    "todayStars": "1",
+    "forks": "2,393",
+    "link": "/DataExpert-io/data-engineer-handbook"
+  }
+]

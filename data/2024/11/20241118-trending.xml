@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Mon, 18 Nov 2024 08:40:42 +0000</lastBuildDate>
+    <item>
+      <title>DataExpert-io/data-engineer-handbook</title>
+      <link>https://www.github.com/DataExpert-io/data-engineer-handbook</link>
+      <description>This is a repo with links to everything you'd ever want to learn about data engineering</description>
+    </item>
+    <item>
+      <title>GoogleCloudPlatform/generative-ai</title>
+      <link>https://www.github.com/GoogleCloudPlatform/generative-ai</link>
+      <description>Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI</description>
+    </item>
+    <item>
+      <title>ai16z/eliza</title>
+      <link>https://www.github.com/ai16z/eliza</link>
+      <description>Conversational Agent for Twitter and Discord</description>
+    </item>
+    <item>
+      <title>donnemartin/system-design-primer</title>
+      <link>https://www.github.com/donnemartin/system-design-primer</link>
+      <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
+    </item>
+    <item>
+      <title>leaningtech/webvm</title>
+      <link>https://www.github.com/leaningtech/webvm</link>
+      <description>Virtual Machine for the Web</description>
+    </item>
+    <item>
+      <title>tursodatabase/libsql</title>
+      <link>https://www.github.com/tursodatabase/libsql</link>
+      <description>libSQL is a fork of SQLite that is both Open Source, and Open Contributions.</description>
+    </item>
+    <item>
+      <title>codecrafters-io/build-your-own-x</title>
+      <link>https://www.github.com/codecrafters-io/build-your-own-x</link>
+      <description>Master programming by recreating your favorite technologies from scratch.</description>
+    </item>
+    <item>
+      <title>AUTOMATIC1111/stable-diffusion-webui</title>
+      <link>https://www.github.com/AUTOMATIC1111/stable-diffusion-webui</link>
+      <description>Stable Diffusion web UI</description>
+    </item>
+    <item>
+      <title>epasveer/seer</title>
+      <link>https://www.github.com/epasveer/seer</link>
+      <description>Seer - a gui frontend to gdb</description>
+    </item>
+    <item>
+      <title>ItzCrazyKns/Perplexica</title>
+      <link>https://www.github.com/ItzCrazyKns/Perplexica</link>
+      <description>Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI</description>
+    </item>
+    <item>
+      <title>freqtrade/freqtrade</title>
+      <link>https://www.github.com/freqtrade/freqtrade</link>
+      <description>Free, open source crypto trading bot</description>
+    </item>
+    <item>
+      <title>2dust/v2rayN</title>
+      <link>https://www.github.com/2dust/v2rayN</link>
+      <description>A GUI client for Windows and Linux, support Xray core and v2fly core and others</description>
+    </item>
+    <item>
+      <title>blacklanternsecurity/bbot</title>
+      <link>https://www.github.com/blacklanternsecurity/bbot</link>
+      <description>A recursive internet scanner for hackers.</description>
+    </item>
+    <item>
+      <title>lvgl/lvgl</title>
+      <link>https://www.github.com/lvgl/lvgl</link>
+      <description>Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.</description>
+    </item>
+    <item>
+      <title>xtekky/gpt4free</title>
+      <link>https://www.github.com/xtekky/gpt4free</link>
+      <description>The official gpt4free repository | various collection of powerful language models</description>
+    </item>
+    <item>
+      <title>docusealco/docuseal</title>
+      <link>https://www.github.com/docusealco/docuseal</link>
+      <description>Open source DocuSign alternative. Create, fill, and sign digital documents ✍️</description>
+    </item>
+  </channel>
+</rss>
