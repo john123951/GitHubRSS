@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Tue, 19 Nov 2024 08:39:02 +0000</lastBuildDate>
+    <item>
+      <title>DataExpert-io/data-engineer-handbook</title>
+      <link>https://www.github.com/DataExpert-io/data-engineer-handbook</link>
+      <description>This is a repo with links to everything you'd ever want to learn about data engineering</description>
+    </item>
+    <item>
+      <title>freqtrade/freqtrade</title>
+      <link>https://www.github.com/freqtrade/freqtrade</link>
+      <description>Free, open source crypto trading bot</description>
+    </item>
+    <item>
+      <title>ItzCrazyKns/Perplexica</title>
+      <link>https://www.github.com/ItzCrazyKns/Perplexica</link>
+      <description>Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI</description>
+    </item>
+    <item>
+      <title>xtekky/gpt4free</title>
+      <link>https://www.github.com/xtekky/gpt4free</link>
+      <description>The official gpt4free repository | various collection of powerful language models</description>
+    </item>
+    <item>
+      <title>motiondivision/motion</title>
+      <link>https://www.github.com/motiondivision/motion</link>
+      <description>A modern animation library for React and JavaScript</description>
+    </item>
+    <item>
+      <title>ai16z/eliza</title>
+      <link>https://www.github.com/ai16z/eliza</link>
+      <description>Conversational Agent for Twitter and Discord</description>
+    </item>
+    <item>
+      <title>comfyanonymous/ComfyUI</title>
+      <link>https://www.github.com/comfyanonymous/ComfyUI</link>
+      <description>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.</description>
+    </item>
+    <item>
+      <title>codecrafters-io/build-your-own-x</title>
+      <link>https://www.github.com/codecrafters-io/build-your-own-x</link>
+      <description>Master programming by recreating your favorite technologies from scratch.</description>
+    </item>
+    <item>
+      <title>libsdl-org/SDL</title>
+      <link>https://www.github.com/libsdl-org/SDL</link>
+      <description>Simple Directmedia Layer</description>
+    </item>
+    <item>
+      <title>excalidraw/excalidraw</title>
+      <link>https://www.github.com/excalidraw/excalidraw</link>
+      <description>Virtual whiteboard for sketching hand-drawn like diagrams</description>
+    </item>
+    <item>
+      <title>blacklanternsecurity/bbot</title>
+      <link>https://www.github.com/blacklanternsecurity/bbot</link>
+      <description>A recursive internet scanner for hackers.</description>
+    </item>
+    <item>
+      <title>NVIDIA/garak</title>
+      <link>https://www.github.com/NVIDIA/garak</link>
+      <description>the LLM vulnerability scanner</description>
+    </item>
+    <item>
+      <title>leaningtech/webvm</title>
+      <link>https://www.github.com/leaningtech/webvm</link>
+      <description>Virtual Machine for the Web</description>
+    </item>
+    <item>
+      <title>lvgl/lvgl</title>
+      <link>https://www.github.com/lvgl/lvgl</link>
+      <description>Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.</description>
+    </item>
+    <item>
+      <title>trungdq88/Awesome-Black-Friday-Cyber-Monday</title>
+      <link>https://www.github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday</link>
+      <description>Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.</description>
+    </item>
+    <item>
+      <title>krahets/hello-algo</title>
+      <link>https://www.github.com/krahets/hello-algo</link>
+      <description>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</description>
+    </item>
+    <item>
+      <title>f/awesome-chatgpt-prompts</title>
+      <link>https://www.github.com/f/awesome-chatgpt-prompts</link>
+      <description>This repo includes ChatGPT prompt curation to use ChatGPT better.</description>
+    </item>
+  </channel>
+</rss>

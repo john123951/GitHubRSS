@@ -1,0 +1,154 @@
+[
+  {
+    "projectName": "f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "language": "HTML",
+    "stars": "113,040",
+    "todayStars": "64",
+    "forks": "15,395",
+    "link": "/f/awesome-chatgpt-prompts"
+  },
+  {
+    "projectName": "krahets/hello-algo",
+    "desc": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+    "language": "Java",
+    "stars": "98,904",
+    "todayStars": "112",
+    "forks": "12,482",
+    "link": "/krahets/hello-algo"
+  },
+  {
+    "projectName": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
+    "desc": "Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.",
+    "stars": "4,903",
+    "todayStars": "149",
+    "forks": "967",
+    "link": "/trungdq88/Awesome-Black-Friday-Cyber-Monday"
+  },
+  {
+    "projectName": "lvgl/lvgl",
+    "desc": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+    "language": "C",
+    "stars": "17,169",
+    "todayStars": "159",
+    "forks": "3,277",
+    "link": "/lvgl/lvgl"
+  },
+  {
+    "projectName": "leaningtech/webvm",
+    "desc": "Virtual Machine for the Web",
+    "language": "Svelte",
+    "stars": "7,061",
+    "todayStars": "677",
+    "forks": "1,301",
+    "link": "/leaningtech/webvm"
+  },
+  {
+    "projectName": "NVIDIA/garak",
+    "desc": "the LLM vulnerability scanner",
+    "language": "Python",
+    "stars": "2,362",
+    "todayStars": "419",
+    "forks": "217",
+    "link": "/NVIDIA/garak"
+  },
+  {
+    "projectName": "blacklanternsecurity/bbot",
+    "desc": "A recursive internet scanner for hackers.",
+    "language": "Python",
+    "stars": "6,079",
+    "todayStars": "269",
+    "forks": "480",
+    "link": "/blacklanternsecurity/bbot"
+  },
+  {
+    "projectName": "excalidraw/excalidraw",
+    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "language": "TypeScript",
+    "stars": "85,482",
+    "todayStars": "213",
+    "forks": "8,072",
+    "link": "/excalidraw/excalidraw"
+  },
+  {
+    "projectName": "libsdl-org/SDL",
+    "desc": "Simple Directmedia Layer",
+    "language": "C",
+    "stars": "10,087",
+    "todayStars": "18",
+    "forks": "1,850",
+    "link": "/libsdl-org/SDL"
+  },
+  {
+    "projectName": "codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "stars": "312,095",
+    "todayStars": "794",
+    "forks": "29,005",
+    "link": "/codecrafters-io/build-your-own-x"
+  },
+  {
+    "projectName": "comfyanonymous/ComfyUI",
+    "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "language": "Python",
+    "stars": "57,116",
+    "todayStars": "118",
+    "forks": "6,048",
+    "link": "/comfyanonymous/ComfyUI"
+  },
+  {
+    "projectName": "ai16z/eliza",
+    "desc": "Conversational Agent for Twitter and Discord",
+    "language": "TypeScript",
+    "stars": "1,493",
+    "todayStars": "213",
+    "forks": "393",
+    "link": "/ai16z/eliza"
+  },
+  {
+    "projectName": "motiondivision/motion",
+    "desc": "A modern animation library for React and JavaScript",
+    "language": "TypeScript",
+    "stars": "25,413",
+    "todayStars": "251",
+    "forks": "839",
+    "link": "/motiondivision/motion"
+  },
+  {
+    "projectName": "xtekky/gpt4free",
+    "desc": "The official gpt4free repository | various collection of powerful language models",
+    "language": "Python",
+    "stars": "61,629",
+    "todayStars": "227",
+    "forks": "13,347",
+    "link": "/xtekky/gpt4free"
+  },
+  {
+    "projectName": "ItzCrazyKns/Perplexica",
+    "desc": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+    "language": "TypeScript",
+    "stars": "15,586",
+    "todayStars": "354",
+    "forks": "1,473",
+    "link": "/ItzCrazyKns/Perplexica"
+  },
+  {
+    "projectName": "freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "language": "Python",
+    "stars": "30,142",
+    "todayStars": "625",
+    "forks": "6,278",
+    "link": "/freqtrade/freqtrade"
+  },
+  {
+    "projectName": "DataExpert-io/data-engineer-handbook",
+    "desc": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "language": "Makefile",
+    "stars": "17,594",
+    "todayStars": "1",
+    "forks": "2,609",
+    "link": "/DataExpert-io/data-engineer-handbook"
+  }
+]
