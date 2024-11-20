@@ -1,0 +1,163 @@
+[
+  {
+    "projectName": "pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "Python",
+    "stars": "84,222",
+    "todayStars": "60",
+    "forks": "22,684",
+    "link": "/pytorch/pytorch"
+  },
+  {
+    "projectName": "docusealco/docuseal",
+    "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+    "language": "Ruby",
+    "stars": "7,910",
+    "todayStars": "57",
+    "forks": "523",
+    "link": "/docusealco/docuseal"
+  },
+  {
+    "projectName": "influxdata/telegraf",
+    "desc": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "language": "Go",
+    "stars": "14,823",
+    "todayStars": "7",
+    "forks": "5,591",
+    "link": "/influxdata/telegraf"
+  },
+  {
+    "projectName": "payloadcms/payload",
+    "desc": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
+    "language": "TypeScript",
+    "stars": "26,262",
+    "todayStars": "62",
+    "forks": "1,661",
+    "link": "/payloadcms/payload"
+  },
+  {
+    "projectName": "Bin-Huang/chatbox",
+    "desc": "User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)",
+    "language": "TypeScript",
+    "stars": "22,268",
+    "todayStars": "90",
+    "forks": "2,232",
+    "link": "/Bin-Huang/chatbox"
+  },
+  {
+    "projectName": "ntdevlabs/tiny11builder",
+    "desc": "Scripts to build a trimmed-down Windows 11 image.",
+    "language": "PowerShell",
+    "stars": "10,163",
+    "todayStars": "103",
+    "forks": "873",
+    "link": "/ntdevlabs/tiny11builder"
+  },
+  {
+    "projectName": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
+    "desc": "Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.",
+    "stars": "5,037",
+    "todayStars": "199",
+    "forks": "995",
+    "link": "/trungdq88/Awesome-Black-Friday-Cyber-Monday"
+  },
+  {
+    "projectName": "projectdiscovery/katana",
+    "desc": "A next-generation crawling and spidering framework.",
+    "language": "Go",
+    "stars": "12,082",
+    "todayStars": "171",
+    "forks": "626",
+    "link": "/projectdiscovery/katana"
+  },
+  {
+    "projectName": "awslabs/multi-agent-orchestrator",
+    "desc": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+    "language": "TypeScript",
+    "stars": "1,070",
+    "todayStars": "366",
+    "forks": "75",
+    "link": "/awslabs/multi-agent-orchestrator"
+  },
+  {
+    "projectName": "ItzCrazyKns/Perplexica",
+    "desc": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+    "language": "TypeScript",
+    "stars": "15,876",
+    "todayStars": "347",
+    "forks": "1,494",
+    "link": "/ItzCrazyKns/Perplexica"
+  },
+  {
+    "projectName": "xtekky/gpt4free",
+    "desc": "The official gpt4free repository | various collection of powerful language models",
+    "language": "Python",
+    "stars": "61,855",
+    "todayStars": "257",
+    "forks": "13,354",
+    "link": "/xtekky/gpt4free"
+  },
+  {
+    "projectName": "arkohut/pensieve",
+    "desc": "A passive recording project allows you to have complete control over your data. 一个完全由你掌控数据的「被动记录」项目。",
+    "language": "Python",
+    "stars": "580",
+    "todayStars": "70",
+    "forks": "15",
+    "link": "/arkohut/pensieve"
+  },
+  {
+    "projectName": "NVIDIA/garak",
+    "desc": "the LLM vulnerability scanner",
+    "language": "Python",
+    "stars": "2,613",
+    "todayStars": "464",
+    "forks": "231",
+    "link": "/NVIDIA/garak"
+  },
+  {
+    "projectName": "DataExpert-io/data-engineer-handbook",
+    "desc": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "language": "Makefile",
+    "stars": "18,875",
+    "todayStars": "1",
+    "forks": "2,779",
+    "link": "/DataExpert-io/data-engineer-handbook"
+  },
+  {
+    "projectName": "blacklanternsecurity/bbot",
+    "desc": "A recursive internet scanner for hackers.",
+    "language": "Python",
+    "stars": "6,353",
+    "todayStars": "259",
+    "forks": "498",
+    "link": "/blacklanternsecurity/bbot"
+  },
+  {
+    "projectName": "freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "language": "Python",
+    "stars": "30,531",
+    "todayStars": "662",
+    "forks": "6,313",
+    "link": "/freqtrade/freqtrade"
+  },
+  {
+    "projectName": "ai16z/eliza",
+    "desc": "Conversational Agent for Twitter and Discord",
+    "language": "TypeScript",
+    "stars": "1,720",
+    "todayStars": "183",
+    "forks": "442",
+    "link": "/ai16z/eliza"
+  },
+  {
+    "projectName": "leaningtech/webvm",
+    "desc": "Virtual Machine for the Web",
+    "language": "Svelte",
+    "stars": "8,957",
+    "todayStars": "521",
+    "forks": "1,417",
+    "link": "/leaningtech/webvm"
+  }
+]
