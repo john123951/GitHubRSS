@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Thu, 21 Nov 2024 08:38:32 +0000</lastBuildDate>
+    <item>
+      <title>twentyhq/twenty</title>
+      <link>https://www.github.com/twentyhq/twenty</link>
+      <description>Building a modern alternative to Salesforce, powered by the community.</description>
+    </item>
+    <item>
+      <title>payloadcms/payload</title>
+      <link>https://www.github.com/payloadcms/payload</link>
+      <description>Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.</description>
+    </item>
+    <item>
+      <title>leaningtech/webvm</title>
+      <link>https://www.github.com/leaningtech/webvm</link>
+      <description>Virtual Machine for the Web</description>
+    </item>
+    <item>
+      <title>blacklanternsecurity/bbot</title>
+      <link>https://www.github.com/blacklanternsecurity/bbot</link>
+      <description>A recursive internet scanner for hackers.</description>
+    </item>
+    <item>
+      <title>langflow-ai/langflow</title>
+      <link>https://www.github.com/langflow-ai/langflow</link>
+      <description>Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.</description>
+    </item>
+    <item>
+      <title>poteto/hiring-without-whiteboards</title>
+      <link>https://www.github.com/poteto/hiring-without-whiteboards</link>
+      <description>⭐️ Companies that don't have a broken hiring process</description>
+    </item>
+    <item>
+      <title>lvgl/lvgl</title>
+      <link>https://www.github.com/lvgl/lvgl</link>
+      <description>Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.</description>
+    </item>
+    <item>
+      <title>freqtrade/freqtrade</title>
+      <link>https://www.github.com/freqtrade/freqtrade</link>
+      <description>Free, open source crypto trading bot</description>
+    </item>
+    <item>
+      <title>awslabs/multi-agent-orchestrator</title>
+      <link>https://www.github.com/awslabs/multi-agent-orchestrator</link>
+      <description>Flexible and powerful framework for managing multiple AI agents and handling complex conversations</description>
+    </item>
+    <item>
+      <title>ItzCrazyKns/Perplexica</title>
+      <link>https://www.github.com/ItzCrazyKns/Perplexica</link>
+      <description>Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI</description>
+    </item>
+    <item>
+      <title>DataExpert-io/data-engineer-handbook</title>
+      <link>https://www.github.com/DataExpert-io/data-engineer-handbook</link>
+      <description>This is a repo with links to everything you'd ever want to learn about data engineering</description>
+    </item>
+    <item>
+      <title>pytorch/pytorch</title>
+      <link>https://www.github.com/pytorch/pytorch</link>
+      <description>Tensors and Dynamic neural networks in Python with strong GPU acceleration</description>
+    </item>
+    <item>
+      <title>krahets/hello-algo</title>
+      <link>https://www.github.com/krahets/hello-algo</link>
+      <description>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</description>
+    </item>
+    <item>
+      <title>trungdq88/Awesome-Black-Friday-Cyber-Monday</title>
+      <link>https://www.github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday</link>
+      <description>Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.</description>
+    </item>
+    <item>
+      <title>xtekky/gpt4free</title>
+      <link>https://www.github.com/xtekky/gpt4free</link>
+      <description>The official gpt4free repository | various collection of powerful language models</description>
+    </item>
+  </channel>
+</rss>
