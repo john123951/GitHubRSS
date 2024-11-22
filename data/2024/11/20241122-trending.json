@@ -1,0 +1,146 @@
+[
+  {
+    "projectName": "danielmiessler/SecLists",
+    "desc": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "language": "PHP",
+    "stars": "58,756",
+    "todayStars": "37",
+    "forks": "23,936",
+    "link": "/danielmiessler/SecLists"
+  },
+  {
+    "projectName": "Bin-Huang/chatbox",
+    "desc": "User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)",
+    "language": "TypeScript",
+    "stars": "22,691",
+    "todayStars": "191",
+    "forks": "2,259",
+    "link": "/Bin-Huang/chatbox"
+  },
+  {
+    "projectName": "laravel/framework",
+    "desc": "The Laravel Framework.",
+    "language": "PHP",
+    "stars": "32,628",
+    "todayStars": "12",
+    "forks": "11,034",
+    "link": "/laravel/framework"
+  },
+  {
+    "projectName": "FortAwesome/Font-Awesome",
+    "desc": "The iconic SVG, font, and CSS toolkit",
+    "language": "JavaScript",
+    "stars": "73,904",
+    "todayStars": "31",
+    "forks": "12,197",
+    "link": "/FortAwesome/Font-Awesome"
+  },
+  {
+    "projectName": "android/nowinandroid",
+    "desc": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
+    "language": "Kotlin",
+    "stars": "17,256",
+    "todayStars": "35",
+    "forks": "3,133",
+    "link": "/android/nowinandroid"
+  },
+  {
+    "projectName": "gitroomhq/postiz-app",
+    "desc": "📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
+    "language": "TypeScript",
+    "stars": "10,460",
+    "todayStars": "167",
+    "forks": "2,255",
+    "link": "/gitroomhq/postiz-app"
+  },
+  {
+    "projectName": "arkohut/pensieve",
+    "desc": "A passive recording project allows you to have complete control over your data. 一个完全由你掌控数据的「被动记录」项目。",
+    "language": "Python",
+    "stars": "819",
+    "todayStars": "64",
+    "forks": "29",
+    "link": "/arkohut/pensieve"
+  },
+  {
+    "projectName": "FreeCAD/FreeCAD",
+    "desc": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+    "language": "C++",
+    "stars": "20,439",
+    "todayStars": "170",
+    "forks": "4,092",
+    "link": "/FreeCAD/FreeCAD"
+  },
+  {
+    "projectName": "DataExpert-io/data-engineer-handbook",
+    "desc": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "language": "Makefile",
+    "stars": "20,192",
+    "todayStars": "752",
+    "forks": "2,989",
+    "link": "/DataExpert-io/data-engineer-handbook"
+  },
+  {
+    "projectName": "mediar-ai/screenpipe",
+    "desc": "rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind",
+    "language": "Rust",
+    "stars": "9,546",
+    "todayStars": "277",
+    "forks": "555",
+    "link": "/mediar-ai/screenpipe"
+  },
+  {
+    "projectName": "krahets/hello-algo",
+    "desc": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+    "language": "Java",
+    "stars": "99,415",
+    "todayStars": "206",
+    "forks": "12,530",
+    "link": "/krahets/hello-algo"
+  },
+  {
+    "projectName": "getmaxun/maxun",
+    "desc": "🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes! [In Beta]",
+    "language": "TypeScript",
+    "stars": "5,275",
+    "todayStars": "102",
+    "forks": "366",
+    "link": "/getmaxun/maxun"
+  },
+  {
+    "projectName": "Melkeydev/go-blueprint",
+    "desc": "Go-blueprint allows users to spin up a quick Go project using a popular framework",
+    "language": "Go",
+    "stars": "5,090",
+    "todayStars": "102",
+    "forks": "301",
+    "link": "/Melkeydev/go-blueprint"
+  },
+  {
+    "projectName": "awslabs/multi-agent-orchestrator",
+    "desc": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+    "language": "TypeScript",
+    "stars": "1,678",
+    "todayStars": "281",
+    "forks": "107",
+    "link": "/awslabs/multi-agent-orchestrator"
+  },
+  {
+    "projectName": "leaningtech/webvm",
+    "desc": "Virtual Machine for the Web",
+    "language": "Svelte",
+    "stars": "10,105",
+    "todayStars": "489",
+    "forks": "1,514",
+    "link": "/leaningtech/webvm"
+  },
+  {
+    "projectName": "twentyhq/twenty",
+    "desc": "Building a modern alternative to Salesforce, powered by the community.",
+    "language": "TypeScript",
+    "stars": "22,922",
+    "todayStars": "1",
+    "forks": "2,413",
+    "link": "/twentyhq/twenty"
+  }
+]

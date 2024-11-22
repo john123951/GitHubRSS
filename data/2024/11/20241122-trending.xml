@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Fri, 22 Nov 2024 08:38:22 +0000</lastBuildDate>
+    <item>
+      <title>twentyhq/twenty</title>
+      <link>https://www.github.com/twentyhq/twenty</link>
+      <description>Building a modern alternative to Salesforce, powered by the community.</description>
+    </item>
+    <item>
+      <title>leaningtech/webvm</title>
+      <link>https://www.github.com/leaningtech/webvm</link>
+      <description>Virtual Machine for the Web</description>
+    </item>
+    <item>
+      <title>awslabs/multi-agent-orchestrator</title>
+      <link>https://www.github.com/awslabs/multi-agent-orchestrator</link>
+      <description>Flexible and powerful framework for managing multiple AI agents and handling complex conversations</description>
+    </item>
+    <item>
+      <title>Melkeydev/go-blueprint</title>
+      <link>https://www.github.com/Melkeydev/go-blueprint</link>
+      <description>Go-blueprint allows users to spin up a quick Go project using a popular framework</description>
+    </item>
+    <item>
+      <title>getmaxun/maxun</title>
+      <link>https://www.github.com/getmaxun/maxun</link>
+      <description>🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes! [In Beta]</description>
+    </item>
+    <item>
+      <title>krahets/hello-algo</title>
+      <link>https://www.github.com/krahets/hello-algo</link>
+      <description>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</description>
+    </item>
+    <item>
+      <title>mediar-ai/screenpipe</title>
+      <link>https://www.github.com/mediar-ai/screenpipe</link>
+      <description>rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen &amp; voice recording for the age of super intelligence. get your data ready or be left behind</description>
+    </item>
+    <item>
+      <title>DataExpert-io/data-engineer-handbook</title>
+      <link>https://www.github.com/DataExpert-io/data-engineer-handbook</link>
+      <description>This is a repo with links to everything you'd ever want to learn about data engineering</description>
+    </item>
+    <item>
+      <title>FreeCAD/FreeCAD</title>
+      <link>https://www.github.com/FreeCAD/FreeCAD</link>
+      <description>This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.</description>
+    </item>
+    <item>
+      <title>arkohut/pensieve</title>
+      <link>https://www.github.com/arkohut/pensieve</link>
+      <description>A passive recording project allows you to have complete control over your data. 一个完全由你掌控数据的「被动记录」项目。</description>
+    </item>
+    <item>
+      <title>gitroomhq/postiz-app</title>
+      <link>https://www.github.com/gitroomhq/postiz-app</link>
+      <description>📨 The ultimate social media scheduling tool, with a bunch of AI 🤖</description>
+    </item>
+    <item>
+      <title>android/nowinandroid</title>
+      <link>https://www.github.com/android/nowinandroid</link>
+      <description>A fully functional Android app built entirely with Kotlin and Jetpack Compose</description>
+    </item>
+    <item>
+      <title>FortAwesome/Font-Awesome</title>
+      <link>https://www.github.com/FortAwesome/Font-Awesome</link>
+      <description>The iconic SVG, font, and CSS toolkit</description>
+    </item>
+    <item>
+      <title>laravel/framework</title>
+      <link>https://www.github.com/laravel/framework</link>
+      <description>The Laravel Framework.</description>
+    </item>
+    <item>
+      <title>Bin-Huang/chatbox</title>
+      <link>https://www.github.com/Bin-Huang/chatbox</link>
+      <description>User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)</description>
+    </item>
+    <item>
+      <title>danielmiessler/SecLists</title>
+      <link>https://www.github.com/danielmiessler/SecLists</link>
+      <description>SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.</description>
+    </item>
+  </channel>
+</rss>
