@@ -1,0 +1,119 @@
+[
+  {
+    "projectName": "justcallmekoko/ESP32Marauder",
+    "desc": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
+    "language": "C++",
+    "stars": "5,989",
+    "todayStars": "8",
+    "forks": "640",
+    "link": "/justcallmekoko/ESP32Marauder"
+  },
+  {
+    "projectName": "RPCS3/rpcs3",
+    "desc": "PlayStation 3 emulator and debugger",
+    "language": "C++",
+    "stars": "15,619",
+    "todayStars": "3",
+    "forks": "1,923",
+    "link": "/RPCS3/rpcs3"
+  },
+  {
+    "projectName": "gunnarmorling/1brc",
+    "desc": "1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java",
+    "language": "Java",
+    "stars": "6,441",
+    "todayStars": "12",
+    "forks": "1,910",
+    "link": "/gunnarmorling/1brc"
+  },
+  {
+    "projectName": "xmrig/xmrig",
+    "desc": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
+    "language": "C",
+    "stars": "8,796",
+    "todayStars": "5",
+    "forks": "3,462",
+    "link": "/xmrig/xmrig"
+  },
+  {
+    "projectName": "surrealdb/surrealdb",
+    "desc": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "language": "Rust",
+    "stars": "27,890",
+    "todayStars": "27",
+    "forks": "913",
+    "link": "/surrealdb/surrealdb"
+  },
+  {
+    "projectName": "pingcap/autoflow",
+    "desc": "pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo:https://tidb.ai",
+    "language": "TypeScript",
+    "stars": "1,482",
+    "todayStars": "194",
+    "forks": "70",
+    "link": "/pingcap/autoflow"
+  },
+  {
+    "projectName": "tmc/langchaingo",
+    "desc": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+    "language": "Go",
+    "stars": "4,951",
+    "todayStars": "11",
+    "forks": "638",
+    "link": "/tmc/langchaingo"
+  },
+  {
+    "projectName": "shader-slang/slang",
+    "desc": "Making it easier to work with shaders",
+    "language": "C++",
+    "stars": "2,833",
+    "todayStars": "139",
+    "forks": "207",
+    "link": "/shader-slang/slang"
+  },
+  {
+    "projectName": "krahets/hello-algo",
+    "desc": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+    "language": "Java",
+    "stars": "100,094",
+    "todayStars": "123",
+    "forks": "12,583",
+    "link": "/krahets/hello-algo"
+  },
+  {
+    "projectName": "EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "language": "HTML",
+    "stars": "339,408",
+    "todayStars": "220",
+    "forks": "61,775",
+    "link": "/EbookFoundation/free-programming-books"
+  },
+  {
+    "projectName": "gitroomhq/postiz-app",
+    "desc": "📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
+    "language": "TypeScript",
+    "stars": "11,363",
+    "todayStars": "294",
+    "forks": "2,322",
+    "link": "/gitroomhq/postiz-app"
+  },
+  {
+    "projectName": "abi/screenshot-to-code",
+    "desc": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "language": "Python",
+    "stars": "61,273",
+    "todayStars": "291",
+    "forks": "7,501",
+    "link": "/abi/screenshot-to-code"
+  },
+  {
+    "projectName": "black-forest-labs/flux",
+    "desc": "Official inference repo for FLUX.1 models",
+    "language": "Python",
+    "stars": "17,359",
+    "todayStars": "536",
+    "forks": "1,229",
+    "link": "/black-forest-labs/flux"
+  }
+]
