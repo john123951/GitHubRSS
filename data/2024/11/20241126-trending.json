@@ -1,0 +1,119 @@
+[
+  {
+    "projectName": "shader-slang/slang",
+    "desc": "Making it easier to work with shaders",
+    "language": "C++",
+    "stars": "2,943",
+    "todayStars": "151",
+    "forks": "210",
+    "link": "/shader-slang/slang"
+  },
+  {
+    "projectName": "FortAwesome/Font-Awesome",
+    "desc": "The iconic SVG, font, and CSS toolkit",
+    "language": "JavaScript",
+    "stars": "74,239",
+    "todayStars": "25",
+    "forks": "12,204",
+    "link": "/FortAwesome/Font-Awesome"
+  },
+  {
+    "projectName": "bluesky-social/atproto",
+    "desc": "Social networking technology created by Bluesky",
+    "language": "TypeScript",
+    "stars": "7,266",
+    "todayStars": "130",
+    "forks": "513",
+    "link": "/bluesky-social/atproto"
+  },
+  {
+    "projectName": "gitroomhq/postiz-app",
+    "desc": "📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
+    "language": "TypeScript",
+    "stars": "11,649",
+    "todayStars": "348",
+    "forks": "2,339",
+    "link": "/gitroomhq/postiz-app"
+  },
+  {
+    "projectName": "public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "language": "Python",
+    "stars": "318,635",
+    "todayStars": "130",
+    "forks": "33,928",
+    "link": "/public-apis/public-apis"
+  },
+  {
+    "projectName": "OpenInterpreter/open-interpreter",
+    "desc": "A natural language interface for computers",
+    "language": "Python",
+    "stars": "56,070",
+    "todayStars": "127",
+    "forks": "4,852",
+    "link": "/OpenInterpreter/open-interpreter"
+  },
+  {
+    "projectName": "black-forest-labs/flux",
+    "desc": "Official inference repo for FLUX.1 models",
+    "language": "Python",
+    "stars": "17,639",
+    "todayStars": "742",
+    "forks": "1,246",
+    "link": "/black-forest-labs/flux"
+  },
+  {
+    "projectName": "termux/termux-app",
+    "desc": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+    "language": "Java",
+    "stars": "36,833",
+    "todayStars": "40",
+    "forks": "3,862",
+    "link": "/termux/termux-app"
+  },
+  {
+    "projectName": "abi/screenshot-to-code",
+    "desc": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "language": "Python",
+    "stars": "61,591",
+    "todayStars": "492",
+    "forks": "7,525",
+    "link": "/abi/screenshot-to-code"
+  },
+  {
+    "projectName": "bluesky-social/social-app",
+    "desc": "The Bluesky Social application for Web, iOS, and Android",
+    "language": "TypeScript",
+    "stars": "12,760",
+    "todayStars": "334",
+    "forks": "1,622",
+    "link": "/bluesky-social/social-app"
+  },
+  {
+    "projectName": "jesseduffield/lazydocker",
+    "desc": "The lazier way to manage everything docker",
+    "language": "Go",
+    "stars": "38,166",
+    "todayStars": "77",
+    "forks": "1,216",
+    "link": "/jesseduffield/lazydocker"
+  },
+  {
+    "projectName": "EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "language": "HTML",
+    "stars": "339,734",
+    "todayStars": "304",
+    "forks": "61,809",
+    "link": "/EbookFoundation/free-programming-books"
+  },
+  {
+    "projectName": "2dust/v2rayN",
+    "desc": "A GUI client for Windows and Linux, support Xray core and others",
+    "language": "C#",
+    "stars": "70,389",
+    "todayStars": "132",
+    "forks": "11,602",
+    "link": "/2dust/v2rayN"
+  }
+]
