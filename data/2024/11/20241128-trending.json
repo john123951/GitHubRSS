@@ -1,0 +1,118 @@
+[
+  {
+    "projectName": "Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/dotnet/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-net.",
+    "language": "C#",
+    "stars": "5,546",
+    "todayStars": "2",
+    "forks": "4,820",
+    "link": "/Azure/azure-sdk-for-net"
+  },
+  {
+    "projectName": "renovatebot/renovate",
+    "desc": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io",
+    "language": "TypeScript",
+    "stars": "17,819",
+    "todayStars": "11",
+    "forks": "2,354",
+    "link": "/renovatebot/renovate"
+  },
+  {
+    "projectName": "kubernetes/website",
+    "desc": "Kubernetes website and documentation repo:",
+    "language": "HTML",
+    "stars": "4,575",
+    "todayStars": "9",
+    "forks": "14,475",
+    "link": "/kubernetes/website"
+  },
+  {
+    "projectName": "jesseduffield/lazydocker",
+    "desc": "The lazier way to manage everything docker",
+    "language": "Go",
+    "stars": "38,637",
+    "todayStars": "150",
+    "forks": "1,229",
+    "link": "/jesseduffield/lazydocker"
+  },
+  {
+    "projectName": "EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "language": "HTML",
+    "stars": "340,300",
+    "todayStars": "369",
+    "forks": "61,861",
+    "link": "/EbookFoundation/free-programming-books"
+  },
+  {
+    "projectName": "Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "language": "Swift",
+    "stars": "41,233",
+    "todayStars": "7",
+    "forks": "7,553",
+    "link": "/Alamofire/Alamofire"
+  },
+  {
+    "projectName": "skills/introduction-to-github",
+    "desc": "Get started using GitHub in less than an hour.",
+    "stars": "4,804",
+    "todayStars": "17",
+    "forks": "3,069",
+    "link": "/skills/introduction-to-github"
+  },
+  {
+    "projectName": "n8n-io/n8n",
+    "desc": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+    "language": "TypeScript",
+    "stars": "49,879",
+    "todayStars": "98",
+    "forks": "8,071",
+    "link": "/n8n-io/n8n"
+  },
+  {
+    "projectName": "cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "stars": "47,245",
+    "todayStars": "21",
+    "forks": "3,193",
+    "link": "/cypress-io/cypress"
+  },
+  {
+    "projectName": "microsoft/graphrag",
+    "desc": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+    "language": "Python",
+    "stars": "19,747",
+    "todayStars": "98",
+    "forks": "1,939",
+    "link": "/microsoft/graphrag"
+  },
+  {
+    "projectName": "wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "language": "Go",
+    "stars": "47,637",
+    "todayStars": "300",
+    "forks": "1,796",
+    "link": "/wagoodman/dive"
+  },
+  {
+    "projectName": "andrewyng/aisuite",
+    "desc": "Simple, unified interface to multiple Generative AI providers",
+    "language": "Python",
+    "stars": "3,518",
+    "todayStars": "990",
+    "forks": "315",
+    "link": "/andrewyng/aisuite"
+  },
+  {
+    "projectName": "OpenInterpreter/open-interpreter",
+    "desc": "A natural language interface for computers",
+    "language": "Python",
+    "stars": "56,700",
+    "todayStars": "297",
+    "forks": "4,884",
+    "link": "/OpenInterpreter/open-interpreter"
+  }
+]

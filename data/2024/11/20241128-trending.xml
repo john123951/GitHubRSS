@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Thu, 28 Nov 2024 08:40:31 +0000</lastBuildDate>
+    <item>
+      <title>OpenInterpreter/open-interpreter</title>
+      <link>https://www.github.com/OpenInterpreter/open-interpreter</link>
+      <description>A natural language interface for computers</description>
+    </item>
+    <item>
+      <title>andrewyng/aisuite</title>
+      <link>https://www.github.com/andrewyng/aisuite</link>
+      <description>Simple, unified interface to multiple Generative AI providers</description>
+    </item>
+    <item>
+      <title>wagoodman/dive</title>
+      <link>https://www.github.com/wagoodman/dive</link>
+      <description>A tool for exploring each layer in a docker image</description>
+    </item>
+    <item>
+      <title>microsoft/graphrag</title>
+      <link>https://www.github.com/microsoft/graphrag</link>
+      <description>A modular graph-based Retrieval-Augmented Generation (RAG) system</description>
+    </item>
+    <item>
+      <title>cypress-io/cypress</title>
+      <link>https://www.github.com/cypress-io/cypress</link>
+      <description>Fast, easy and reliable testing for anything that runs in a browser.</description>
+    </item>
+    <item>
+      <title>n8n-io/n8n</title>
+      <link>https://www.github.com/n8n-io/n8n</link>
+      <description>Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.</description>
+    </item>
+    <item>
+      <title>skills/introduction-to-github</title>
+      <link>https://www.github.com/skills/introduction-to-github</link>
+      <description>Get started using GitHub in less than an hour.</description>
+    </item>
+    <item>
+      <title>Alamofire/Alamofire</title>
+      <link>https://www.github.com/Alamofire/Alamofire</link>
+      <description>Elegant HTTP Networking in Swift</description>
+    </item>
+    <item>
+      <title>EbookFoundation/free-programming-books</title>
+      <link>https://www.github.com/EbookFoundation/free-programming-books</link>
+      <description>📚 Freely available programming books</description>
+    </item>
+    <item>
+      <title>jesseduffield/lazydocker</title>
+      <link>https://www.github.com/jesseduffield/lazydocker</link>
+      <description>The lazier way to manage everything docker</description>
+    </item>
+    <item>
+      <title>kubernetes/website</title>
+      <link>https://www.github.com/kubernetes/website</link>
+      <description>Kubernetes website and documentation repo:</description>
+    </item>
+    <item>
+      <title>renovatebot/renovate</title>
+      <link>https://www.github.com/renovatebot/renovate</link>
+      <description>Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io</description>
+    </item>
+    <item>
+      <title>Azure/azure-sdk-for-net</title>
+      <link>https://www.github.com/Azure/azure-sdk-for-net</link>
+      <description>This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/dotnet/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-net.</description>
+    </item>
+  </channel>
+</rss>
