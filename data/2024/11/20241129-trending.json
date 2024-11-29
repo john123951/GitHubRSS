@@ -1,0 +1,118 @@
+[
+  {
+    "projectName": "hashicorp/terraform",
+    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "language": "Go",
+    "stars": "42,997",
+    "todayStars": "14",
+    "forks": "9,570",
+    "link": "/hashicorp/terraform"
+  },
+  {
+    "projectName": "typeorm/typeorm",
+    "desc": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+    "language": "TypeScript",
+    "stars": "34,399",
+    "todayStars": "10",
+    "forks": "6,330",
+    "link": "/typeorm/typeorm"
+  },
+  {
+    "projectName": "comfyanonymous/ComfyUI",
+    "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "language": "Python",
+    "stars": "58,369",
+    "todayStars": "161",
+    "forks": "6,198",
+    "link": "/comfyanonymous/ComfyUI"
+  },
+  {
+    "projectName": "ollama/ollama-python",
+    "desc": "Ollama Python library",
+    "language": "Python",
+    "stars": "5,002",
+    "todayStars": "45",
+    "forks": "415",
+    "link": "/ollama/ollama-python"
+  },
+  {
+    "projectName": "Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "language": "Swift",
+    "stars": "41,278",
+    "todayStars": "58",
+    "forks": "7,555",
+    "link": "/Alamofire/Alamofire"
+  },
+  {
+    "projectName": "cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "stars": "47,390",
+    "todayStars": "147",
+    "forks": "3,198",
+    "link": "/cypress-io/cypress"
+  },
+  {
+    "projectName": "wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "language": "Go",
+    "stars": "47,874",
+    "todayStars": "404",
+    "forks": "1,798",
+    "link": "/wagoodman/dive"
+  },
+  {
+    "projectName": "OpenInterpreter/open-interpreter",
+    "desc": "A natural language interface for computers",
+    "language": "Python",
+    "stars": "56,935",
+    "todayStars": "387",
+    "forks": "4,894",
+    "link": "/OpenInterpreter/open-interpreter"
+  },
+  {
+    "projectName": "pawelsalawa/sqlitestudio",
+    "desc": "A free, open source, multi-platform SQLite database manager.",
+    "language": "C",
+    "stars": "5,401",
+    "todayStars": "31",
+    "forks": "584",
+    "link": "/pawelsalawa/sqlitestudio"
+  },
+  {
+    "projectName": "myhhub/stock",
+    "desc": "stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。",
+    "language": "Python",
+    "stars": "2,186",
+    "todayStars": "31",
+    "forks": "508",
+    "link": "/myhhub/stock"
+  },
+  {
+    "projectName": "mtdvio/every-programmer-should-know",
+    "desc": "A collection of (mostly) technical things every software developer should know about",
+    "stars": "84,532",
+    "todayStars": "121",
+    "forks": "7,852",
+    "link": "/mtdvio/every-programmer-should-know"
+  },
+  {
+    "projectName": "abi/screenshot-to-code",
+    "desc": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "language": "Python",
+    "stars": "63,508",
+    "todayStars": "590",
+    "forks": "7,776",
+    "link": "/abi/screenshot-to-code"
+  },
+  {
+    "projectName": "andrewyng/aisuite",
+    "desc": "Simple, unified interface to multiple Generative AI providers",
+    "language": "Python",
+    "stars": "4,327",
+    "todayStars": "869",
+    "forks": "371",
+    "link": "/andrewyng/aisuite"
+  }
+]

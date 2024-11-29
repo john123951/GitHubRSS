@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Fri, 29 Nov 2024 08:39:21 +0000</lastBuildDate>
+    <item>
+      <title>andrewyng/aisuite</title>
+      <link>https://www.github.com/andrewyng/aisuite</link>
+      <description>Simple, unified interface to multiple Generative AI providers</description>
+    </item>
+    <item>
+      <title>abi/screenshot-to-code</title>
+      <link>https://www.github.com/abi/screenshot-to-code</link>
+      <description>Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)</description>
+    </item>
+    <item>
+      <title>mtdvio/every-programmer-should-know</title>
+      <link>https://www.github.com/mtdvio/every-programmer-should-know</link>
+      <description>A collection of (mostly) technical things every software developer should know about</description>
+    </item>
+    <item>
+      <title>myhhub/stock</title>
+      <link>https://www.github.com/myhhub/stock</link>
+      <description>stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。</description>
+    </item>
+    <item>
+      <title>pawelsalawa/sqlitestudio</title>
+      <link>https://www.github.com/pawelsalawa/sqlitestudio</link>
+      <description>A free, open source, multi-platform SQLite database manager.</description>
+    </item>
+    <item>
+      <title>OpenInterpreter/open-interpreter</title>
+      <link>https://www.github.com/OpenInterpreter/open-interpreter</link>
+      <description>A natural language interface for computers</description>
+    </item>
+    <item>
+      <title>wagoodman/dive</title>
+      <link>https://www.github.com/wagoodman/dive</link>
+      <description>A tool for exploring each layer in a docker image</description>
+    </item>
+    <item>
+      <title>cypress-io/cypress</title>
+      <link>https://www.github.com/cypress-io/cypress</link>
+      <description>Fast, easy and reliable testing for anything that runs in a browser.</description>
+    </item>
+    <item>
+      <title>Alamofire/Alamofire</title>
+      <link>https://www.github.com/Alamofire/Alamofire</link>
+      <description>Elegant HTTP Networking in Swift</description>
+    </item>
+    <item>
+      <title>ollama/ollama-python</title>
+      <link>https://www.github.com/ollama/ollama-python</link>
+      <description>Ollama Python library</description>
+    </item>
+    <item>
+      <title>comfyanonymous/ComfyUI</title>
+      <link>https://www.github.com/comfyanonymous/ComfyUI</link>
+      <description>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.</description>
+    </item>
+    <item>
+      <title>typeorm/typeorm</title>
+      <link>https://www.github.com/typeorm/typeorm</link>
+      <description>ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.</description>
+    </item>
+    <item>
+      <title>hashicorp/terraform</title>
+      <link>https://www.github.com/hashicorp/terraform</link>
+      <description>Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</description>
+    </item>
+  </channel>
+</rss>
