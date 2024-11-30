@@ -1,0 +1,170 @@
+[
+  {
+    "projectName": "nestjs/nest",
+    "desc": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
+    "language": "TypeScript",
+    "stars": "68,080",
+    "todayStars": "40",
+    "forks": "7,665",
+    "link": "/nestjs/nest"
+  },
+  {
+    "projectName": "withastro/astro",
+    "desc": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+    "language": "TypeScript",
+    "stars": "47,177",
+    "todayStars": "37",
+    "forks": "2,506",
+    "link": "/withastro/astro"
+  },
+  {
+    "projectName": "yamadashy/repomix",
+    "desc": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.",
+    "language": "TypeScript",
+    "stars": "4,761",
+    "todayStars": "96",
+    "forks": "219",
+    "link": "/yamadashy/repomix"
+  },
+  {
+    "projectName": "hashicorp/terraform",
+    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "language": "Go",
+    "stars": "43,109",
+    "todayStars": "165",
+    "forks": "9,575",
+    "link": "/hashicorp/terraform"
+  },
+  {
+    "projectName": "cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "stars": "47,491",
+    "todayStars": "148",
+    "forks": "3,202",
+    "link": "/cypress-io/cypress"
+  },
+  {
+    "projectName": "typeorm/typeorm",
+    "desc": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+    "language": "TypeScript",
+    "stars": "34,467",
+    "todayStars": "120",
+    "forks": "6,334",
+    "link": "/typeorm/typeorm"
+  },
+  {
+    "projectName": "keephq/keep",
+    "desc": "The open-source alert management and AIOps platform",
+    "language": "Python",
+    "stars": "5,420",
+    "todayStars": "69",
+    "forks": "714",
+    "link": "/keephq/keep"
+  },
+  {
+    "projectName": "comet-ml/opik",
+    "desc": "Open-source end-to-end LLM Development Platform",
+    "language": "Java",
+    "stars": "2,372",
+    "todayStars": "32",
+    "forks": "142",
+    "link": "/comet-ml/opik"
+  },
+  {
+    "projectName": "krayin/laravel-crm",
+    "desc": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
+    "language": "Blade",
+    "stars": "11,469",
+    "todayStars": "16",
+    "forks": "781",
+    "link": "/krayin/laravel-crm"
+  },
+  {
+    "projectName": "0x90n/InfoSec-Black-Friday",
+    "desc": "All the deals for InfoSec related software/tools this Black Friday",
+    "stars": "3,658",
+    "todayStars": "85",
+    "forks": "423",
+    "link": "/0x90n/InfoSec-Black-Friday"
+  },
+  {
+    "projectName": "n8n-io/n8n",
+    "desc": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+    "language": "TypeScript",
+    "stars": "50,197",
+    "todayStars": "92",
+    "forks": "8,134",
+    "link": "/n8n-io/n8n"
+  },
+  {
+    "projectName": "OpenInterpreter/open-interpreter",
+    "desc": "A natural language interface for computers",
+    "language": "Python",
+    "stars": "57,096",
+    "todayStars": "212",
+    "forks": "4,906",
+    "link": "/OpenInterpreter/open-interpreter"
+  },
+  {
+    "projectName": "yangshun/tech-interview-handbook",
+    "desc": "💯 Curated coding interview preparation materials for busy software engineers",
+    "language": "TypeScript",
+    "stars": "119,613",
+    "todayStars": "137",
+    "forks": "14,776",
+    "link": "/yangshun/tech-interview-handbook"
+  },
+  {
+    "projectName": "codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "stars": "313,964",
+    "todayStars": "293",
+    "forks": "29,153",
+    "link": "/codecrafters-io/build-your-own-x"
+  },
+  {
+    "projectName": "Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "language": "Swift",
+    "stars": "41,295",
+    "todayStars": "45",
+    "forks": "7,555",
+    "link": "/Alamofire/Alamofire"
+  },
+  {
+    "projectName": "mtdvio/every-programmer-should-know",
+    "desc": "A collection of (mostly) technical things every software developer should know about",
+    "stars": "84,891",
+    "todayStars": "641",
+    "forks": "7,866",
+    "link": "/mtdvio/every-programmer-should-know"
+  },
+  {
+    "projectName": "skills/introduction-to-github",
+    "desc": "Get started using GitHub in less than an hour.",
+    "stars": "5,045",
+    "todayStars": "24",
+    "forks": "3,163",
+    "link": "/skills/introduction-to-github"
+  },
+  {
+    "projectName": "hengyoush/kyanos",
+    "desc": "Visualize the time packets spend in the kernel, watch & analyze in command line.",
+    "language": "C",
+    "stars": "1,944",
+    "todayStars": "88",
+    "forks": "42",
+    "link": "/hengyoush/kyanos"
+  },
+  {
+    "projectName": "andrewyng/aisuite",
+    "desc": "Simple, unified interface to multiple Generative AI providers",
+    "language": "Python",
+    "stars": "5,439",
+    "todayStars": "778",
+    "forks": "459",
+    "link": "/andrewyng/aisuite"
+  }
+]
