@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Wed, 04 Dec 2024 08:41:30 +0000</lastBuildDate>
+    <item>
+      <title>LadybirdBrowser/ladybird</title>
+      <link>https://www.github.com/LadybirdBrowser/ladybird</link>
+      <description>Truly independent web browser</description>
+    </item>
+    <item>
+      <title>myhhub/stock</title>
+      <link>https://www.github.com/myhhub/stock</link>
+      <description>stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。</description>
+    </item>
+    <item>
+      <title>ruanyf/weekly</title>
+      <link>https://www.github.com/ruanyf/weekly</link>
+      <description>科技爱好者周刊，每周五发布</description>
+    </item>
+    <item>
+      <title>kestra-io/kestra</title>
+      <link>https://www.github.com/kestra-io/kestra</link>
+      <description>⚡ Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...</description>
+    </item>
+    <item>
+      <title>anthropics/prompt-eng-interactive-tutorial</title>
+      <link>https://www.github.com/anthropics/prompt-eng-interactive-tutorial</link>
+      <description>Anthropic's Interactive Prompt Engineering Tutorial</description>
+    </item>
+    <item>
+      <title>Guovin/iptv-api</title>
+      <link>https://www.github.com/Guovin/iptv-api</link>
+      <description>📺IPTV电视直播源更新工具🚀：✨央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持IPv4/IPv6；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool</description>
+    </item>
+    <item>
+      <title>sdmg15/Best-websites-a-programmer-should-visit</title>
+      <link>https://www.github.com/sdmg15/Best-websites-a-programmer-should-visit</link>
+      <description>🔗 Some useful websites for programmers.</description>
+    </item>
+    <item>
+      <title>ai16z/eliza</title>
+      <link>https://www.github.com/ai16z/eliza</link>
+      <description>Conversational Agent for Twitter and Discord</description>
+    </item>
+    <item>
+      <title>521xueweihan/HelloGitHub</title>
+      <link>https://www.github.com/521xueweihan/HelloGitHub</link>
+      <description>分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.</description>
+    </item>
+    <item>
+      <title>opendatalab/MinerU</title>
+      <link>https://www.github.com/opendatalab/MinerU</link>
+      <description>A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。</description>
+    </item>
+    <item>
+      <title>XRPLF/rippled</title>
+      <link>https://www.github.com/XRPLF/rippled</link>
+      <description>Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++</description>
+    </item>
+    <item>
+      <title>kamranahmedse/developer-roadmap</title>
+      <link>https://www.github.com/kamranahmedse/developer-roadmap</link>
+      <description>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</description>
+    </item>
+    <item>
+      <title>krahets/hello-algo</title>
+      <link>https://www.github.com/krahets/hello-algo</link>
+      <description>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</description>
+    </item>
+    <item>
+      <title>648540858/wvp-GB28181-pro</title>
+      <link>https://www.github.com/648540858/wvp-GB28181-pro</link>
+      <description>WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。</description>
+    </item>
+    <item>
+      <title>milanm/DevOps-Roadmap</title>
+      <link>https://www.github.com/milanm/DevOps-Roadmap</link>
+      <description>DevOps Roadmap for 2024. with learning resources</description>
+    </item>
+    <item>
+      <title>unclecode/crawl4ai</title>
+      <link>https://www.github.com/unclecode/crawl4ai</link>
+      <description>🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.</description>
+    </item>
+    <item>
+      <title>skills/introduction-to-github</title>
+      <link>https://www.github.com/skills/introduction-to-github</link>
+      <description>Get started using GitHub in less than an hour.</description>
+    </item>
+    <item>
+      <title>itzg/docker-minecraft-server</title>
+      <link>https://www.github.com/itzg/docker-minecraft-server</link>
+      <description>Docker image that provides a Minecraft Server that will automatically download selected version at startup</description>
+    </item>
+    <item>
+      <title>vercel/next-learn</title>
+      <link>https://www.github.com/vercel/next-learn</link>
+      <description>Learn Next.js Starter Code</description>
+    </item>
+  </channel>
+</rss>
