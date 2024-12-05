@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Thu, 05 Dec 2024 08:40:37 +0000</lastBuildDate>
+    <item>
+      <title>LadybirdBrowser/ladybird</title>
+      <link>https://www.github.com/LadybirdBrowser/ladybird</link>
+      <description>Truly independent web browser</description>
+    </item>
+    <item>
+      <title>lobehub/lobe-chat</title>
+      <link>https://www.github.com/lobehub/lobe-chat</link>
+      <description>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.</description>
+    </item>
+    <item>
+      <title>pydantic/pydantic-ai</title>
+      <link>https://www.github.com/pydantic/pydantic-ai</link>
+      <description>Agent Framework / shim to use Pydantic with LLMs</description>
+    </item>
+    <item>
+      <title>myhhub/stock</title>
+      <link>https://www.github.com/myhhub/stock</link>
+      <description>stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。</description>
+    </item>
+    <item>
+      <title>521xueweihan/HelloGitHub</title>
+      <link>https://www.github.com/521xueweihan/HelloGitHub</link>
+      <description>分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.</description>
+    </item>
+    <item>
+      <title>leptos-rs/leptos</title>
+      <link>https://www.github.com/leptos-rs/leptos</link>
+      <description>Build fast web applications with Rust.</description>
+    </item>
+    <item>
+      <title>skills/introduction-to-github</title>
+      <link>https://www.github.com/skills/introduction-to-github</link>
+      <description>Get started using GitHub in less than an hour.</description>
+    </item>
+    <item>
+      <title>sdmg15/Best-websites-a-programmer-should-visit</title>
+      <link>https://www.github.com/sdmg15/Best-websites-a-programmer-should-visit</link>
+      <description>🔗 Some useful websites for programmers.</description>
+    </item>
+    <item>
+      <title>Guovin/iptv-api</title>
+      <link>https://www.github.com/Guovin/iptv-api</link>
+      <description>📺IPTV电视直播源更新工具🚀：✨央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持IPv4/IPv6；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool</description>
+    </item>
+    <item>
+      <title>CyC2018/CS-Notes</title>
+      <link>https://www.github.com/CyC2018/CS-Notes</link>
+      <description>📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计</description>
+    </item>
+    <item>
+      <title>FiloSottile/mkcert</title>
+      <link>https://www.github.com/FiloSottile/mkcert</link>
+      <description>A simple zero-config tool to make locally trusted development certificates with any names you'd like.</description>
+    </item>
+    <item>
+      <title>dockur/windows</title>
+      <link>https://www.github.com/dockur/windows</link>
+      <description>Windows inside a Docker container.</description>
+    </item>
+    <item>
+      <title>codecrafters-io/build-your-own-x</title>
+      <link>https://www.github.com/codecrafters-io/build-your-own-x</link>
+      <description>Master programming by recreating your favorite technologies from scratch.</description>
+    </item>
+    <item>
+      <title>Tencent/rapidjson</title>
+      <link>https://www.github.com/Tencent/rapidjson</link>
+      <description>A fast JSON parser/generator for C++ with both SAX/DOM style API</description>
+    </item>
+    <item>
+      <title>skills/github-pages</title>
+      <link>https://www.github.com/skills/github-pages</link>
+      <description>Create a site or blog from your GitHub repositories with GitHub Pages.</description>
+    </item>
+    <item>
+      <title>anthropics/anthropic-cookbook</title>
+      <link>https://www.github.com/anthropics/anthropic-cookbook</link>
+      <description>A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</description>
+    </item>
+    <item>
+      <title>ai16z/eliza</title>
+      <link>https://www.github.com/ai16z/eliza</link>
+      <description>Conversational Agent for Twitter and Discord</description>
+    </item>
+    <item>
+      <title>overleaf/overleaf</title>
+      <link>https://www.github.com/overleaf/overleaf</link>
+      <description>A web-based collaborative LaTeX editor</description>
+    </item>
+    <item>
+      <title>Expensify/App</title>
+      <link>https://www.github.com/Expensify/App</link>
+      <description>Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.</description>
+    </item>
+    <item>
+      <title>ansible/ansible</title>
+      <link>https://www.github.com/ansible/ansible</link>
+      <description>Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.</description>
+    </item>
+  </channel>
+</rss>
