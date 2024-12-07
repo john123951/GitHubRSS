@@ -1,0 +1,145 @@
+[
+  {
+    "projectName": "imputnet/cobalt",
+    "desc": "best way to save what you love",
+    "language": "Svelte",
+    "stars": "18,244",
+    "todayStars": "84",
+    "forks": "1,508",
+    "link": "/imputnet/cobalt"
+  },
+  {
+    "projectName": "BerriAI/litellm",
+    "desc": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]",
+    "language": "Python",
+    "stars": "14,768",
+    "todayStars": "41",
+    "forks": "1,730",
+    "link": "/BerriAI/litellm"
+  },
+  {
+    "projectName": "Expensify/App",
+    "desc": "Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.",
+    "language": "TypeScript",
+    "stars": "3,811",
+    "todayStars": "18",
+    "forks": "2,939",
+    "link": "/Expensify/App"
+  },
+  {
+    "projectName": "dataease/dataease",
+    "desc": "🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。",
+    "language": "Java",
+    "stars": "18,492",
+    "todayStars": "7",
+    "forks": "3,314",
+    "link": "/dataease/dataease"
+  },
+  {
+    "projectName": "skills/copilot-codespaces-vscode",
+    "desc": "Develop with AI-powered code suggestions using GitHub Copilot and VS Code",
+    "stars": "634",
+    "todayStars": "14",
+    "forks": "1,775",
+    "link": "/skills/copilot-codespaces-vscode"
+  },
+  {
+    "projectName": "facebook/react",
+    "desc": "The library for web and native user interfaces.",
+    "language": "JavaScript",
+    "stars": "230,125",
+    "todayStars": "90",
+    "forks": "48,163",
+    "link": "/facebook/react"
+  },
+  {
+    "projectName": "bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "stars": "80,170",
+    "todayStars": "47",
+    "forks": "36,503",
+    "link": "/bitcoin/bitcoin"
+  },
+  {
+    "projectName": "sqlfluff/sqlfluff",
+    "desc": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code.",
+    "language": "Python",
+    "stars": "8,184",
+    "todayStars": "33",
+    "forks": "739",
+    "link": "/sqlfluff/sqlfluff"
+  },
+  {
+    "projectName": "qodo-ai/qodo-cover",
+    "desc": "Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞",
+    "language": "Python",
+    "stars": "4,565",
+    "todayStars": "32",
+    "forks": "349",
+    "link": "/qodo-ai/qodo-cover"
+  },
+  {
+    "projectName": "hashicorp/terraform-provider-aws",
+    "desc": "The AWS Provider enables Terraform to manage AWS resources.",
+    "language": "Go",
+    "stars": "9,952",
+    "todayStars": "52",
+    "forks": "9,222",
+    "link": "/hashicorp/terraform-provider-aws"
+  },
+  {
+    "projectName": "fishaudio/fish-speech",
+    "desc": "SOTA Open Source TTS",
+    "language": "Python",
+    "stars": "15,673",
+    "todayStars": "425",
+    "forks": "1,194",
+    "link": "/fishaudio/fish-speech"
+  },
+  {
+    "projectName": "FoundationVision/VAR",
+    "desc": "[NeurIPS 2024 Oral][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!",
+    "language": "Python",
+    "stars": "5,651",
+    "todayStars": "268",
+    "forks": "384",
+    "link": "/FoundationVision/VAR"
+  },
+  {
+    "projectName": "pydantic/pydantic-ai",
+    "desc": "Agent Framework / shim to use Pydantic with LLMs",
+    "language": "Python",
+    "stars": "2,875",
+    "todayStars": "509",
+    "forks": "151",
+    "link": "/pydantic/pydantic-ai"
+  },
+  {
+    "projectName": "TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "language": "Python",
+    "stars": "195,160",
+    "todayStars": "70",
+    "forks": "45,889",
+    "link": "/TheAlgorithms/Python"
+  },
+  {
+    "projectName": "lobehub/lobe-chat",
+    "desc": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.",
+    "language": "TypeScript",
+    "stars": "48,284",
+    "todayStars": "371",
+    "forks": "10,464",
+    "link": "/lobehub/lobe-chat"
+  },
+  {
+    "projectName": "QuivrHQ/MegaParse",
+    "desc": "File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.",
+    "language": "Python",
+    "stars": "3,005",
+    "todayStars": "469",
+    "forks": "153",
+    "link": "/QuivrHQ/MegaParse"
+  }
+]

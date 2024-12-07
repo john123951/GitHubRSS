@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Sat, 07 Dec 2024 08:36:27 +0000</lastBuildDate>
+    <item>
+      <title>QuivrHQ/MegaParse</title>
+      <link>https://www.github.com/QuivrHQ/MegaParse</link>
+      <description>File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.</description>
+    </item>
+    <item>
+      <title>lobehub/lobe-chat</title>
+      <link>https://www.github.com/lobehub/lobe-chat</link>
+      <description>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.</description>
+    </item>
+    <item>
+      <title>TheAlgorithms/Python</title>
+      <link>https://www.github.com/TheAlgorithms/Python</link>
+      <description>All Algorithms implemented in Python</description>
+    </item>
+    <item>
+      <title>pydantic/pydantic-ai</title>
+      <link>https://www.github.com/pydantic/pydantic-ai</link>
+      <description>Agent Framework / shim to use Pydantic with LLMs</description>
+    </item>
+    <item>
+      <title>FoundationVision/VAR</title>
+      <link>https://www.github.com/FoundationVision/VAR</link>
+      <description>[NeurIPS 2024 Oral][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!</description>
+    </item>
+    <item>
+      <title>fishaudio/fish-speech</title>
+      <link>https://www.github.com/fishaudio/fish-speech</link>
+      <description>SOTA Open Source TTS</description>
+    </item>
+    <item>
+      <title>hashicorp/terraform-provider-aws</title>
+      <link>https://www.github.com/hashicorp/terraform-provider-aws</link>
+      <description>The AWS Provider enables Terraform to manage AWS resources.</description>
+    </item>
+    <item>
+      <title>qodo-ai/qodo-cover</title>
+      <link>https://www.github.com/qodo-ai/qodo-cover</link>
+      <description>Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞</description>
+    </item>
+    <item>
+      <title>sqlfluff/sqlfluff</title>
+      <link>https://www.github.com/sqlfluff/sqlfluff</link>
+      <description>A modular SQL linter and auto-formatter with support for multiple dialects and templated code.</description>
+    </item>
+    <item>
+      <title>bitcoin/bitcoin</title>
+      <link>https://www.github.com/bitcoin/bitcoin</link>
+      <description>Bitcoin Core integration/staging tree</description>
+    </item>
+    <item>
+      <title>facebook/react</title>
+      <link>https://www.github.com/facebook/react</link>
+      <description>The library for web and native user interfaces.</description>
+    </item>
+    <item>
+      <title>skills/copilot-codespaces-vscode</title>
+      <link>https://www.github.com/skills/copilot-codespaces-vscode</link>
+      <description>Develop with AI-powered code suggestions using GitHub Copilot and VS Code</description>
+    </item>
+    <item>
+      <title>dataease/dataease</title>
+      <link>https://www.github.com/dataease/dataease</link>
+      <description>🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。</description>
+    </item>
+    <item>
+      <title>Expensify/App</title>
+      <link>https://www.github.com/Expensify/App</link>
+      <description>Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.</description>
+    </item>
+    <item>
+      <title>BerriAI/litellm</title>
+      <link>https://www.github.com/BerriAI/litellm</link>
+      <description>Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]</description>
+    </item>
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://www.github.com/imputnet/cobalt</link>
+      <description>best way to save what you love</description>
+    </item>
+  </channel>
+</rss>
