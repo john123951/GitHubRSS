@@ -1,0 +1,173 @@
+[
+  {
+    "projectName": "al1abb/invoify",
+    "desc": "An invoice generator app built using Next.js, Typescript, and Shadcn",
+    "language": "TypeScript",
+    "stars": "1,196",
+    "todayStars": "141",
+    "forks": "150",
+    "link": "/al1abb/invoify"
+  },
+  {
+    "projectName": "meta-llama/llama-models",
+    "desc": "Utilities intended for use with Llama models.",
+    "language": "Python",
+    "stars": "5,220",
+    "todayStars": "41",
+    "forks": "875",
+    "link": "/meta-llama/llama-models"
+  },
+  {
+    "projectName": "iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "stars": "87,495",
+    "todayStars": "167",
+    "forks": "2,806",
+    "link": "/iptv-org/iptv"
+  },
+  {
+    "projectName": "cline/cline",
+    "desc": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+    "language": "TypeScript",
+    "stars": "14,096",
+    "todayStars": "275",
+    "forks": "1,123",
+    "link": "/cline/cline"
+  },
+  {
+    "projectName": "jdx/mise",
+    "desc": "dev tools, env vars, task runner",
+    "language": "Rust",
+    "stars": "11,569",
+    "todayStars": "534",
+    "forks": "315",
+    "link": "/jdx/mise"
+  },
+  {
+    "projectName": "microsoft/torchgeo",
+    "desc": "TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data",
+    "language": "Python",
+    "stars": "2,961",
+    "todayStars": "25",
+    "forks": "361",
+    "link": "/microsoft/torchgeo"
+  },
+  {
+    "projectName": "ollama/ollama",
+    "desc": "Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",
+    "language": "Go",
+    "stars": "101,921",
+    "todayStars": "333",
+    "forks": "8,136",
+    "link": "/ollama/ollama"
+  },
+  {
+    "projectName": "koreader/koreader",
+    "desc": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "language": "Lua",
+    "stars": "17,234",
+    "todayStars": "47",
+    "forks": "1,283",
+    "link": "/koreader/koreader"
+  },
+  {
+    "projectName": "libsdl-org/SDL",
+    "desc": "Simple Directmedia Layer",
+    "language": "C",
+    "stars": "10,439",
+    "todayStars": "40",
+    "forks": "1,880",
+    "link": "/libsdl-org/SDL"
+  },
+  {
+    "projectName": "phidatahq/phidata",
+    "desc": "Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+    "language": "Python",
+    "stars": "16,055",
+    "todayStars": "63",
+    "forks": "2,199",
+    "link": "/phidatahq/phidata"
+  },
+  {
+    "projectName": "LizardByte/Sunshine",
+    "desc": "Self-hosted game stream host for Moonlight.",
+    "language": "C++",
+    "stars": "20,566",
+    "todayStars": "41",
+    "forks": "982",
+    "link": "/LizardByte/Sunshine"
+  },
+  {
+    "projectName": "daytonaio/daytona",
+    "desc": "The Open Source Dev Environment Manager.",
+    "language": "Go",
+    "stars": "13,108",
+    "todayStars": "251",
+    "forks": "996",
+    "link": "/daytonaio/daytona"
+  },
+  {
+    "projectName": "nexus-xyz/nexus-zkvm",
+    "desc": "The Nexus zkVM: The zero-knowledge virtual machine",
+    "language": "Rust",
+    "stars": "930",
+    "todayStars": "17",
+    "forks": "264",
+    "link": "/nexus-xyz/nexus-zkvm"
+  },
+  {
+    "projectName": "pocketbase/pocketbase",
+    "desc": "Open Source realtime backend in 1 file",
+    "language": "Go",
+    "stars": "41,956",
+    "todayStars": "252",
+    "forks": "1,968",
+    "link": "/pocketbase/pocketbase"
+  },
+  {
+    "projectName": "fishaudio/fish-speech",
+    "desc": "SOTA Open Source TTS",
+    "language": "Python",
+    "stars": "16,541",
+    "todayStars": "404",
+    "forks": "1,248",
+    "link": "/fishaudio/fish-speech"
+  },
+  {
+    "projectName": "lmarzen/esp32-weather-epd",
+    "desc": "A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.",
+    "language": "C",
+    "stars": "3,108",
+    "todayStars": "84",
+    "forks": "227",
+    "link": "/lmarzen/esp32-weather-epd"
+  },
+  {
+    "projectName": "DrKLO/Telegram",
+    "desc": "Telegram for Android source",
+    "language": "Java",
+    "stars": "25,432",
+    "todayStars": "11",
+    "forks": "8,185",
+    "link": "/DrKLO/Telegram"
+  },
+  {
+    "projectName": "bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "stars": "80,390",
+    "todayStars": "89",
+    "forks": "36,531",
+    "link": "/bitcoin/bitcoin"
+  },
+  {
+    "projectName": "astral-sh/uv",
+    "desc": "An extremely fast Python package and project manager, written in Rust.",
+    "language": "Rust",
+    "stars": "30,912",
+    "todayStars": "434",
+    "forks": "842",
+    "link": "/astral-sh/uv"
+  }
+]
