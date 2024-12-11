@@ -1,0 +1,74 @@
+[
+  {
+    "projectName": "leerob/next-saas-starter",
+    "desc": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
+    "language": "TypeScript",
+    "stars": "6,123",
+    "todayStars": "47",
+    "forks": "695",
+    "link": "/leerob/next-saas-starter"
+  },
+  {
+    "projectName": "bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "stars": "80,503",
+    "todayStars": "125",
+    "forks": "36,533",
+    "link": "/bitcoin/bitcoin"
+  },
+  {
+    "projectName": "tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "language": "Rust",
+    "stars": "86,788",
+    "todayStars": "112",
+    "forks": "2,629",
+    "link": "/tauri-apps/tauri"
+  },
+  {
+    "projectName": "al1abb/invoify",
+    "desc": "An invoice generator app built using Next.js, Typescript, and Shadcn",
+    "language": "TypeScript",
+    "stars": "1,472",
+    "todayStars": "353",
+    "forks": "163",
+    "link": "/al1abb/invoify"
+  },
+  {
+    "projectName": "Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "language": "Swift",
+    "stars": "41,371",
+    "todayStars": "9",
+    "forks": "7,565",
+    "link": "/Alamofire/Alamofire"
+  },
+  {
+    "projectName": "ollama/ollama",
+    "desc": "Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",
+    "language": "Go",
+    "stars": "102,205",
+    "todayStars": "335",
+    "forks": "8,152",
+    "link": "/ollama/ollama"
+  },
+  {
+    "projectName": "astral-sh/uv",
+    "desc": "An extremely fast Python package and project manager, written in Rust.",
+    "language": "Rust",
+    "stars": "31,482",
+    "todayStars": "1",
+    "forks": "852",
+    "link": "/astral-sh/uv"
+  },
+  {
+    "projectName": "soxoj/maigret",
+    "desc": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+    "language": "Python",
+    "stars": "12,092",
+    "todayStars": "79",
+    "forks": "872",
+    "link": "/soxoj/maigret"
+  }
+]
