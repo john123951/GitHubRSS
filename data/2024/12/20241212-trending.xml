@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Thu, 12 Dec 2024 08:40:54 +0000</lastBuildDate>
+    <item>
+      <title>nexus-xyz/nexus-zkvm</title>
+      <link>https://www.github.com/nexus-xyz/nexus-zkvm</link>
+      <description>The Nexus zkVM: The zero-knowledge virtual machine</description>
+    </item>
+    <item>
+      <title>DioxusLabs/dioxus</title>
+      <link>https://www.github.com/DioxusLabs/dioxus</link>
+      <description>Fullstack app framework for web, desktop, mobile, and more.</description>
+    </item>
+    <item>
+      <title>nexus-xyz/network-api</title>
+      <link>https://www.github.com/nexus-xyz/network-api</link>
+      <description>High-performance interface for supplying compute to the Nexus network.</description>
+    </item>
+    <item>
+      <title>0xPlaygrounds/rig</title>
+      <link>https://www.github.com/0xPlaygrounds/rig</link>
+      <description>⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents</description>
+    </item>
+    <item>
+      <title>lmarzen/esp32-weather-epd</title>
+      <link>https://www.github.com/lmarzen/esp32-weather-epd</link>
+      <description>A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.</description>
+    </item>
+    <item>
+      <title>Alamofire/Alamofire</title>
+      <link>https://www.github.com/Alamofire/Alamofire</link>
+      <description>Elegant HTTP Networking in Swift</description>
+    </item>
+    <item>
+      <title>soxoj/maigret</title>
+      <link>https://www.github.com/soxoj/maigret</link>
+      <description>🕵️‍♂️ Collect a dossier on a person by username from thousands of sites</description>
+    </item>
+    <item>
+      <title>astral-sh/uv</title>
+      <link>https://www.github.com/astral-sh/uv</link>
+      <description>An extremely fast Python package and project manager, written in Rust.</description>
+    </item>
+    <item>
+      <title>langflow-ai/langflow</title>
+      <link>https://www.github.com/langflow-ai/langflow</link>
+      <description>Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.</description>
+    </item>
+    <item>
+      <title>apache/dolphinscheduler</title>
+      <link>https://www.github.com/apache/dolphinscheduler</link>
+      <description>Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code</description>
+    </item>
+    <item>
+      <title>leerob/next-saas-starter</title>
+      <link>https://www.github.com/leerob/next-saas-starter</link>
+      <description>Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.</description>
+    </item>
+    <item>
+      <title>bitcoin/bitcoin</title>
+      <link>https://www.github.com/bitcoin/bitcoin</link>
+      <description>Bitcoin Core integration/staging tree</description>
+    </item>
+  </channel>
+</rss>

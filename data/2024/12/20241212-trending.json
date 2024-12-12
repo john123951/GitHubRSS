@@ -1,0 +1,110 @@
+[
+  {
+    "projectName": "bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "stars": "80,625",
+    "todayStars": "130",
+    "forks": "36,546",
+    "link": "/bitcoin/bitcoin"
+  },
+  {
+    "projectName": "leerob/next-saas-starter",
+    "desc": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
+    "language": "TypeScript",
+    "stars": "6,395",
+    "todayStars": "365",
+    "forks": "713",
+    "link": "/leerob/next-saas-starter"
+  },
+  {
+    "projectName": "apache/dolphinscheduler",
+    "desc": "Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code",
+    "language": "Java",
+    "stars": "13,105",
+    "todayStars": "7",
+    "forks": "4,663",
+    "link": "/apache/dolphinscheduler"
+  },
+  {
+    "projectName": "langflow-ai/langflow",
+    "desc": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
+    "language": "Python",
+    "stars": "38,121",
+    "todayStars": "189",
+    "forks": "4,395",
+    "link": "/langflow-ai/langflow"
+  },
+  {
+    "projectName": "astral-sh/uv",
+    "desc": "An extremely fast Python package and project manager, written in Rust.",
+    "language": "Rust",
+    "stars": "31,794",
+    "todayStars": "418",
+    "forks": "856",
+    "link": "/astral-sh/uv"
+  },
+  {
+    "projectName": "soxoj/maigret",
+    "desc": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+    "language": "Python",
+    "stars": "12,519",
+    "todayStars": "711",
+    "forks": "890",
+    "link": "/soxoj/maigret"
+  },
+  {
+    "projectName": "Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "language": "Swift",
+    "stars": "41,407",
+    "todayStars": "42",
+    "forks": "7,568",
+    "link": "/Alamofire/Alamofire"
+  },
+  {
+    "projectName": "lmarzen/esp32-weather-epd",
+    "desc": "A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.",
+    "language": "C",
+    "stars": "4,183",
+    "todayStars": "404",
+    "forks": "260",
+    "link": "/lmarzen/esp32-weather-epd"
+  },
+  {
+    "projectName": "0xPlaygrounds/rig",
+    "desc": "⚙️🦀 Build portable, modular & lightweight Fullstack Agents",
+    "language": "Rust",
+    "stars": "579",
+    "todayStars": "63",
+    "forks": "37",
+    "link": "/0xPlaygrounds/rig"
+  },
+  {
+    "projectName": "nexus-xyz/network-api",
+    "desc": "High-performance interface for supplying compute to the Nexus network.",
+    "language": "Rust",
+    "stars": "164",
+    "todayStars": "18",
+    "forks": "62",
+    "link": "/nexus-xyz/network-api"
+  },
+  {
+    "projectName": "DioxusLabs/dioxus",
+    "desc": "Fullstack app framework for web, desktop, mobile, and more.",
+    "language": "Rust",
+    "stars": "22,350",
+    "todayStars": "116",
+    "forks": "855",
+    "link": "/DioxusLabs/dioxus"
+  },
+  {
+    "projectName": "nexus-xyz/nexus-zkvm",
+    "desc": "The Nexus zkVM: The zero-knowledge virtual machine",
+    "language": "Rust",
+    "stars": "1,714",
+    "todayStars": "39",
+    "forks": "331",
+    "link": "/nexus-xyz/nexus-zkvm"
+  }
+]
