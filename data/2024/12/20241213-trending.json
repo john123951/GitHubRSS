@@ -1,0 +1,146 @@
+[
+  {
+    "projectName": "huggingface/text-generation-inference",
+    "desc": "Large Language Model Text Generation Inference",
+    "language": "Python",
+    "stars": "9,404",
+    "todayStars": "22",
+    "forks": "1,099",
+    "link": "/huggingface/text-generation-inference"
+  },
+  {
+    "projectName": "electric-sql/electric",
+    "desc": "Sync little subsets of your Postgres data into local apps and services.",
+    "language": "Elixir",
+    "stars": "6,920",
+    "todayStars": "107",
+    "forks": "166",
+    "link": "/electric-sql/electric"
+  },
+  {
+    "projectName": "lmarzen/esp32-weather-epd",
+    "desc": "A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.",
+    "language": "C",
+    "stars": "4,435",
+    "todayStars": "691",
+    "forks": "272",
+    "link": "/lmarzen/esp32-weather-epd"
+  },
+  {
+    "projectName": "wavetermdev/waveterm",
+    "desc": "An open-source, cross-platform terminal for seamless workflows",
+    "language": "TypeScript",
+    "stars": "5,058",
+    "todayStars": "148",
+    "forks": "129",
+    "link": "/wavetermdev/waveterm"
+  },
+  {
+    "projectName": "commaai/openpilot",
+    "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.",
+    "language": "Python",
+    "stars": "50,360",
+    "todayStars": "18",
+    "forks": "9,173",
+    "link": "/commaai/openpilot"
+  },
+  {
+    "projectName": "tursodatabase/libsql",
+    "desc": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
+    "language": "C",
+    "stars": "12,461",
+    "todayStars": "71",
+    "forks": "315",
+    "link": "/tursodatabase/libsql"
+  },
+  {
+    "projectName": "Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "language": "Swift",
+    "stars": "41,441",
+    "todayStars": "39",
+    "forks": "7,571",
+    "link": "/Alamofire/Alamofire"
+  },
+  {
+    "projectName": "shardeum/shardeum",
+    "desc": "Shardeum is an EVM based autoscaling blockchain",
+    "language": "TypeScript",
+    "stars": "22,411",
+    "todayStars": "614",
+    "forks": "440",
+    "link": "/shardeum/shardeum"
+  },
+  {
+    "projectName": "DS4SD/docling",
+    "desc": "Get your documents ready for gen AI",
+    "language": "Python",
+    "stars": "13,785",
+    "todayStars": "206",
+    "forks": "684",
+    "link": "/DS4SD/docling"
+  },
+  {
+    "projectName": "0xPlaygrounds/rig",
+    "desc": "⚙️🦀 Build portable, modular & lightweight Fullstack Agents",
+    "language": "Rust",
+    "stars": "776",
+    "todayStars": "284",
+    "forks": "47",
+    "link": "/0xPlaygrounds/rig"
+  },
+  {
+    "projectName": "Shubhamsaboo/awesome-llm-apps",
+    "desc": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "stars": "5,315",
+    "todayStars": "175",
+    "forks": "607",
+    "link": "/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "projectName": "gusmanb/logicanalyzer",
+    "desc": "24 channel, 100Msps logic analyzer hardware and software",
+    "language": "C#",
+    "stars": "2,780",
+    "todayStars": "109",
+    "forks": "291",
+    "link": "/gusmanb/logicanalyzer"
+  },
+  {
+    "projectName": "leerob/next-saas-starter",
+    "desc": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
+    "language": "TypeScript",
+    "stars": "6,754",
+    "todayStars": "269",
+    "forks": "736",
+    "link": "/leerob/next-saas-starter"
+  },
+  {
+    "projectName": "soxoj/maigret",
+    "desc": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+    "language": "Python",
+    "stars": "12,938",
+    "todayStars": "384",
+    "forks": "904",
+    "link": "/soxoj/maigret"
+  },
+  {
+    "projectName": "nexus-xyz/nexus-zkvm",
+    "desc": "The Nexus zkVM: The zero-knowledge virtual machine",
+    "language": "Rust",
+    "stars": "1,947",
+    "todayStars": "843",
+    "forks": "343",
+    "link": "/nexus-xyz/nexus-zkvm"
+  },
+  {
+    "projectName": "tursodatabase/limbo",
+    "desc": "Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.",
+    "language": "Rust",
+    "stars": "4,410",
+    "todayStars": "784",
+    "forks": "150",
+    "link": "/tursodatabase/limbo"
+  }
+]
