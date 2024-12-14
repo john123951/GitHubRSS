@@ -1,0 +1,164 @@
+[
+  {
+    "projectName": "nexus-xyz/network-api",
+    "desc": "High-performance interface for supplying compute to the Nexus network.",
+    "language": "Rust",
+    "stars": "235",
+    "todayStars": "14",
+    "forks": "72",
+    "link": "/nexus-xyz/network-api"
+  },
+  {
+    "projectName": "commaai/openpilot",
+    "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.",
+    "language": "Python",
+    "stars": "50,542",
+    "todayStars": "252",
+    "forks": "9,179",
+    "link": "/commaai/openpilot"
+  },
+  {
+    "projectName": "langflow-ai/langflow",
+    "desc": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
+    "language": "Python",
+    "stars": "38,593",
+    "todayStars": "161",
+    "forks": "4,420",
+    "link": "/langflow-ai/langflow"
+  },
+  {
+    "projectName": "ethereum/EIPs",
+    "desc": "The Ethereum Improvement Proposal repository",
+    "language": "Python",
+    "stars": "13,001",
+    "todayStars": "7",
+    "forks": "5,329",
+    "link": "/ethereum/EIPs"
+  },
+  {
+    "projectName": "shardeum/shardeum",
+    "desc": "Shardeum is an EVM based autoscaling blockchain",
+    "language": "TypeScript",
+    "stars": "22,450",
+    "todayStars": "72",
+    "forks": "444",
+    "link": "/shardeum/shardeum"
+  },
+  {
+    "projectName": "soxoj/maigret",
+    "desc": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+    "language": "Python",
+    "stars": "13,207",
+    "todayStars": "443",
+    "forks": "912",
+    "link": "/soxoj/maigret"
+  },
+  {
+    "projectName": "GoogleCloudPlatform/generative-ai",
+    "desc": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+    "language": "Jupyter Notebook",
+    "stars": "8,603",
+    "todayStars": "56",
+    "forks": "2,375",
+    "link": "/GoogleCloudPlatform/generative-ai"
+  },
+  {
+    "projectName": "andrewyng/aisuite",
+    "desc": "Simple, unified interface to multiple Generative AI providers",
+    "language": "Python",
+    "stars": "8,072",
+    "todayStars": "140",
+    "forks": "709",
+    "link": "/andrewyng/aisuite"
+  },
+  {
+    "projectName": "gruntwork-io/terragrunt",
+    "desc": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "language": "Go",
+    "stars": "8,233",
+    "todayStars": "11",
+    "forks": "995",
+    "link": "/gruntwork-io/terragrunt"
+  },
+  {
+    "projectName": "typeorm/typeorm",
+    "desc": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+    "language": "TypeScript",
+    "stars": "34,620",
+    "todayStars": "13",
+    "forks": "6,354",
+    "link": "/typeorm/typeorm"
+  },
+  {
+    "projectName": "tursodatabase/limbo",
+    "desc": "Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.",
+    "language": "Rust",
+    "stars": "4,881",
+    "todayStars": "1",
+    "forks": "164",
+    "link": "/tursodatabase/limbo"
+  },
+  {
+    "projectName": "bluewave-labs/checkmate",
+    "desc": "Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.",
+    "language": "JavaScript",
+    "stars": "2,026",
+    "todayStars": "177",
+    "forks": "117",
+    "link": "/bluewave-labs/checkmate"
+  },
+  {
+    "projectName": "google-gemini/cookbook",
+    "desc": "Examples and guides for using the Gemini API",
+    "language": "Jupyter Notebook",
+    "stars": "5,877",
+    "todayStars": "73",
+    "forks": "887",
+    "link": "/google-gemini/cookbook"
+  },
+  {
+    "projectName": "lmarzen/esp32-weather-epd",
+    "desc": "A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.",
+    "language": "C",
+    "stars": "4,553",
+    "todayStars": "230",
+    "forks": "280",
+    "link": "/lmarzen/esp32-weather-epd"
+  },
+  {
+    "projectName": "DS4SD/docling",
+    "desc": "Get your documents ready for gen AI",
+    "language": "Python",
+    "stars": "14,144",
+    "todayStars": "466",
+    "forks": "702",
+    "link": "/DS4SD/docling"
+  },
+  {
+    "projectName": "mherrmann/helium",
+    "desc": "Lighter web automation with Python",
+    "language": "Python",
+    "stars": "6,473",
+    "todayStars": "485",
+    "forks": "412",
+    "link": "/mherrmann/helium"
+  },
+  {
+    "projectName": "DioxusLabs/dioxus",
+    "desc": "Fullstack app framework for web, desktop, mobile, and more.",
+    "language": "Rust",
+    "stars": "22,792",
+    "todayStars": "151",
+    "forks": "869",
+    "link": "/DioxusLabs/dioxus"
+  },
+  {
+    "projectName": "Byaidu/PDFMathTranslate",
+    "desc": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+    "language": "Python",
+    "stars": "6,136",
+    "todayStars": "738",
+    "forks": "432",
+    "link": "/Byaidu/PDFMathTranslate"
+  }
+]
