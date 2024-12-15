@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Sun, 15 Dec 2024 08:35:55 +0000</lastBuildDate>
+    <item>
+      <title>wavetermdev/waveterm</title>
+      <link>https://www.github.com/wavetermdev/waveterm</link>
+      <description>An open-source, cross-platform terminal for seamless workflows</description>
+    </item>
+    <item>
+      <title>google-gemini/cookbook</title>
+      <link>https://www.github.com/google-gemini/cookbook</link>
+      <description>Examples and guides for using the Gemini API</description>
+    </item>
+    <item>
+      <title>andrewyng/aisuite</title>
+      <link>https://www.github.com/andrewyng/aisuite</link>
+      <description>Simple, unified interface to multiple Generative AI providers</description>
+    </item>
+    <item>
+      <title>gusmanb/logicanalyzer</title>
+      <link>https://www.github.com/gusmanb/logicanalyzer</link>
+      <description>24 channel, 100Msps logic analyzer hardware and software</description>
+    </item>
+    <item>
+      <title>TEN-framework/TEN-Agent</title>
+      <link>https://www.github.com/TEN-framework/TEN-Agent</link>
+      <description>TEN Agent is a realtime conversational AI agent powered by TEN. It seamlessly integrates the OpenAI Realtime API, RTC capabilities, and advanced features like weather updates, web search, computer vision, and Retrieval-Augmented Generation (RAG).</description>
+    </item>
+    <item>
+      <title>Byaidu/PDFMathTranslate</title>
+      <link>https://www.github.com/Byaidu/PDFMathTranslate</link>
+      <description>PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker</description>
+    </item>
+    <item>
+      <title>go-gitea/gitea</title>
+      <link>https://www.github.com/go-gitea/gitea</link>
+      <description>Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</description>
+    </item>
+    <item>
+      <title>Saghen/blink.cmp</title>
+      <link>https://www.github.com/Saghen/blink.cmp</link>
+      <description>Performant, batteries-included completion plugin for Neovim</description>
+    </item>
+    <item>
+      <title>ai16z/eliza</title>
+      <link>https://www.github.com/ai16z/eliza</link>
+      <description>Autonomous agents for everyone</description>
+    </item>
+    <item>
+      <title>curl/curl</title>
+      <link>https://www.github.com/curl/curl</link>
+      <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
+    </item>
+    <item>
+      <title>PaperMC/Paper</title>
+      <link>https://www.github.com/PaperMC/Paper</link>
+      <description>The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies</description>
+    </item>
+    <item>
+      <title>tursodatabase/limbo</title>
+      <link>https://www.github.com/tursodatabase/limbo</link>
+      <description>Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.</description>
+    </item>
+    <item>
+      <title>commaai/openpilot</title>
+      <link>https://www.github.com/commaai/openpilot</link>
+      <description>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.</description>
+    </item>
+  </channel>
+</rss>

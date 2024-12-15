@@ -1,0 +1,119 @@
+[
+  {
+    "projectName": "commaai/openpilot",
+    "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.",
+    "language": "Python",
+    "stars": "50,686",
+    "todayStars": "175",
+    "forks": "9,188",
+    "link": "/commaai/openpilot"
+  },
+  {
+    "projectName": "tursodatabase/limbo",
+    "desc": "Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.",
+    "language": "Rust",
+    "stars": "5,178",
+    "todayStars": "386",
+    "forks": "174",
+    "link": "/tursodatabase/limbo"
+  },
+  {
+    "projectName": "PaperMC/Paper",
+    "desc": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
+    "language": "Java",
+    "stars": "10,172",
+    "todayStars": "2",
+    "forks": "2,355",
+    "link": "/PaperMC/Paper"
+  },
+  {
+    "projectName": "curl/curl",
+    "desc": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "language": "C",
+    "stars": "36,282",
+    "todayStars": "11",
+    "forks": "6,478",
+    "link": "/curl/curl"
+  },
+  {
+    "projectName": "ai16z/eliza",
+    "desc": "Autonomous agents for everyone",
+    "language": "TypeScript",
+    "stars": "4,510",
+    "todayStars": "140",
+    "forks": "1,301",
+    "link": "/ai16z/eliza"
+  },
+  {
+    "projectName": "Saghen/blink.cmp",
+    "desc": "Performant, batteries-included completion plugin for Neovim",
+    "language": "Lua",
+    "stars": "1,747",
+    "todayStars": "30",
+    "forks": "103",
+    "link": "/Saghen/blink.cmp"
+  },
+  {
+    "projectName": "go-gitea/gitea",
+    "desc": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "language": "Go",
+    "stars": "45,819",
+    "todayStars": "45",
+    "forks": "5,548",
+    "link": "/go-gitea/gitea"
+  },
+  {
+    "projectName": "Byaidu/PDFMathTranslate",
+    "desc": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+    "language": "Python",
+    "stars": "6,474",
+    "todayStars": "1",
+    "forks": "460",
+    "link": "/Byaidu/PDFMathTranslate"
+  },
+  {
+    "projectName": "TEN-framework/TEN-Agent",
+    "desc": "TEN Agent is a realtime conversational AI agent powered by TEN. It seamlessly integrates the OpenAI Realtime API, RTC capabilities, and advanced features like weather updates, web search, computer vision, and Retrieval-Augmented Generation (RAG).",
+    "language": "Python",
+    "stars": "2,577",
+    "todayStars": "97",
+    "forks": "258",
+    "link": "/TEN-framework/TEN-Agent"
+  },
+  {
+    "projectName": "gusmanb/logicanalyzer",
+    "desc": "24 channel, 100Msps logic analyzer hardware and software",
+    "language": "C#",
+    "stars": "2,965",
+    "todayStars": "50",
+    "forks": "302",
+    "link": "/gusmanb/logicanalyzer"
+  },
+  {
+    "projectName": "andrewyng/aisuite",
+    "desc": "Simple, unified interface to multiple Generative AI providers",
+    "language": "Python",
+    "stars": "8,235",
+    "todayStars": "162",
+    "forks": "723",
+    "link": "/andrewyng/aisuite"
+  },
+  {
+    "projectName": "google-gemini/cookbook",
+    "desc": "Examples and guides for using the Gemini API",
+    "language": "Jupyter Notebook",
+    "stars": "6,156",
+    "todayStars": "255",
+    "forks": "901",
+    "link": "/google-gemini/cookbook"
+  },
+  {
+    "projectName": "wavetermdev/waveterm",
+    "desc": "An open-source, cross-platform terminal for seamless workflows",
+    "language": "TypeScript",
+    "stars": "6,054",
+    "todayStars": "176",
+    "forks": "170",
+    "link": "/wavetermdev/waveterm"
+  }
+]
