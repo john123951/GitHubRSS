@@ -1,0 +1,190 @@
+[
+  {
+    "projectName": "flame-engine/flame",
+    "desc": "A Flutter based game engine.",
+    "language": "Dart",
+    "stars": "9,508",
+    "todayStars": "5",
+    "forks": "929",
+    "link": "/flame-engine/flame"
+  },
+  {
+    "projectName": "microsoft/windows-rs",
+    "desc": "Rust for Windows",
+    "language": "Rust",
+    "stars": "10,673",
+    "todayStars": "6",
+    "forks": "507",
+    "link": "/microsoft/windows-rs"
+  },
+  {
+    "projectName": "wasp-lang/wasp",
+    "desc": "The fastest way to develop full-stack web apps with React & Node.js.",
+    "language": "TypeScript",
+    "stars": "14,237",
+    "todayStars": "23",
+    "forks": "1,209",
+    "link": "/wasp-lang/wasp"
+  },
+  {
+    "projectName": "RIOT-OS/RIOT",
+    "desc": "RIOT - The friendly OS for IoT",
+    "language": "C",
+    "stars": "5,165",
+    "todayStars": "18",
+    "forks": "2,010",
+    "link": "/RIOT-OS/RIOT"
+  },
+  {
+    "projectName": "PaperMC/Paper",
+    "desc": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
+    "language": "Java",
+    "stars": "10,238",
+    "todayStars": "98",
+    "forks": "2,357",
+    "link": "/PaperMC/Paper"
+  },
+  {
+    "projectName": "KRTirtho/spotube",
+    "desc": "🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!",
+    "language": "Dart",
+    "stars": "32,451",
+    "todayStars": "61",
+    "forks": "1,351",
+    "link": "/KRTirtho/spotube"
+  },
+  {
+    "projectName": "LazyVim/LazyVim",
+    "desc": "Neovim config for the lazy",
+    "language": "Lua",
+    "stars": "17,993",
+    "todayStars": "27",
+    "forks": "1,273",
+    "link": "/LazyVim/LazyVim"
+  },
+  {
+    "projectName": "bluewave-labs/checkmate",
+    "desc": "Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.",
+    "language": "JavaScript",
+    "stars": "2,496",
+    "todayStars": "120",
+    "forks": "137",
+    "link": "/bluewave-labs/checkmate"
+  },
+  {
+    "projectName": "midday-ai/midday",
+    "desc": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+    "language": "TypeScript",
+    "stars": "6,233",
+    "todayStars": "7",
+    "forks": "577",
+    "link": "/midday-ai/midday"
+  },
+  {
+    "projectName": "godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "language": "C++",
+    "stars": "91,936",
+    "todayStars": "40",
+    "forks": "21,329",
+    "link": "/godotengine/godot"
+  },
+  {
+    "projectName": "DataExpert-io/data-engineer-handbook",
+    "desc": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "language": "Jupyter Notebook",
+    "stars": "23,234",
+    "todayStars": "61",
+    "forks": "3,966",
+    "link": "/DataExpert-io/data-engineer-handbook"
+  },
+  {
+    "projectName": "commaai/openpilot",
+    "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.",
+    "language": "Python",
+    "stars": "50,796",
+    "todayStars": "159",
+    "forks": "9,194",
+    "link": "/commaai/openpilot"
+  },
+  {
+    "projectName": "DS4SD/docling",
+    "desc": "Get your documents ready for gen AI",
+    "language": "Python",
+    "stars": "14,849",
+    "todayStars": "319",
+    "forks": "752",
+    "link": "/DS4SD/docling"
+  },
+  {
+    "projectName": "wavetermdev/waveterm",
+    "desc": "An open-source, cross-platform terminal for seamless workflows",
+    "language": "TypeScript",
+    "stars": "6,442",
+    "todayStars": "894",
+    "forks": "179",
+    "link": "/wavetermdev/waveterm"
+  },
+  {
+    "projectName": "ByteByteGoHq/system-design-101",
+    "desc": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+    "stars": "65,786",
+    "todayStars": "276",
+    "forks": "6,944",
+    "link": "/ByteByteGoHq/system-design-101"
+  },
+  {
+    "projectName": "Saghen/blink.cmp",
+    "desc": "Performant, batteries-included completion plugin for Neovim",
+    "language": "Lua",
+    "stars": "1,862",
+    "todayStars": "143",
+    "forks": "104",
+    "link": "/Saghen/blink.cmp"
+  },
+  {
+    "projectName": "yt-dlp/yt-dlp",
+    "desc": "A feature-rich command-line audio/video downloader",
+    "language": "Python",
+    "stars": "93,140",
+    "todayStars": "117",
+    "forks": "7,259",
+    "link": "/yt-dlp/yt-dlp"
+  },
+  {
+    "projectName": "google-gemini/cookbook",
+    "desc": "Examples and guides for using the Gemini API",
+    "language": "Jupyter Notebook",
+    "stars": "6,787",
+    "todayStars": "346",
+    "forks": "926",
+    "link": "/google-gemini/cookbook"
+  },
+  {
+    "projectName": "TEN-framework/TEN-Agent",
+    "desc": "TEN Agent is a conversational AI powered by TEN, integrating Gemini 2.0 Multimodal Live API, OpenAI Realtime API, RTC, and more. It offers real-time capabilities to see, hear, and speak, along with advanced tools like weather checks, web search, and RAG.",
+    "language": "Python",
+    "stars": "2,897",
+    "todayStars": "261",
+    "forks": "283",
+    "link": "/TEN-framework/TEN-Agent"
+  },
+  {
+    "projectName": "bigskysoftware/htmx",
+    "desc": "</> htmx - high power tools for HTML",
+    "language": "JavaScript",
+    "stars": "39,073",
+    "todayStars": "26",
+    "forks": "1,321",
+    "link": "/bigskysoftware/htmx"
+  },
+  {
+    "projectName": "Byaidu/PDFMathTranslate",
+    "desc": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+    "language": "Python",
+    "stars": "7,863",
+    "todayStars": "279",
+    "forks": "566",
+    "link": "/Byaidu/PDFMathTranslate"
+  }
+]
