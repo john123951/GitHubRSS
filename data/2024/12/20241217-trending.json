@@ -1,0 +1,145 @@
+[
+  {
+    "projectName": "LazyVim/LazyVim",
+    "desc": "Neovim config for the lazy",
+    "language": "Lua",
+    "stars": "18,160",
+    "todayStars": "135",
+    "forks": "1,275",
+    "link": "/LazyVim/LazyVim"
+  },
+  {
+    "projectName": "freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "language": "Python",
+    "stars": "32,601",
+    "todayStars": "91",
+    "forks": "6,535",
+    "link": "/freqtrade/freqtrade"
+  },
+  {
+    "projectName": "ByteByteGoHq/system-design-101",
+    "desc": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+    "stars": "66,155",
+    "todayStars": "523",
+    "forks": "6,974",
+    "link": "/ByteByteGoHq/system-design-101"
+  },
+  {
+    "projectName": "microsoft/windows-rs",
+    "desc": "Rust for Windows",
+    "language": "Rust",
+    "stars": "10,780",
+    "todayStars": "141",
+    "forks": "507",
+    "link": "/microsoft/windows-rs"
+  },
+  {
+    "projectName": "arendst/Tasmota",
+    "desc": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "language": "C",
+    "stars": "22,419",
+    "todayStars": "12",
+    "forks": "4,826",
+    "link": "/arendst/Tasmota"
+  },
+  {
+    "projectName": "DiceDB/dice",
+    "desc": "DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.",
+    "language": "Go",
+    "stars": "7,241",
+    "todayStars": "135",
+    "forks": "1,120",
+    "link": "/DiceDB/dice"
+  },
+  {
+    "projectName": "PCSX2/pcsx2",
+    "desc": "PCSX2 - The Playstation 2 Emulator",
+    "language": "C++",
+    "stars": "12,115",
+    "todayStars": "29",
+    "forks": "1,638",
+    "link": "/PCSX2/pcsx2"
+  },
+  {
+    "projectName": "Saghen/blink.cmp",
+    "desc": "Performant, batteries-included completion plugin for Neovim",
+    "language": "Lua",
+    "stars": "1,961",
+    "todayStars": "138",
+    "forks": "105",
+    "link": "/Saghen/blink.cmp"
+  },
+  {
+    "projectName": "Radarr/Radarr",
+    "desc": "Movie organizer/manager for usenet and torrent users.",
+    "language": "C#",
+    "stars": "10,584",
+    "todayStars": "32",
+    "forks": "1,011",
+    "link": "/Radarr/Radarr"
+  },
+  {
+    "projectName": "commaai/openpilot",
+    "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.",
+    "language": "Python",
+    "stars": "50,924",
+    "todayStars": "123",
+    "forks": "9,203",
+    "link": "/commaai/openpilot"
+  },
+  {
+    "projectName": "yt-dlp/yt-dlp",
+    "desc": "A feature-rich command-line audio/video downloader",
+    "language": "Python",
+    "stars": "93,410",
+    "todayStars": "332",
+    "forks": "7,277",
+    "link": "/yt-dlp/yt-dlp"
+  },
+  {
+    "projectName": "Shubhamsaboo/awesome-llm-apps",
+    "desc": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "stars": "6,712",
+    "todayStars": "132",
+    "forks": "721",
+    "link": "/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "projectName": "wavetermdev/waveterm",
+    "desc": "An open-source, cross-platform terminal for seamless workflows",
+    "language": "TypeScript",
+    "stars": "6,830",
+    "todayStars": "352",
+    "forks": "187",
+    "link": "/wavetermdev/waveterm"
+  },
+  {
+    "projectName": "Byaidu/PDFMathTranslate",
+    "desc": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+    "language": "Python",
+    "stars": "8,747",
+    "todayStars": "1",
+    "forks": "620",
+    "link": "/Byaidu/PDFMathTranslate"
+  },
+  {
+    "projectName": "TEN-framework/TEN-Agent",
+    "desc": "TEN Agent is a conversational AI powered by TEN, integrating Gemini 2.0 Multimodal Live API, OpenAI Realtime API, RTC, and more. It offers real-time capabilities to see, hear, and speak, along with advanced tools like weather checks, web search, and RAG.",
+    "language": "Python",
+    "stars": "3,200",
+    "todayStars": "361",
+    "forks": "310",
+    "link": "/TEN-framework/TEN-Agent"
+  },
+  {
+    "projectName": "google-gemini/cookbook",
+    "desc": "Examples and guides for using the Gemini API",
+    "language": "Jupyter Notebook",
+    "stars": "7,952",
+    "todayStars": "649",
+    "forks": "996",
+    "link": "/google-gemini/cookbook"
+  }
+]

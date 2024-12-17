@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Tue, 17 Dec 2024 08:40:57 +0000</lastBuildDate>
+    <item>
+      <title>google-gemini/cookbook</title>
+      <link>https://www.github.com/google-gemini/cookbook</link>
+      <description>Examples and guides for using the Gemini API</description>
+    </item>
+    <item>
+      <title>TEN-framework/TEN-Agent</title>
+      <link>https://www.github.com/TEN-framework/TEN-Agent</link>
+      <description>TEN Agent is a conversational AI powered by TEN, integrating Gemini 2.0 Multimodal Live API, OpenAI Realtime API, RTC, and more. It offers real-time capabilities to see, hear, and speak, along with advanced tools like weather checks, web search, and RAG.</description>
+    </item>
+    <item>
+      <title>Byaidu/PDFMathTranslate</title>
+      <link>https://www.github.com/Byaidu/PDFMathTranslate</link>
+      <description>PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker</description>
+    </item>
+    <item>
+      <title>wavetermdev/waveterm</title>
+      <link>https://www.github.com/wavetermdev/waveterm</link>
+      <description>An open-source, cross-platform terminal for seamless workflows</description>
+    </item>
+    <item>
+      <title>Shubhamsaboo/awesome-llm-apps</title>
+      <link>https://www.github.com/Shubhamsaboo/awesome-llm-apps</link>
+      <description>Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.</description>
+    </item>
+    <item>
+      <title>yt-dlp/yt-dlp</title>
+      <link>https://www.github.com/yt-dlp/yt-dlp</link>
+      <description>A feature-rich command-line audio/video downloader</description>
+    </item>
+    <item>
+      <title>commaai/openpilot</title>
+      <link>https://www.github.com/commaai/openpilot</link>
+      <description>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.</description>
+    </item>
+    <item>
+      <title>Radarr/Radarr</title>
+      <link>https://www.github.com/Radarr/Radarr</link>
+      <description>Movie organizer/manager for usenet and torrent users.</description>
+    </item>
+    <item>
+      <title>Saghen/blink.cmp</title>
+      <link>https://www.github.com/Saghen/blink.cmp</link>
+      <description>Performant, batteries-included completion plugin for Neovim</description>
+    </item>
+    <item>
+      <title>PCSX2/pcsx2</title>
+      <link>https://www.github.com/PCSX2/pcsx2</link>
+      <description>PCSX2 - The Playstation 2 Emulator</description>
+    </item>
+    <item>
+      <title>DiceDB/dice</title>
+      <link>https://www.github.com/DiceDB/dice</link>
+      <description>DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.</description>
+    </item>
+    <item>
+      <title>arendst/Tasmota</title>
+      <link>https://www.github.com/arendst/Tasmota</link>
+      <description>Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at</description>
+    </item>
+    <item>
+      <title>microsoft/windows-rs</title>
+      <link>https://www.github.com/microsoft/windows-rs</link>
+      <description>Rust for Windows</description>
+    </item>
+    <item>
+      <title>ByteByteGoHq/system-design-101</title>
+      <link>https://www.github.com/ByteByteGoHq/system-design-101</link>
+      <description>Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.</description>
+    </item>
+    <item>
+      <title>freqtrade/freqtrade</title>
+      <link>https://www.github.com/freqtrade/freqtrade</link>
+      <description>Free, open source crypto trading bot</description>
+    </item>
+    <item>
+      <title>LazyVim/LazyVim</title>
+      <link>https://www.github.com/LazyVim/LazyVim</link>
+      <description>Neovim config for the lazy</description>
+    </item>
+  </channel>
+</rss>
