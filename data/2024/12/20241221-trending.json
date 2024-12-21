@@ -1,0 +1,172 @@
+[
+  {
+    "projectName": "cameron314/concurrentqueue",
+    "desc": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11",
+    "language": "C++",
+    "stars": "10,376",
+    "todayStars": "17",
+    "forks": "1,710",
+    "link": "/cameron314/concurrentqueue"
+  },
+  {
+    "projectName": "flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "stars": "167,260",
+    "todayStars": "36",
+    "forks": "27,734",
+    "link": "/flutter/flutter"
+  },
+  {
+    "projectName": "stripe/stripe-ios",
+    "desc": "Stripe iOS SDK",
+    "language": "Swift",
+    "stars": "2,352",
+    "todayStars": "40",
+    "forks": "1,002",
+    "link": "/stripe/stripe-ios"
+  },
+  {
+    "projectName": "taichi-dev/taichi",
+    "desc": "Productive, portable, and performant GPU programming in Python.",
+    "language": "C++",
+    "stars": "26,044",
+    "todayStars": "156",
+    "forks": "2,298",
+    "link": "/taichi-dev/taichi"
+  },
+  {
+    "projectName": "meta-llama/llama-stack",
+    "desc": "Composable building blocks to build Llama Apps",
+    "language": "Python",
+    "stars": "5,571",
+    "todayStars": "65",
+    "forks": "704",
+    "link": "/meta-llama/llama-stack"
+  },
+  {
+    "projectName": "nuxt/nuxt",
+    "desc": "The Intuitive Vue Framework.",
+    "language": "TypeScript",
+    "stars": "55,432",
+    "todayStars": "14",
+    "forks": "5,066",
+    "link": "/nuxt/nuxt"
+  },
+  {
+    "projectName": "vitest-dev/vitest",
+    "desc": "Next generation testing framework powered by Vite.",
+    "language": "TypeScript",
+    "stars": "13,376",
+    "todayStars": "13",
+    "forks": "1,214",
+    "link": "/vitest-dev/vitest"
+  },
+  {
+    "projectName": "shardeum/shardeum",
+    "desc": "Shardeum is an EVM based autoscaling blockchain",
+    "language": "TypeScript",
+    "stars": "24,676",
+    "todayStars": "706",
+    "forks": "471",
+    "link": "/shardeum/shardeum"
+  },
+  {
+    "projectName": "meilisearch/meilisearch",
+    "desc": "A lightning-fast search API that fits effortlessly into your apps, websites, and workflow",
+    "language": "Rust",
+    "stars": "48,261",
+    "todayStars": "39",
+    "forks": "1,883",
+    "link": "/meilisearch/meilisearch"
+  },
+  {
+    "projectName": "scylladb/scylladb",
+    "desc": "NoSQL data store using the seastar framework, compatible with Apache Cassandra",
+    "language": "C++",
+    "stars": "13,831",
+    "todayStars": "20",
+    "forks": "1,314",
+    "link": "/scylladb/scylladb"
+  },
+  {
+    "projectName": "PatrickJS/awesome-cursorrules",
+    "desc": "📄 A curated list of awesome .cursorrules files",
+    "stars": "4,049",
+    "todayStars": "66",
+    "forks": "234",
+    "link": "/PatrickJS/awesome-cursorrules"
+  },
+  {
+    "projectName": "anoma/anoma",
+    "desc": "Reference implementation of Anoma",
+    "language": "Elixir",
+    "stars": "11,870",
+    "todayStars": "1",
+    "forks": "487",
+    "link": "/anoma/anoma"
+  },
+  {
+    "projectName": "cline/cline",
+    "desc": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+    "language": "TypeScript",
+    "stars": "15,562",
+    "todayStars": "132",
+    "forks": "1,266",
+    "link": "/cline/cline"
+  },
+  {
+    "projectName": "seleniumbase/SeleniumBase",
+    "desc": "Python APIs for web automation, testing, and bypassing bot-detection.",
+    "language": "Python",
+    "stars": "7,243",
+    "todayStars": "405",
+    "forks": "1,055",
+    "link": "/seleniumbase/SeleniumBase"
+  },
+  {
+    "projectName": "XiaoMi/ha_xiaomi_home",
+    "desc": "Xiaomi Home Integration for Home Assistant",
+    "language": "Python",
+    "stars": "13,446",
+    "todayStars": "2",
+    "forks": "565",
+    "link": "/XiaoMi/ha_xiaomi_home"
+  },
+  {
+    "projectName": "Helicone/helicone",
+    "desc": "🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓",
+    "language": "TypeScript",
+    "stars": "2,483",
+    "todayStars": "38",
+    "forks": "271",
+    "link": "/Helicone/helicone"
+  },
+  {
+    "projectName": "github/CopilotForXcode",
+    "desc": "Xcode extension for GitHub Copilot",
+    "language": "Swift",
+    "stars": "2,256",
+    "todayStars": "40",
+    "forks": "77",
+    "link": "/github/CopilotForXcode"
+  },
+  {
+    "projectName": "comet-ml/opik",
+    "desc": "From RAG chatbots to code assistants to complex agentic pipelines and beyond, build LLM systems that run better, faster, and cheaper with tracing, evaluations, and dashboards.",
+    "language": "Python",
+    "stars": "3,452",
+    "todayStars": "261",
+    "forks": "199",
+    "link": "/comet-ml/opik"
+  },
+  {
+    "projectName": "Genesis-Embodied-AI/Genesis",
+    "desc": "A generative world for general-purpose robotics & embodied AI learning.",
+    "language": "Python",
+    "stars": "15,567",
+    "todayStars": "7",
+    "forks": "1,045",
+    "link": "/Genesis-Embodied-AI/Genesis"
+  }
+]
