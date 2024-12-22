@@ -1,0 +1,173 @@
+[
+  {
+    "projectName": "1Panel-dev/1Panel",
+    "desc": "🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.",
+    "language": "Go",
+    "stars": "23,908",
+    "todayStars": "75",
+    "forks": "2,171",
+    "link": "/1Panel-dev/1Panel"
+  },
+  {
+    "projectName": "paradigmxyz/reth",
+    "desc": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+    "language": "Rust",
+    "stars": "4,168",
+    "todayStars": "6",
+    "forks": "1,289",
+    "link": "/paradigmxyz/reth"
+  },
+  {
+    "projectName": "bol-van/zapret",
+    "desc": "DPI bypass multi platform",
+    "language": "C",
+    "stars": "9,043",
+    "todayStars": "32",
+    "forks": "674",
+    "link": "/bol-van/zapret"
+  },
+  {
+    "projectName": "donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "stars": "280,540",
+    "todayStars": "431",
+    "forks": "46,990",
+    "link": "/donnemartin/system-design-primer"
+  },
+  {
+    "projectName": "github/CopilotForXcode",
+    "desc": "Xcode extension for GitHub Copilot",
+    "language": "Swift",
+    "stars": "2,363",
+    "todayStars": "109",
+    "forks": "88",
+    "link": "/github/CopilotForXcode"
+  },
+  {
+    "projectName": "XiaoMi/ha_xiaomi_home",
+    "desc": "Xiaomi Home Integration for Home Assistant",
+    "language": "Python",
+    "stars": "13,881",
+    "todayStars": "514",
+    "forks": "590",
+    "link": "/XiaoMi/ha_xiaomi_home"
+  },
+  {
+    "projectName": "tldraw/tldraw",
+    "desc": "whiteboard / infinite canvas SDK",
+    "language": "TypeScript",
+    "stars": "36,848",
+    "todayStars": "114",
+    "forks": "2,259",
+    "link": "/tldraw/tldraw"
+  },
+  {
+    "projectName": "shardeum/shardeum",
+    "desc": "Shardeum is an EVM based autoscaling blockchain",
+    "language": "TypeScript",
+    "stars": "25,361",
+    "todayStars": "793",
+    "forks": "480",
+    "link": "/shardeum/shardeum"
+  },
+  {
+    "projectName": "Guovin/iptv-api",
+    "desc": "📺IPTV电视直播源更新工具🚀：✨央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持IPv4/IPv6；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool",
+    "language": "Python",
+    "stars": "9,691",
+    "todayStars": "46",
+    "forks": "2,059",
+    "link": "/Guovin/iptv-api"
+  },
+  {
+    "projectName": "taichi-dev/taichi",
+    "desc": "Productive, portable, and performant GPU programming in Python.",
+    "language": "C++",
+    "stars": "26,172",
+    "todayStars": "209",
+    "forks": "2,303",
+    "link": "/taichi-dev/taichi"
+  },
+  {
+    "projectName": "microsoft/PromptWizard",
+    "desc": "Task-Aware Agent-driven Prompt Optimization Framework",
+    "language": "Python",
+    "stars": "520",
+    "todayStars": "59",
+    "forks": "39",
+    "link": "/microsoft/PromptWizard"
+  },
+  {
+    "projectName": "web-infra-dev/midscene",
+    "desc": "An AI-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language.",
+    "language": "HTML",
+    "stars": "1,034",
+    "todayStars": "31",
+    "forks": "60",
+    "link": "/web-infra-dev/midscene"
+  },
+  {
+    "projectName": "anthropics/anthropic-cookbook",
+    "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "language": "Jupyter Notebook",
+    "stars": "7,683",
+    "todayStars": "109",
+    "forks": "951",
+    "link": "/anthropics/anthropic-cookbook"
+  },
+  {
+    "projectName": "Zipstack/unstract",
+    "desc": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+    "language": "Python",
+    "stars": "2,765",
+    "todayStars": "34",
+    "forks": "174",
+    "link": "/Zipstack/unstract"
+  },
+  {
+    "projectName": "seleniumbase/SeleniumBase",
+    "desc": "Python APIs for web automation, testing, and bypassing bot-detection.",
+    "language": "Python",
+    "stars": "7,493",
+    "todayStars": "314",
+    "forks": "1,059",
+    "link": "/seleniumbase/SeleniumBase"
+  },
+  {
+    "projectName": "apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "language": "Python",
+    "stars": "37,937",
+    "todayStars": "24",
+    "forks": "14,435",
+    "link": "/apache/airflow"
+  },
+  {
+    "projectName": "apankrat/nullboard",
+    "desc": "Nullboard is a minimalist kanban board, focused on compactness and readability.",
+    "language": "HTML",
+    "stars": "3,639",
+    "todayStars": "278",
+    "forks": "232",
+    "link": "/apankrat/nullboard"
+  },
+  {
+    "projectName": "Genesis-Embodied-AI/Genesis",
+    "desc": "A generative world for general-purpose robotics & embodied AI learning.",
+    "language": "Python",
+    "stars": "16,927",
+    "todayStars": "2",
+    "forks": "1,178",
+    "link": "/Genesis-Embodied-AI/Genesis"
+  },
+  {
+    "projectName": "nicbarker/clay",
+    "desc": "High performance UI layout library in C.",
+    "language": "C",
+    "stars": "4,534",
+    "todayStars": "812",
+    "forks": "118",
+    "link": "/nicbarker/clay"
+  }
+]

@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Sun, 22 Dec 2024 08:33:00 +0000</lastBuildDate>
+    <item>
+      <title>nicbarker/clay</title>
+      <link>https://www.github.com/nicbarker/clay</link>
+      <description>High performance UI layout library in C.</description>
+    </item>
+    <item>
+      <title>Genesis-Embodied-AI/Genesis</title>
+      <link>https://www.github.com/Genesis-Embodied-AI/Genesis</link>
+      <description>A generative world for general-purpose robotics &amp; embodied AI learning.</description>
+    </item>
+    <item>
+      <title>apankrat/nullboard</title>
+      <link>https://www.github.com/apankrat/nullboard</link>
+      <description>Nullboard is a minimalist kanban board, focused on compactness and readability.</description>
+    </item>
+    <item>
+      <title>apache/airflow</title>
+      <link>https://www.github.com/apache/airflow</link>
+      <description>Apache Airflow - A platform to programmatically author, schedule, and monitor workflows</description>
+    </item>
+    <item>
+      <title>seleniumbase/SeleniumBase</title>
+      <link>https://www.github.com/seleniumbase/SeleniumBase</link>
+      <description>Python APIs for web automation, testing, and bypassing bot-detection.</description>
+    </item>
+    <item>
+      <title>Zipstack/unstract</title>
+      <link>https://www.github.com/Zipstack/unstract</link>
+      <description>No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents</description>
+    </item>
+    <item>
+      <title>anthropics/anthropic-cookbook</title>
+      <link>https://www.github.com/anthropics/anthropic-cookbook</link>
+      <description>A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</description>
+    </item>
+    <item>
+      <title>web-infra-dev/midscene</title>
+      <link>https://www.github.com/web-infra-dev/midscene</link>
+      <description>An AI-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language.</description>
+    </item>
+    <item>
+      <title>microsoft/PromptWizard</title>
+      <link>https://www.github.com/microsoft/PromptWizard</link>
+      <description>Task-Aware Agent-driven Prompt Optimization Framework</description>
+    </item>
+    <item>
+      <title>taichi-dev/taichi</title>
+      <link>https://www.github.com/taichi-dev/taichi</link>
+      <description>Productive, portable, and performant GPU programming in Python.</description>
+    </item>
+    <item>
+      <title>Guovin/iptv-api</title>
+      <link>https://www.github.com/Guovin/iptv-api</link>
+      <description>📺IPTV电视直播源更新工具🚀：✨央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持IPv4/IPv6；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool</description>
+    </item>
+    <item>
+      <title>shardeum/shardeum</title>
+      <link>https://www.github.com/shardeum/shardeum</link>
+      <description>Shardeum is an EVM based autoscaling blockchain</description>
+    </item>
+    <item>
+      <title>tldraw/tldraw</title>
+      <link>https://www.github.com/tldraw/tldraw</link>
+      <description>whiteboard / infinite canvas SDK</description>
+    </item>
+    <item>
+      <title>XiaoMi/ha_xiaomi_home</title>
+      <link>https://www.github.com/XiaoMi/ha_xiaomi_home</link>
+      <description>Xiaomi Home Integration for Home Assistant</description>
+    </item>
+    <item>
+      <title>github/CopilotForXcode</title>
+      <link>https://www.github.com/github/CopilotForXcode</link>
+      <description>Xcode extension for GitHub Copilot</description>
+    </item>
+    <item>
+      <title>donnemartin/system-design-primer</title>
+      <link>https://www.github.com/donnemartin/system-design-primer</link>
+      <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
+    </item>
+    <item>
+      <title>bol-van/zapret</title>
+      <link>https://www.github.com/bol-van/zapret</link>
+      <description>DPI bypass multi platform</description>
+    </item>
+    <item>
+      <title>paradigmxyz/reth</title>
+      <link>https://www.github.com/paradigmxyz/reth</link>
+      <description>Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</description>
+    </item>
+    <item>
+      <title>1Panel-dev/1Panel</title>
+      <link>https://www.github.com/1Panel-dev/1Panel</link>
+      <description>🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.</description>
+    </item>
+  </channel>
+</rss>
