@@ -1,0 +1,146 @@
+[
+  {
+    "projectName": "github/CopilotForXcode",
+    "desc": "Xcode extension for GitHub Copilot",
+    "language": "Swift",
+    "stars": "2,479",
+    "todayStars": "107",
+    "forks": "99",
+    "link": "/github/CopilotForXcode"
+  },
+  {
+    "projectName": "shardeum/shardeum",
+    "desc": "Shardeum is an EVM based autoscaling blockchain",
+    "language": "TypeScript",
+    "stars": "25,874",
+    "todayStars": "796",
+    "forks": "488",
+    "link": "/shardeum/shardeum"
+  },
+  {
+    "projectName": "browserbase/stagehand",
+    "desc": "An AI web browsing framework focused on simplicity and extensibility.",
+    "language": "TypeScript",
+    "stars": "2,183",
+    "todayStars": "116",
+    "forks": "90",
+    "link": "/browserbase/stagehand"
+  },
+  {
+    "projectName": "raysan5/raylib",
+    "desc": "A simple and easy-to-use library to enjoy videogames programming",
+    "language": "C",
+    "stars": "23,547",
+    "todayStars": "24",
+    "forks": "2,331",
+    "link": "/raysan5/raylib"
+  },
+  {
+    "projectName": "Zipstack/unstract",
+    "desc": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+    "language": "Python",
+    "stars": "2,975",
+    "todayStars": "171",
+    "forks": "184",
+    "link": "/Zipstack/unstract"
+  },
+  {
+    "projectName": "Helicone/helicone",
+    "desc": "🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓",
+    "language": "TypeScript",
+    "stars": "2,656",
+    "todayStars": "26",
+    "forks": "281",
+    "link": "/Helicone/helicone"
+  },
+  {
+    "projectName": "gorhill/uBlock",
+    "desc": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+    "language": "JavaScript",
+    "stars": "48,357",
+    "todayStars": "48",
+    "forks": "3,190",
+    "link": "/gorhill/uBlock"
+  },
+  {
+    "projectName": "taichi-dev/taichi",
+    "desc": "Productive, portable, and performant GPU programming in Python.",
+    "language": "C++",
+    "stars": "26,354",
+    "todayStars": "127",
+    "forks": "2,309",
+    "link": "/taichi-dev/taichi"
+  },
+  {
+    "projectName": "anthropics/anthropic-cookbook",
+    "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "language": "Jupyter Notebook",
+    "stars": "7,906",
+    "todayStars": "196",
+    "forks": "989",
+    "link": "/anthropics/anthropic-cookbook"
+  },
+  {
+    "projectName": "fchollet/ARC-AGI",
+    "desc": "The Abstraction and Reasoning Corpus",
+    "language": "JavaScript",
+    "stars": "3,897",
+    "todayStars": "69",
+    "forks": "613",
+    "link": "/fchollet/ARC-AGI"
+  },
+  {
+    "projectName": "bytedance/monolith",
+    "desc": "A Lightweight Recommendation System",
+    "language": "Python",
+    "stars": "3,263",
+    "todayStars": "306",
+    "forks": "303",
+    "link": "/bytedance/monolith"
+  },
+  {
+    "projectName": "bol-van/zapret",
+    "desc": "DPI bypass multi platform",
+    "language": "C",
+    "stars": "9,119",
+    "todayStars": "92",
+    "forks": "680",
+    "link": "/bol-van/zapret"
+  },
+  {
+    "projectName": "tldraw/tldraw",
+    "desc": "whiteboard / infinite canvas SDK",
+    "language": "TypeScript",
+    "stars": "37,177",
+    "todayStars": "305",
+    "forks": "2,275",
+    "link": "/tldraw/tldraw"
+  },
+  {
+    "projectName": "Genesis-Embodied-AI/Genesis",
+    "desc": "A generative world for general-purpose robotics & embodied AI learning.",
+    "language": "Python",
+    "stars": "18,106",
+    "todayStars": "1",
+    "forks": "1,290",
+    "link": "/Genesis-Embodied-AI/Genesis"
+  },
+  {
+    "projectName": "donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "stars": "281,482",
+    "todayStars": "418",
+    "forks": "47,117",
+    "link": "/donnemartin/system-design-primer"
+  },
+  {
+    "projectName": "nicbarker/clay",
+    "desc": "High performance UI layout library in C.",
+    "language": "C",
+    "stars": "5,989",
+    "todayStars": "1",
+    "forks": "166",
+    "link": "/nicbarker/clay"
+  }
+]

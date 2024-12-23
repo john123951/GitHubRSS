@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Mon, 23 Dec 2024 08:36:25 +0000</lastBuildDate>
+    <item>
+      <title>nicbarker/clay</title>
+      <link>https://www.github.com/nicbarker/clay</link>
+      <description>High performance UI layout library in C.</description>
+    </item>
+    <item>
+      <title>donnemartin/system-design-primer</title>
+      <link>https://www.github.com/donnemartin/system-design-primer</link>
+      <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
+    </item>
+    <item>
+      <title>Genesis-Embodied-AI/Genesis</title>
+      <link>https://www.github.com/Genesis-Embodied-AI/Genesis</link>
+      <description>A generative world for general-purpose robotics &amp; embodied AI learning.</description>
+    </item>
+    <item>
+      <title>tldraw/tldraw</title>
+      <link>https://www.github.com/tldraw/tldraw</link>
+      <description>whiteboard / infinite canvas SDK</description>
+    </item>
+    <item>
+      <title>bol-van/zapret</title>
+      <link>https://www.github.com/bol-van/zapret</link>
+      <description>DPI bypass multi platform</description>
+    </item>
+    <item>
+      <title>bytedance/monolith</title>
+      <link>https://www.github.com/bytedance/monolith</link>
+      <description>A Lightweight Recommendation System</description>
+    </item>
+    <item>
+      <title>fchollet/ARC-AGI</title>
+      <link>https://www.github.com/fchollet/ARC-AGI</link>
+      <description>The Abstraction and Reasoning Corpus</description>
+    </item>
+    <item>
+      <title>anthropics/anthropic-cookbook</title>
+      <link>https://www.github.com/anthropics/anthropic-cookbook</link>
+      <description>A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</description>
+    </item>
+    <item>
+      <title>taichi-dev/taichi</title>
+      <link>https://www.github.com/taichi-dev/taichi</link>
+      <description>Productive, portable, and performant GPU programming in Python.</description>
+    </item>
+    <item>
+      <title>gorhill/uBlock</title>
+      <link>https://www.github.com/gorhill/uBlock</link>
+      <description>uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.</description>
+    </item>
+    <item>
+      <title>Helicone/helicone</title>
+      <link>https://www.github.com/Helicone/helicone</link>
+      <description>🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓</description>
+    </item>
+    <item>
+      <title>Zipstack/unstract</title>
+      <link>https://www.github.com/Zipstack/unstract</link>
+      <description>No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents</description>
+    </item>
+    <item>
+      <title>raysan5/raylib</title>
+      <link>https://www.github.com/raysan5/raylib</link>
+      <description>A simple and easy-to-use library to enjoy videogames programming</description>
+    </item>
+    <item>
+      <title>browserbase/stagehand</title>
+      <link>https://www.github.com/browserbase/stagehand</link>
+      <description>An AI web browsing framework focused on simplicity and extensibility.</description>
+    </item>
+    <item>
+      <title>shardeum/shardeum</title>
+      <link>https://www.github.com/shardeum/shardeum</link>
+      <description>Shardeum is an EVM based autoscaling blockchain</description>
+    </item>
+    <item>
+      <title>github/CopilotForXcode</title>
+      <link>https://www.github.com/github/CopilotForXcode</link>
+      <description>Xcode extension for GitHub Copilot</description>
+    </item>
+  </channel>
+</rss>
