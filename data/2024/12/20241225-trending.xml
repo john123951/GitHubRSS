@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Wed, 25 Dec 2024 08:35:20 +0000</lastBuildDate>
+    <item>
+      <title>donnemartin/system-design-primer</title>
+      <link>https://www.github.com/donnemartin/system-design-primer</link>
+      <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
+    </item>
+    <item>
+      <title>anthropics/anthropic-cookbook</title>
+      <link>https://www.github.com/anthropics/anthropic-cookbook</link>
+      <description>A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</description>
+    </item>
+    <item>
+      <title>awslabs/multi-agent-orchestrator</title>
+      <link>https://www.github.com/awslabs/multi-agent-orchestrator</link>
+      <description>Flexible and powerful framework for managing multiple AI agents and handling complex conversations</description>
+    </item>
+    <item>
+      <title>nicbarker/clay</title>
+      <link>https://www.github.com/nicbarker/clay</link>
+      <description>High performance UI layout library in C.</description>
+    </item>
+    <item>
+      <title>tldraw/tldraw</title>
+      <link>https://www.github.com/tldraw/tldraw</link>
+      <description>whiteboard / infinite canvas SDK</description>
+    </item>
+    <item>
+      <title>browserbase/stagehand</title>
+      <link>https://www.github.com/browserbase/stagehand</link>
+      <description>An AI web browsing framework focused on simplicity and extensibility.</description>
+    </item>
+    <item>
+      <title>emmabostian/developer-portfolios</title>
+      <link>https://www.github.com/emmabostian/developer-portfolios</link>
+      <description>A list of developer portfolios for your inspiration</description>
+    </item>
+    <item>
+      <title>gitroomhq/postiz-app</title>
+      <link>https://www.github.com/gitroomhq/postiz-app</link>
+      <description>📨 The ultimate social media scheduling tool, with a bunch of AI 🤖</description>
+    </item>
+    <item>
+      <title>gorhill/uBlock</title>
+      <link>https://www.github.com/gorhill/uBlock</link>
+      <description>uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.</description>
+    </item>
+    <item>
+      <title>CodePhiliaX/Chat2DB</title>
+      <link>https://www.github.com/CodePhiliaX/Chat2DB</link>
+      <description>🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.</description>
+    </item>
+    <item>
+      <title>Shubhamsaboo/awesome-llm-apps</title>
+      <link>https://www.github.com/Shubhamsaboo/awesome-llm-apps</link>
+      <description>Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.</description>
+    </item>
+    <item>
+      <title>Zipstack/unstract</title>
+      <link>https://www.github.com/Zipstack/unstract</link>
+      <description>No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents</description>
+    </item>
+    <item>
+      <title>sxyazi/yazi</title>
+      <link>https://www.github.com/sxyazi/yazi</link>
+      <description>💥 Blazing fast terminal file manager written in Rust, based on async I/O.</description>
+    </item>
+    <item>
+      <title>kamranahmedse/developer-roadmap</title>
+      <link>https://www.github.com/kamranahmedse/developer-roadmap</link>
+      <description>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</description>
+    </item>
+    <item>
+      <title>FlowiseAI/Flowise</title>
+      <link>https://www.github.com/FlowiseAI/Flowise</link>
+      <description>Drag &amp; drop UI to build your customized LLM flow</description>
+    </item>
+    <item>
+      <title>Significant-Gravitas/AutoGPT</title>
+      <link>https://www.github.com/Significant-Gravitas/AutoGPT</link>
+      <description>AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.</description>
+    </item>
+    <item>
+      <title>ruanyf/weekly</title>
+      <link>https://www.github.com/ruanyf/weekly</link>
+      <description>科技爱好者周刊，每周五发布</description>
+    </item>
+    <item>
+      <title>practical-tutorials/project-based-learning</title>
+      <link>https://www.github.com/practical-tutorials/project-based-learning</link>
+      <description>Curated list of project-based tutorials</description>
+    </item>
+    <item>
+      <title>novuhq/novu</title>
+      <link>https://www.github.com/novuhq/novu</link>
+      <description>Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.</description>
+    </item>
+    <item>
+      <title>medusajs/medusa</title>
+      <link>https://www.github.com/medusajs/medusa</link>
+      <description>The world's most flexible commerce platform.</description>
+    </item>
+  </channel>
+</rss>
