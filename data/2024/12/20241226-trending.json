@@ -1,0 +1,90 @@
+[
+  {
+    "projectName": "microg/GmsCore",
+    "desc": "Free implementation of Play Services",
+    "language": "Java",
+    "stars": "9,011",
+    "todayStars": "11",
+    "forks": "1,772",
+    "link": "/microg/GmsCore"
+  },
+  {
+    "projectName": "langchain-ai/langchain",
+    "desc": "🦜🔗 Build context-aware reasoning applications",
+    "language": "Jupyter Notebook",
+    "stars": "96,862",
+    "todayStars": "69",
+    "forks": "15,752",
+    "link": "/langchain-ai/langchain"
+  },
+  {
+    "projectName": "OpenSPG/KAG",
+    "desc": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+    "language": "Python",
+    "stars": "1,282",
+    "todayStars": "138",
+    "forks": "101",
+    "link": "/OpenSPG/KAG"
+  },
+  {
+    "projectName": "nammayatri/nammayatri",
+    "desc": "A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.",
+    "language": "PureScript",
+    "stars": "1,736",
+    "todayStars": "11",
+    "forks": "195",
+    "link": "/nammayatri/nammayatri"
+  },
+  {
+    "projectName": "IceWhaleTech/CasaOS",
+    "desc": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "language": "Go",
+    "stars": "27,425",
+    "todayStars": "37",
+    "forks": "1,492",
+    "link": "/IceWhaleTech/CasaOS"
+  },
+  {
+    "projectName": "donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "stars": "282,731",
+    "todayStars": "407",
+    "forks": "47,269",
+    "link": "/donnemartin/system-design-primer"
+  },
+  {
+    "projectName": "openai/openai-openapi",
+    "desc": "OpenAPI specification for the OpenAI API",
+    "stars": "1,625",
+    "todayStars": "37",
+    "forks": "397",
+    "link": "/openai/openai-openapi"
+  },
+  {
+    "projectName": "lobehub/lobe-chat",
+    "desc": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.",
+    "language": "TypeScript",
+    "stars": "49,744",
+    "todayStars": "90",
+    "forks": "10,786",
+    "link": "/lobehub/lobe-chat"
+  },
+  {
+    "projectName": "practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials",
+    "stars": "208,905",
+    "todayStars": "292",
+    "forks": "27,262",
+    "link": "/practical-tutorials/project-based-learning"
+  },
+  {
+    "projectName": "anti-work/shortest",
+    "desc": "QA via natural language AI tests",
+    "language": "TypeScript",
+    "stars": "1,387",
+    "todayStars": "280",
+    "forks": "59",
+    "link": "/anti-work/shortest"
+  }
+]

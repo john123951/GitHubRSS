@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Thu, 26 Dec 2024 08:35:16 +0000</lastBuildDate>
+    <item>
+      <title>anti-work/shortest</title>
+      <link>https://www.github.com/anti-work/shortest</link>
+      <description>QA via natural language AI tests</description>
+    </item>
+    <item>
+      <title>practical-tutorials/project-based-learning</title>
+      <link>https://www.github.com/practical-tutorials/project-based-learning</link>
+      <description>Curated list of project-based tutorials</description>
+    </item>
+    <item>
+      <title>lobehub/lobe-chat</title>
+      <link>https://www.github.com/lobehub/lobe-chat</link>
+      <description>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.</description>
+    </item>
+    <item>
+      <title>openai/openai-openapi</title>
+      <link>https://www.github.com/openai/openai-openapi</link>
+      <description>OpenAPI specification for the OpenAI API</description>
+    </item>
+    <item>
+      <title>donnemartin/system-design-primer</title>
+      <link>https://www.github.com/donnemartin/system-design-primer</link>
+      <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
+    </item>
+    <item>
+      <title>IceWhaleTech/CasaOS</title>
+      <link>https://www.github.com/IceWhaleTech/CasaOS</link>
+      <description>CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.</description>
+    </item>
+    <item>
+      <title>nammayatri/nammayatri</title>
+      <link>https://www.github.com/nammayatri/nammayatri</link>
+      <description>A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.</description>
+    </item>
+    <item>
+      <title>OpenSPG/KAG</title>
+      <link>https://www.github.com/OpenSPG/KAG</link>
+      <description>KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&amp;A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.</description>
+    </item>
+    <item>
+      <title>langchain-ai/langchain</title>
+      <link>https://www.github.com/langchain-ai/langchain</link>
+      <description>🦜🔗 Build context-aware reasoning applications</description>
+    </item>
+    <item>
+      <title>microg/GmsCore</title>
+      <link>https://www.github.com/microg/GmsCore</link>
+      <description>Free implementation of Play Services</description>
+    </item>
+  </channel>
+</rss>
