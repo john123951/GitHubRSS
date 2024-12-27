@@ -1,0 +1,125 @@
+[
+  {
+    "projectName": "practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials",
+    "stars": "209,190",
+    "todayStars": "399",
+    "forks": "27,293",
+    "link": "/practical-tutorials/project-based-learning"
+  },
+  {
+    "projectName": "2dust/v2rayN",
+    "desc": "A GUI client for Windows, Linux and macOS, support Xray core and sing-box-core and others",
+    "language": "C#",
+    "stars": "72,398",
+    "todayStars": "85",
+    "forks": "11,843",
+    "link": "/2dust/v2rayN"
+  },
+  {
+    "projectName": "ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布",
+    "stars": "50,394",
+    "todayStars": "85",
+    "forks": "3,020",
+    "link": "/ruanyf/weekly"
+  },
+  {
+    "projectName": "OpenSPG/KAG",
+    "desc": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+    "language": "Python",
+    "stars": "1,510",
+    "todayStars": "311",
+    "forks": "110",
+    "link": "/OpenSPG/KAG"
+  },
+  {
+    "projectName": "ziglang/zig",
+    "desc": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "language": "Zig",
+    "stars": "35,695",
+    "todayStars": "25",
+    "forks": "2,596",
+    "link": "/ziglang/zig"
+  },
+  {
+    "projectName": "Significant-Gravitas/AutoGPT",
+    "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "language": "Python",
+    "stars": "169,807",
+    "todayStars": "61",
+    "forks": "44,672",
+    "link": "/Significant-Gravitas/AutoGPT"
+  },
+  {
+    "projectName": "3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "stars": "72,491",
+    "todayStars": "43",
+    "forks": "6,348",
+    "link": "/3b1b/manim"
+  },
+  {
+    "projectName": "kamranahmedse/developer-roadmap",
+    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "language": "TypeScript",
+    "stars": "302,916",
+    "todayStars": "125",
+    "forks": "39,678",
+    "link": "/kamranahmedse/developer-roadmap"
+  },
+  {
+    "projectName": "gitroomhq/postiz-app",
+    "desc": "📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
+    "language": "TypeScript",
+    "stars": "15,109",
+    "todayStars": "35",
+    "forks": "2,559",
+    "link": "/gitroomhq/postiz-app"
+  },
+  {
+    "projectName": "apache/echarts",
+    "desc": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+    "language": "TypeScript",
+    "stars": "61,181",
+    "todayStars": "19",
+    "forks": "19,642",
+    "link": "/apache/echarts"
+  },
+  {
+    "projectName": "openai/openai-openapi",
+    "desc": "OpenAPI specification for the OpenAI API",
+    "stars": "1,738",
+    "todayStars": "146",
+    "forks": "408",
+    "link": "/openai/openai-openapi"
+  },
+  {
+    "projectName": "imputnet/cobalt",
+    "desc": "best way to save what you love",
+    "language": "Svelte",
+    "stars": "21,386",
+    "todayStars": "398",
+    "forks": "1,760",
+    "link": "/imputnet/cobalt"
+  },
+  {
+    "projectName": "lobehub/lobe-chat",
+    "desc": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.",
+    "language": "TypeScript",
+    "stars": "49,997",
+    "todayStars": "251",
+    "forks": "10,815",
+    "link": "/lobehub/lobe-chat"
+  },
+  {
+    "projectName": "anti-work/shortest",
+    "desc": "QA via natural language AI tests",
+    "language": "TypeScript",
+    "stars": "2,295",
+    "todayStars": "479",
+    "forks": "129",
+    "link": "/anti-work/shortest"
+  }
+]

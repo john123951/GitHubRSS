@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Fri, 27 Dec 2024 08:34:32 +0000</lastBuildDate>
+    <item>
+      <title>anti-work/shortest</title>
+      <link>https://www.github.com/anti-work/shortest</link>
+      <description>QA via natural language AI tests</description>
+    </item>
+    <item>
+      <title>lobehub/lobe-chat</title>
+      <link>https://www.github.com/lobehub/lobe-chat</link>
+      <description>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.</description>
+    </item>
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://www.github.com/imputnet/cobalt</link>
+      <description>best way to save what you love</description>
+    </item>
+    <item>
+      <title>openai/openai-openapi</title>
+      <link>https://www.github.com/openai/openai-openapi</link>
+      <description>OpenAPI specification for the OpenAI API</description>
+    </item>
+    <item>
+      <title>apache/echarts</title>
+      <link>https://www.github.com/apache/echarts</link>
+      <description>Apache ECharts is a powerful, interactive charting and data visualization library for browser</description>
+    </item>
+    <item>
+      <title>gitroomhq/postiz-app</title>
+      <link>https://www.github.com/gitroomhq/postiz-app</link>
+      <description>📨 The ultimate social media scheduling tool, with a bunch of AI 🤖</description>
+    </item>
+    <item>
+      <title>kamranahmedse/developer-roadmap</title>
+      <link>https://www.github.com/kamranahmedse/developer-roadmap</link>
+      <description>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</description>
+    </item>
+    <item>
+      <title>3b1b/manim</title>
+      <link>https://www.github.com/3b1b/manim</link>
+      <description>Animation engine for explanatory math videos</description>
+    </item>
+    <item>
+      <title>Significant-Gravitas/AutoGPT</title>
+      <link>https://www.github.com/Significant-Gravitas/AutoGPT</link>
+      <description>AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.</description>
+    </item>
+    <item>
+      <title>ziglang/zig</title>
+      <link>https://www.github.com/ziglang/zig</link>
+      <description>General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.</description>
+    </item>
+    <item>
+      <title>OpenSPG/KAG</title>
+      <link>https://www.github.com/OpenSPG/KAG</link>
+      <description>KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&amp;A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.</description>
+    </item>
+    <item>
+      <title>ruanyf/weekly</title>
+      <link>https://www.github.com/ruanyf/weekly</link>
+      <description>科技爱好者周刊，每周五发布</description>
+    </item>
+    <item>
+      <title>2dust/v2rayN</title>
+      <link>https://www.github.com/2dust/v2rayN</link>
+      <description>A GUI client for Windows, Linux and macOS, support Xray core and sing-box-core and others</description>
+    </item>
+    <item>
+      <title>practical-tutorials/project-based-learning</title>
+      <link>https://www.github.com/practical-tutorials/project-based-learning</link>
+      <description>Curated list of project-based tutorials</description>
+    </item>
+  </channel>
+</rss>
