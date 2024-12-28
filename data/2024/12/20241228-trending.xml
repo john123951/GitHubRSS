@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Sat, 28 Dec 2024 08:33:14 +0000</lastBuildDate>
+    <item>
+      <title>anti-work/shortest</title>
+      <link>https://www.github.com/anti-work/shortest</link>
+      <description>QA via natural language AI tests</description>
+    </item>
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://www.github.com/imputnet/cobalt</link>
+      <description>best way to save what you love</description>
+    </item>
+    <item>
+      <title>lobehub/lobe-chat</title>
+      <link>https://www.github.com/lobehub/lobe-chat</link>
+      <description>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.</description>
+    </item>
+    <item>
+      <title>OpenSPG/KAG</title>
+      <link>https://www.github.com/OpenSPG/KAG</link>
+      <description>KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&amp;A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.</description>
+    </item>
+    <item>
+      <title>n8n-io/n8n</title>
+      <link>https://www.github.com/n8n-io/n8n</link>
+      <description>Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.</description>
+    </item>
+    <item>
+      <title>siyuan-note/siyuan</title>
+      <link>https://www.github.com/siyuan-note/siyuan</link>
+      <description>A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.</description>
+    </item>
+    <item>
+      <title>langchain-ai/langchain</title>
+      <link>https://www.github.com/langchain-ai/langchain</link>
+      <description>🦜🔗 Build context-aware reasoning applications</description>
+    </item>
+    <item>
+      <title>codecrafters-io/build-your-own-x</title>
+      <link>https://www.github.com/codecrafters-io/build-your-own-x</link>
+      <description>Master programming by recreating your favorite technologies from scratch.</description>
+    </item>
+    <item>
+      <title>shadps4-emu/shadPS4</title>
+      <link>https://www.github.com/shadps4-emu/shadPS4</link>
+      <description>PS4 emulator for Windows,Linux,MacOS</description>
+    </item>
+    <item>
+      <title>apache/echarts</title>
+      <link>https://www.github.com/apache/echarts</link>
+      <description>Apache ECharts is a powerful, interactive charting and data visualization library for browser</description>
+    </item>
+    <item>
+      <title>dair-ai/Prompt-Engineering-Guide</title>
+      <link>https://www.github.com/dair-ai/Prompt-Engineering-Guide</link>
+      <description>🐙 Guides, papers, lecture, notebooks and resources for prompt engineering</description>
+    </item>
+    <item>
+      <title>phidatahq/phidata</title>
+      <link>https://www.github.com/phidatahq/phidata</link>
+      <description>Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.</description>
+    </item>
+    <item>
+      <title>teableio/teable</title>
+      <link>https://www.github.com/teableio/teable</link>
+      <description>✨ The Next Gen Airtable Alternative: No-Code Postgres</description>
+    </item>
+    <item>
+      <title>microg/GmsCore</title>
+      <link>https://www.github.com/microg/GmsCore</link>
+      <description>Free implementation of Play Services</description>
+    </item>
+  </channel>
+</rss>

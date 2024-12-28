@@ -1,0 +1,128 @@
+[
+  {
+    "projectName": "microg/GmsCore",
+    "desc": "Free implementation of Play Services",
+    "language": "Java",
+    "stars": "9,106",
+    "todayStars": "17",
+    "forks": "1,777",
+    "link": "/microg/GmsCore"
+  },
+  {
+    "projectName": "teableio/teable",
+    "desc": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+    "language": "TypeScript",
+    "stars": "14,127",
+    "todayStars": "34",
+    "forks": "651",
+    "link": "/teableio/teable"
+  },
+  {
+    "projectName": "phidatahq/phidata",
+    "desc": "Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+    "language": "Python",
+    "stars": "16,944",
+    "todayStars": "27",
+    "forks": "2,287",
+    "link": "/phidatahq/phidata"
+  },
+  {
+    "projectName": "dair-ai/Prompt-Engineering-Guide",
+    "desc": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",
+    "language": "MDX",
+    "stars": "51,510",
+    "todayStars": "36",
+    "forks": "4,998",
+    "link": "/dair-ai/Prompt-Engineering-Guide"
+  },
+  {
+    "projectName": "apache/echarts",
+    "desc": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+    "language": "TypeScript",
+    "stars": "61,321",
+    "todayStars": "187",
+    "forks": "19,650",
+    "link": "/apache/echarts"
+  },
+  {
+    "projectName": "shadps4-emu/shadPS4",
+    "desc": "PS4 emulator for Windows,Linux,MacOS",
+    "language": "C++",
+    "stars": "11,949",
+    "todayStars": "78",
+    "forks": "803",
+    "link": "/shadps4-emu/shadPS4"
+  },
+  {
+    "projectName": "codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "stars": "319,071",
+    "todayStars": "174",
+    "forks": "29,598",
+    "link": "/codecrafters-io/build-your-own-x"
+  },
+  {
+    "projectName": "langchain-ai/langchain",
+    "desc": "🦜🔗 Build context-aware reasoning applications",
+    "language": "Jupyter Notebook",
+    "stars": "97,042",
+    "todayStars": "64",
+    "forks": "15,766",
+    "link": "/langchain-ai/langchain"
+  },
+  {
+    "projectName": "siyuan-note/siyuan",
+    "desc": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+    "language": "TypeScript",
+    "stars": "24,745",
+    "todayStars": "499",
+    "forks": "1,704",
+    "link": "/siyuan-note/siyuan"
+  },
+  {
+    "projectName": "n8n-io/n8n",
+    "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "language": "TypeScript",
+    "stars": "53,007",
+    "todayStars": "145",
+    "forks": "9,136",
+    "link": "/n8n-io/n8n"
+  },
+  {
+    "projectName": "OpenSPG/KAG",
+    "desc": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+    "language": "Python",
+    "stars": "1,703",
+    "todayStars": "228",
+    "forks": "119",
+    "link": "/OpenSPG/KAG"
+  },
+  {
+    "projectName": "lobehub/lobe-chat",
+    "desc": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.",
+    "language": "TypeScript",
+    "stars": "50,188",
+    "todayStars": "253",
+    "forks": "10,831",
+    "link": "/lobehub/lobe-chat"
+  },
+  {
+    "projectName": "imputnet/cobalt",
+    "desc": "best way to save what you love",
+    "language": "Svelte",
+    "stars": "22,350",
+    "todayStars": "576",
+    "forks": "1,815",
+    "link": "/imputnet/cobalt"
+  },
+  {
+    "projectName": "anti-work/shortest",
+    "desc": "QA via natural language AI tests",
+    "language": "TypeScript",
+    "stars": "2,928",
+    "todayStars": "954",
+    "forks": "152",
+    "link": "/anti-work/shortest"
+  }
+]
