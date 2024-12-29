@@ -1,0 +1,128 @@
+[
+  {
+    "projectName": "521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "language": "Python",
+    "stars": "96,634",
+    "todayStars": "62",
+    "forks": "9,746",
+    "link": "/521xueweihan/HelloGitHub"
+  },
+  {
+    "projectName": "fluent/fluent-bit",
+    "desc": "Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",
+    "language": "C",
+    "stars": "6,238",
+    "todayStars": "28",
+    "forks": "1,612",
+    "link": "/fluent/fluent-bit"
+  },
+  {
+    "projectName": "ashishps1/awesome-low-level-design",
+    "desc": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+    "language": "Java",
+    "stars": "9,591",
+    "todayStars": "70",
+    "forks": "2,444",
+    "link": "/ashishps1/awesome-low-level-design"
+  },
+  {
+    "projectName": "upscayl/upscayl",
+    "desc": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+    "language": "TypeScript",
+    "stars": "32,351",
+    "todayStars": "38",
+    "forks": "1,486",
+    "link": "/upscayl/upscayl"
+  },
+  {
+    "projectName": "kovidgoyal/kitty",
+    "desc": "Cross-platform, fast, feature-rich, GPU based terminal",
+    "language": "Python",
+    "stars": "25,369",
+    "todayStars": "47",
+    "forks": "1,009",
+    "link": "/kovidgoyal/kitty"
+  },
+  {
+    "projectName": "kangfenmao/cherry-studio",
+    "desc": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers",
+    "language": "TypeScript",
+    "stars": "2,413",
+    "todayStars": "35",
+    "forks": "135",
+    "link": "/kangfenmao/cherry-studio"
+  },
+  {
+    "projectName": "apache/echarts",
+    "desc": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+    "language": "TypeScript",
+    "stars": "61,436",
+    "todayStars": "139",
+    "forks": "19,656",
+    "link": "/apache/echarts"
+  },
+  {
+    "projectName": "toeverything/AFFiNE",
+    "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "language": "TypeScript",
+    "stars": "43,871",
+    "todayStars": "38",
+    "forks": "2,856",
+    "link": "/toeverything/AFFiNE"
+  },
+  {
+    "projectName": "mbadolato/iTerm2-Color-Schemes",
+    "desc": "Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more",
+    "language": "Shell",
+    "stars": "25,045",
+    "todayStars": "10",
+    "forks": "6,449",
+    "link": "/mbadolato/iTerm2-Color-Schemes"
+  },
+  {
+    "projectName": "shadps4-emu/shadPS4",
+    "desc": "PS4 emulator for Windows,Linux,MacOS",
+    "language": "C++",
+    "stars": "12,199",
+    "todayStars": "255",
+    "forks": "810",
+    "link": "/shadps4-emu/shadPS4"
+  },
+  {
+    "projectName": "teableio/teable",
+    "desc": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+    "language": "TypeScript",
+    "stars": "14,338",
+    "todayStars": "268",
+    "forks": "663",
+    "link": "/teableio/teable"
+  },
+  {
+    "projectName": "opendatalab/MinerU",
+    "desc": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
+    "language": "Python",
+    "stars": "22,389",
+    "todayStars": "98",
+    "forks": "1,619",
+    "link": "/opendatalab/MinerU"
+  },
+  {
+    "projectName": "anti-work/shortest",
+    "desc": "QA via natural language AI tests",
+    "language": "TypeScript",
+    "stars": "3,153",
+    "todayStars": "602",
+    "forks": "164",
+    "link": "/anti-work/shortest"
+  },
+  {
+    "projectName": "imputnet/cobalt",
+    "desc": "best way to save what you love",
+    "language": "Svelte",
+    "stars": "22,897",
+    "todayStars": "1",
+    "forks": "1,867",
+    "link": "/imputnet/cobalt"
+  }
+]
