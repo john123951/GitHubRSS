@@ -1,0 +1,171 @@
+[
+  {
+    "projectName": "elizaOS/eliza",
+    "desc": "Autonomous agents for everyone",
+    "language": "TypeScript",
+    "stars": "6,742",
+    "todayStars": "149",
+    "forks": "1,976",
+    "link": "/elizaOS/eliza"
+  },
+  {
+    "projectName": "521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "language": "Python",
+    "stars": "96,826",
+    "todayStars": "157",
+    "forks": "9,748",
+    "link": "/521xueweihan/HelloGitHub"
+  },
+  {
+    "projectName": "dair-ai/Prompt-Engineering-Guide",
+    "desc": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",
+    "language": "MDX",
+    "stars": "51,760",
+    "todayStars": "53",
+    "forks": "5,014",
+    "link": "/dair-ai/Prompt-Engineering-Guide"
+  },
+  {
+    "projectName": "mbadolato/iTerm2-Color-Schemes",
+    "desc": "Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more",
+    "language": "Shell",
+    "stars": "25,117",
+    "todayStars": "105",
+    "forks": "6,457",
+    "link": "/mbadolato/iTerm2-Color-Schemes"
+  },
+  {
+    "projectName": "chiteroman/PlayIntegrityFix",
+    "desc": "Fix Play Integrity (and SafetyNet) verdicts.",
+    "language": "C++",
+    "stars": "5,560",
+    "todayStars": "53",
+    "forks": "347",
+    "link": "/chiteroman/PlayIntegrityFix"
+  },
+  {
+    "projectName": "phidatahq/phidata",
+    "desc": "Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+    "language": "Python",
+    "stars": "17,132",
+    "todayStars": "51",
+    "forks": "2,302",
+    "link": "/phidatahq/phidata"
+  },
+  {
+    "projectName": "opendatalab/MinerU",
+    "desc": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
+    "language": "Python",
+    "stars": "22,660",
+    "todayStars": "240",
+    "forks": "1,634",
+    "link": "/opendatalab/MinerU"
+  },
+  {
+    "projectName": "haydenbleasel/next-forge",
+    "desc": "Production-grade Turborepo template for Next.js apps.",
+    "language": "TypeScript",
+    "stars": "4,952",
+    "todayStars": "65",
+    "forks": "381",
+    "link": "/haydenbleasel/next-forge"
+  },
+  {
+    "projectName": "imputnet/cobalt",
+    "desc": "best way to save what you love",
+    "language": "Svelte",
+    "stars": "23,301",
+    "todayStars": "455",
+    "forks": "1,894",
+    "link": "/imputnet/cobalt"
+  },
+  {
+    "projectName": "kangfenmao/cherry-studio",
+    "desc": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers",
+    "language": "TypeScript",
+    "stars": "2,650",
+    "todayStars": "219",
+    "forks": "149",
+    "link": "/kangfenmao/cherry-studio"
+  },
+  {
+    "projectName": "siyuan-note/siyuan",
+    "desc": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+    "language": "TypeScript",
+    "stars": "25,160",
+    "todayStars": "98",
+    "forks": "1,718",
+    "link": "/siyuan-note/siyuan"
+  },
+  {
+    "projectName": "jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "stars": "308,758",
+    "todayStars": "131",
+    "forks": "77,292",
+    "link": "/jwasham/coding-interview-university"
+  },
+  {
+    "projectName": "3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "stars": "73,026",
+    "todayStars": "162",
+    "forks": "6,387",
+    "link": "/3b1b/manim"
+  },
+  {
+    "projectName": "trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "stars": "153,111",
+    "todayStars": "286",
+    "forks": "9,736",
+    "link": "/trimstray/the-book-of-secret-knowledge"
+  },
+  {
+    "projectName": "DrewThomasson/ebook2audiobook",
+    "desc": "Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!",
+    "language": "Python",
+    "stars": "2,539",
+    "todayStars": "165",
+    "forks": "178",
+    "link": "/DrewThomasson/ebook2audiobook"
+  },
+  {
+    "projectName": "pathwaycom/pathway",
+    "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+    "language": "Python",
+    "stars": "10,177",
+    "todayStars": "365",
+    "forks": "204",
+    "link": "/pathwaycom/pathway"
+  },
+  {
+    "projectName": "ManimCommunity/manim",
+    "desc": "A community-maintained Python framework for creating mathematical animations.",
+    "language": "Python",
+    "stars": "28,008",
+    "todayStars": "130",
+    "forks": "1,952",
+    "link": "/ManimCommunity/manim"
+  },
+  {
+    "projectName": "public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "language": "Python",
+    "stars": "321,749",
+    "todayStars": "324",
+    "forks": "34,191",
+    "link": "/public-apis/public-apis"
+  },
+  {
+    "projectName": "EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "language": "HTML",
+    "stars": "343,389",
+    "todayStars": "246",
+    "forks": "62,180",
+    "link": "/EbookFoundation/free-programming-books"
+  }
+]
