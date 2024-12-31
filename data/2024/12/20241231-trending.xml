@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Tue, 31 Dec 2024 08:34:58 +0000</lastBuildDate>
+    <item>
+      <title>EbookFoundation/free-programming-books</title>
+      <link>https://www.github.com/EbookFoundation/free-programming-books</link>
+      <description>📚 Freely available programming books</description>
+    </item>
+    <item>
+      <title>WerWolv/ImHex</title>
+      <link>https://www.github.com/WerWolv/ImHex</link>
+      <description>🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.</description>
+    </item>
+    <item>
+      <title>DrewThomasson/ebook2audiobook</title>
+      <link>https://www.github.com/DrewThomasson/ebook2audiobook</link>
+      <description>Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!</description>
+    </item>
+    <item>
+      <title>kovidgoyal/kitty</title>
+      <link>https://www.github.com/kovidgoyal/kitty</link>
+      <description>Cross-platform, fast, feature-rich, GPU based terminal</description>
+    </item>
+    <item>
+      <title>Stirling-Tools/Stirling-PDF</title>
+      <link>https://www.github.com/Stirling-Tools/Stirling-PDF</link>
+      <description>#1 Locally hosted web application that allows you to perform various operations on PDF files</description>
+    </item>
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://www.github.com/imputnet/cobalt</link>
+      <description>best way to save what you love</description>
+    </item>
+    <item>
+      <title>fish-shell/fish-shell</title>
+      <link>https://www.github.com/fish-shell/fish-shell</link>
+      <description>The user-friendly command line shell.</description>
+    </item>
+    <item>
+      <title>pathwaycom/pathway</title>
+      <link>https://www.github.com/pathwaycom/pathway</link>
+      <description>Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.</description>
+    </item>
+    <item>
+      <title>public-apis/public-apis</title>
+      <link>https://www.github.com/public-apis/public-apis</link>
+      <description>A collective list of free APIs</description>
+    </item>
+    <item>
+      <title>MervinPraison/PraisonAI</title>
+      <link>https://www.github.com/MervinPraison/PraisonAI</link>
+      <description>PraisonAI is an AI Agents Framework with Self Reflection. PraisonAI application combines PraisonAI Agents, AutoGen, and CrewAI into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human–agent collaboration.</description>
+    </item>
+    <item>
+      <title>ManimCommunity/manim</title>
+      <link>https://www.github.com/ManimCommunity/manim</link>
+      <description>A community-maintained Python framework for creating mathematical animations.</description>
+    </item>
+    <item>
+      <title>mikage-emu/mikage-dev</title>
+      <link>https://www.github.com/mikage-emu/mikage-dev</link>
+      <description>Mikage Developer Edition</description>
+    </item>
+    <item>
+      <title>pathwaycom/llm-app</title>
+      <link>https://www.github.com/pathwaycom/llm-app</link>
+      <description>Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.</description>
+    </item>
+    <item>
+      <title>0xPlaygrounds/rig</title>
+      <link>https://www.github.com/0xPlaygrounds/rig</link>
+      <description>⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents</description>
+    </item>
+    <item>
+      <title>elizaOS/eliza</title>
+      <link>https://www.github.com/elizaOS/eliza</link>
+      <description>Autonomous agents for everyone</description>
+    </item>
+    <item>
+      <title>teableio/teable</title>
+      <link>https://www.github.com/teableio/teable</link>
+      <description>✨ The Next Gen Airtable Alternative: No-Code Postgres</description>
+    </item>
+    <item>
+      <title>Shpota/github-activity-generator</title>
+      <link>https://www.github.com/Shpota/github-activity-generator</link>
+      <description>A script that helps generate a rich GitHub Contribution Graph for your account 🤖</description>
+    </item>
+    <item>
+      <title>libretro/RetroArch</title>
+      <link>https://www.github.com/libretro/RetroArch</link>
+      <description>Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</description>
+    </item>
+    <item>
+      <title>3b1b/manim</title>
+      <link>https://www.github.com/3b1b/manim</link>
+      <description>Animation engine for explanatory math videos</description>
+    </item>
+    <item>
+      <title>shadps4-emu/shadPS4</title>
+      <link>https://www.github.com/shadps4-emu/shadPS4</link>
+      <description>PS4 emulator for Windows,Linux,MacOS</description>
+    </item>
+  </channel>
+</rss>

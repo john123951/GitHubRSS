@@ -1,0 +1,181 @@
+[
+  {
+    "projectName": "shadps4-emu/shadPS4",
+    "desc": "PS4 emulator for Windows,Linux,MacOS",
+    "language": "C++",
+    "stars": "12,501",
+    "todayStars": "60",
+    "forks": "825",
+    "link": "/shadps4-emu/shadPS4"
+  },
+  {
+    "projectName": "3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "stars": "73,181",
+    "todayStars": "225",
+    "forks": "6,395",
+    "link": "/3b1b/manim"
+  },
+  {
+    "projectName": "libretro/RetroArch",
+    "desc": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+    "language": "C",
+    "stars": "10,615",
+    "todayStars": "12",
+    "forks": "1,842",
+    "link": "/libretro/RetroArch"
+  },
+  {
+    "projectName": "Shpota/github-activity-generator",
+    "desc": "A script that helps generate a rich GitHub Contribution Graph for your account 🤖",
+    "language": "Python",
+    "stars": "3,096",
+    "todayStars": "45",
+    "forks": "237",
+    "link": "/Shpota/github-activity-generator"
+  },
+  {
+    "projectName": "teableio/teable",
+    "desc": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+    "language": "TypeScript",
+    "stars": "14,624",
+    "todayStars": "76",
+    "forks": "670",
+    "link": "/teableio/teable"
+  },
+  {
+    "projectName": "elizaOS/eliza",
+    "desc": "Autonomous agents for everyone",
+    "language": "TypeScript",
+    "stars": "7,337",
+    "todayStars": "411",
+    "forks": "2,047",
+    "link": "/elizaOS/eliza"
+  },
+  {
+    "projectName": "0xPlaygrounds/rig",
+    "desc": "⚙️🦀 Build portable, modular & lightweight Fullstack Agents",
+    "language": "Rust",
+    "stars": "1,931",
+    "todayStars": "96",
+    "forks": "155",
+    "link": "/0xPlaygrounds/rig"
+  },
+  {
+    "projectName": "pathwaycom/llm-app",
+    "desc": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+    "stars": "11,080",
+    "todayStars": "577",
+    "forks": "301",
+    "link": "/pathwaycom/llm-app"
+  },
+  {
+    "projectName": "mikage-emu/mikage-dev",
+    "desc": "Mikage Developer Edition",
+    "language": "C++",
+    "stars": "186",
+    "todayStars": "32",
+    "forks": "10",
+    "link": "/mikage-emu/mikage-dev"
+  },
+  {
+    "projectName": "ManimCommunity/manim",
+    "desc": "A community-maintained Python framework for creating mathematical animations.",
+    "language": "Python",
+    "stars": "28,171",
+    "todayStars": "288",
+    "forks": "1,965",
+    "link": "/ManimCommunity/manim"
+  },
+  {
+    "projectName": "MervinPraison/PraisonAI",
+    "desc": "PraisonAI is an AI Agents Framework with Self Reflection. PraisonAI application combines PraisonAI Agents, AutoGen, and CrewAI into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human–agent collaboration.",
+    "language": "Jupyter Notebook",
+    "stars": "2,747",
+    "todayStars": "42",
+    "forks": "373",
+    "link": "/MervinPraison/PraisonAI"
+  },
+  {
+    "projectName": "public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "language": "Python",
+    "stars": "322,141",
+    "todayStars": "579",
+    "forks": "34,213",
+    "link": "/public-apis/public-apis"
+  },
+  {
+    "projectName": "pathwaycom/pathway",
+    "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+    "language": "Python",
+    "stars": "10,997",
+    "todayStars": "826",
+    "forks": "210",
+    "link": "/pathwaycom/pathway"
+  },
+  {
+    "projectName": "fish-shell/fish-shell",
+    "desc": "The user-friendly command line shell.",
+    "language": "Rust",
+    "stars": "27,040",
+    "todayStars": "98",
+    "forks": "1,935",
+    "link": "/fish-shell/fish-shell"
+  },
+  {
+    "projectName": "imputnet/cobalt",
+    "desc": "best way to save what you love",
+    "language": "Svelte",
+    "stars": "23,730",
+    "todayStars": "412",
+    "forks": "1,910",
+    "link": "/imputnet/cobalt"
+  },
+  {
+    "projectName": "Stirling-Tools/Stirling-PDF",
+    "desc": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+    "language": "Java",
+    "stars": "48,120",
+    "todayStars": "96",
+    "forks": "3,948",
+    "link": "/Stirling-Tools/Stirling-PDF"
+  },
+  {
+    "projectName": "kovidgoyal/kitty",
+    "desc": "Cross-platform, fast, feature-rich, GPU based terminal",
+    "language": "Python",
+    "stars": "25,560",
+    "todayStars": "45",
+    "forks": "1,014",
+    "link": "/kovidgoyal/kitty"
+  },
+  {
+    "projectName": "DrewThomasson/ebook2audiobook",
+    "desc": "Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!",
+    "language": "Python",
+    "stars": "3,216",
+    "todayStars": "524",
+    "forks": "212",
+    "link": "/DrewThomasson/ebook2audiobook"
+  },
+  {
+    "projectName": "WerWolv/ImHex",
+    "desc": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "language": "C++",
+    "stars": "46,046",
+    "todayStars": "154",
+    "forks": "2,008",
+    "link": "/WerWolv/ImHex"
+  },
+  {
+    "projectName": "EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "language": "HTML",
+    "stars": "344,612",
+    "todayStars": "432",
+    "forks": "62,283",
+    "link": "/EbookFoundation/free-programming-books"
+  }
+]
