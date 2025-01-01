@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <link>http://john123951.github.io/GitHubRSS</link>
+    <description>Daily Trending of GitHub</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GithubRSS</generator>
+    <lastBuildDate>Wed, 01 Jan 2025 08:34:57 +0000</lastBuildDate>
+    <item>
+      <title>pathwaycom/pathway</title>
+      <link>https://www.github.com/pathwaycom/pathway</link>
+      <description>Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.</description>
+    </item>
+    <item>
+      <title>EbookFoundation/free-programming-books</title>
+      <link>https://www.github.com/EbookFoundation/free-programming-books</link>
+      <description>📚 Freely available programming books</description>
+    </item>
+    <item>
+      <title>DrewThomasson/ebook2audiobook</title>
+      <link>https://www.github.com/DrewThomasson/ebook2audiobook</link>
+      <description>Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!</description>
+    </item>
+    <item>
+      <title>public-apis/public-apis</title>
+      <link>https://www.github.com/public-apis/public-apis</link>
+      <description>A collective list of free APIs</description>
+    </item>
+    <item>
+      <title>Stirling-Tools/Stirling-PDF</title>
+      <link>https://www.github.com/Stirling-Tools/Stirling-PDF</link>
+      <description>#1 Locally hosted web application that allows you to perform various operations on PDF files</description>
+    </item>
+    <item>
+      <title>pathwaycom/llm-app</title>
+      <link>https://www.github.com/pathwaycom/llm-app</link>
+      <description>Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.</description>
+    </item>
+    <item>
+      <title>WerWolv/ImHex</title>
+      <link>https://www.github.com/WerWolv/ImHex</link>
+      <description>🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.</description>
+    </item>
+    <item>
+      <title>deepseek-ai/DeepSeek-Coder-V2</title>
+      <link>https://www.github.com/deepseek-ai/DeepSeek-Coder-V2</link>
+      <description>DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence</description>
+    </item>
+    <item>
+      <title>elizaOS/eliza</title>
+      <link>https://www.github.com/elizaOS/eliza</link>
+      <description>Autonomous agents for everyone</description>
+    </item>
+    <item>
+      <title>Hannibal046/Awesome-LLM</title>
+      <link>https://www.github.com/Hannibal046/Awesome-LLM</link>
+      <description>Awesome-LLM: a curated list of Large Language Model</description>
+    </item>
+    <item>
+      <title>trimstray/the-book-of-secret-knowledge</title>
+      <link>https://www.github.com/trimstray/the-book-of-secret-knowledge</link>
+      <description>A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.</description>
+    </item>
+    <item>
+      <title>janhq/jan</title>
+      <link>https://www.github.com/janhq/jan</link>
+      <description>Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)</description>
+    </item>
+    <item>
+      <title>erigontech/erigon</title>
+      <link>https://www.github.com/erigontech/erigon</link>
+      <description>Ethereum implementation on the efficiency frontierhttps://docs.erigon.tech</description>
+    </item>
+    <item>
+      <title>CopilotKit/CopilotKit</title>
+      <link>https://www.github.com/CopilotKit/CopilotKit</link>
+      <description>React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁</description>
+    </item>
+    <item>
+      <title>activepieces/activepieces</title>
+      <link>https://www.github.com/activepieces/activepieces</link>
+      <description>Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative</description>
+    </item>
+    <item>
+      <title>3b1b/manim</title>
+      <link>https://www.github.com/3b1b/manim</link>
+      <description>Animation engine for explanatory math videos</description>
+    </item>
+    <item>
+      <title>crewAIInc/crewAI</title>
+      <link>https://www.github.com/crewAIInc/crewAI</link>
+      <description>Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.</description>
+    </item>
+    <item>
+      <title>ManimCommunity/manim</title>
+      <link>https://www.github.com/ManimCommunity/manim</link>
+      <description>A community-maintained Python framework for creating mathematical animations.</description>
+    </item>
+  </channel>
+</rss>

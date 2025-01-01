@@ -1,0 +1,160 @@
+[
+  {
+    "projectName": "ManimCommunity/manim",
+    "desc": "A community-maintained Python framework for creating mathematical animations.",
+    "language": "Python",
+    "stars": "28,303",
+    "todayStars": "140",
+    "forks": "1,969",
+    "link": "/ManimCommunity/manim"
+  },
+  {
+    "projectName": "crewAIInc/crewAI",
+    "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+    "language": "Python",
+    "stars": "23,410",
+    "todayStars": "76",
+    "forks": "3,215",
+    "link": "/crewAIInc/crewAI"
+  },
+  {
+    "projectName": "3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "stars": "73,305",
+    "todayStars": "167",
+    "forks": "6,402",
+    "link": "/3b1b/manim"
+  },
+  {
+    "projectName": "activepieces/activepieces",
+    "desc": "Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative",
+    "language": "TypeScript",
+    "stars": "10,510",
+    "todayStars": "8",
+    "forks": "1,320",
+    "link": "/activepieces/activepieces"
+  },
+  {
+    "projectName": "CopilotKit/CopilotKit",
+    "desc": "React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁",
+    "language": "TypeScript",
+    "stars": "14,640",
+    "todayStars": "48",
+    "forks": "2,191",
+    "link": "/CopilotKit/CopilotKit"
+  },
+  {
+    "projectName": "erigontech/erigon",
+    "desc": "Ethereum implementation on the efficiency frontierhttps://docs.erigon.tech",
+    "language": "Go",
+    "stars": "3,241",
+    "todayStars": "1",
+    "forks": "1,167",
+    "link": "/erigontech/erigon"
+  },
+  {
+    "projectName": "janhq/jan",
+    "desc": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)",
+    "language": "TypeScript",
+    "stars": "24,738",
+    "todayStars": "58",
+    "forks": "1,431",
+    "link": "/janhq/jan"
+  },
+  {
+    "projectName": "trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "stars": "153,484",
+    "todayStars": "163",
+    "forks": "9,756",
+    "link": "/trimstray/the-book-of-secret-knowledge"
+  },
+  {
+    "projectName": "Hannibal046/Awesome-LLM",
+    "desc": "Awesome-LLM: a curated list of Large Language Model",
+    "stars": "19,918",
+    "todayStars": "23",
+    "forks": "1,634",
+    "link": "/Hannibal046/Awesome-LLM"
+  },
+  {
+    "projectName": "elizaOS/eliza",
+    "desc": "Autonomous agents for everyone",
+    "language": "TypeScript",
+    "stars": "7,817",
+    "todayStars": "640",
+    "forks": "2,125",
+    "link": "/elizaOS/eliza"
+  },
+  {
+    "projectName": "deepseek-ai/DeepSeek-Coder-V2",
+    "desc": "DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence",
+    "stars": "2,580",
+    "todayStars": "21",
+    "forks": "148",
+    "link": "/deepseek-ai/DeepSeek-Coder-V2"
+  },
+  {
+    "projectName": "WerWolv/ImHex",
+    "desc": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "language": "C++",
+    "stars": "46,231",
+    "todayStars": "338",
+    "forks": "2,014",
+    "link": "/WerWolv/ImHex"
+  },
+  {
+    "projectName": "pathwaycom/llm-app",
+    "desc": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+    "stars": "11,256",
+    "todayStars": "821",
+    "forks": "309",
+    "link": "/pathwaycom/llm-app"
+  },
+  {
+    "projectName": "Stirling-Tools/Stirling-PDF",
+    "desc": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+    "language": "Java",
+    "stars": "48,272",
+    "todayStars": "223",
+    "forks": "3,951",
+    "link": "/Stirling-Tools/Stirling-PDF"
+  },
+  {
+    "projectName": "public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "language": "Python",
+    "stars": "322,444",
+    "todayStars": "395",
+    "forks": "34,231",
+    "link": "/public-apis/public-apis"
+  },
+  {
+    "projectName": "DrewThomasson/ebook2audiobook",
+    "desc": "Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!",
+    "language": "Python",
+    "stars": "3,706",
+    "todayStars": "703",
+    "forks": "247",
+    "link": "/DrewThomasson/ebook2audiobook"
+  },
+  {
+    "projectName": "EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "language": "HTML",
+    "stars": "345,346",
+    "todayStars": "1",
+    "forks": "62,319",
+    "link": "/EbookFoundation/free-programming-books"
+  },
+  {
+    "projectName": "pathwaycom/pathway",
+    "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+    "language": "Python",
+    "stars": "11,579",
+    "todayStars": "750",
+    "forks": "244",
+    "link": "/pathwaycom/pathway"
+  }
+]
