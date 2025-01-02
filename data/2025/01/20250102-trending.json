@@ -1,0 +1,155 @@
+[
+  {
+    "projectName": "activepieces/activepieces",
+    "desc": "Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative",
+    "language": "TypeScript",
+    "stars": "10,705",
+    "todayStars": "159",
+    "forks": "1,338",
+    "link": "/activepieces/activepieces"
+  },
+  {
+    "projectName": "crewAIInc/crewAI",
+    "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+    "language": "Python",
+    "stars": "23,681",
+    "todayStars": "247",
+    "forks": "3,232",
+    "link": "/crewAIInc/crewAI"
+  },
+  {
+    "projectName": "goauthentik/authentik",
+    "desc": "The authentication glue you need.",
+    "language": "Python",
+    "stars": "14,259",
+    "todayStars": "22",
+    "forks": "966",
+    "link": "/goauthentik/authentik"
+  },
+  {
+    "projectName": "QwenLM/Qwen-Agent",
+    "desc": "Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+    "language": "Python",
+    "stars": "4,829",
+    "todayStars": "8",
+    "forks": "432",
+    "link": "/QwenLM/Qwen-Agent"
+  },
+  {
+    "projectName": "Byaidu/PDFMathTranslate",
+    "desc": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+    "language": "Python",
+    "stars": "13,003",
+    "todayStars": "258",
+    "forks": "950",
+    "link": "/Byaidu/PDFMathTranslate"
+  },
+  {
+    "projectName": "0xPlaygrounds/rig",
+    "desc": "⚙️🦀 Build portable, modular & lightweight Fullstack Agents",
+    "language": "Rust",
+    "stars": "2,109",
+    "todayStars": "47",
+    "forks": "171",
+    "link": "/0xPlaygrounds/rig"
+  },
+  {
+    "projectName": "RVC-Boss/GPT-SoVITS",
+    "desc": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+    "language": "Python",
+    "stars": "37,862",
+    "todayStars": "100",
+    "forks": "4,290",
+    "link": "/RVC-Boss/GPT-SoVITS"
+  },
+  {
+    "projectName": "pathwaycom/pathway",
+    "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+    "language": "Python",
+    "stars": "11,880",
+    "todayStars": "617",
+    "forks": "256",
+    "link": "/pathwaycom/pathway"
+  },
+  {
+    "projectName": "elizaOS/eliza",
+    "desc": "Autonomous agents for everyone",
+    "language": "TypeScript",
+    "stars": "8,366",
+    "todayStars": "431",
+    "forks": "2,226",
+    "link": "/elizaOS/eliza"
+  },
+  {
+    "projectName": "codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "stars": "321,101",
+    "todayStars": "530",
+    "forks": "29,784",
+    "link": "/codecrafters-io/build-your-own-x"
+  },
+  {
+    "projectName": "janhq/jan",
+    "desc": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+    "language": "TypeScript",
+    "stars": "25,017",
+    "todayStars": "179",
+    "forks": "1,441",
+    "link": "/janhq/jan"
+  },
+  {
+    "projectName": "krahets/hello-algo",
+    "desc": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+    "language": "Java",
+    "stars": "105,176",
+    "todayStars": "291",
+    "forks": "13,174",
+    "link": "/krahets/hello-algo"
+  },
+  {
+    "projectName": "CopilotKit/CopilotKit",
+    "desc": "React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁",
+    "language": "TypeScript",
+    "stars": "14,876",
+    "todayStars": "155",
+    "forks": "2,208",
+    "link": "/CopilotKit/CopilotKit"
+  },
+  {
+    "projectName": "EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "language": "HTML",
+    "stars": "345,673",
+    "todayStars": "648",
+    "forks": "62,344",
+    "link": "/EbookFoundation/free-programming-books"
+  },
+  {
+    "projectName": "DrewThomasson/ebook2audiobook",
+    "desc": "Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!",
+    "language": "Python",
+    "stars": "4,219",
+    "todayStars": "451",
+    "forks": "288",
+    "link": "/DrewThomasson/ebook2audiobook"
+  },
+  {
+    "projectName": "deepseek-ai/DeepSeek-Coder",
+    "desc": "DeepSeek Coder: Let the Code Write Itself",
+    "language": "Python",
+    "stars": "8,663",
+    "todayStars": "138",
+    "forks": "587",
+    "link": "/deepseek-ai/DeepSeek-Coder"
+  },
+  {
+    "projectName": "bytedance/monolith",
+    "desc": "A Lightweight Recommendation System",
+    "language": "Python",
+    "stars": "5,176",
+    "todayStars": "147",
+    "forks": "426",
+    "link": "/bytedance/monolith"
+  }
+]
