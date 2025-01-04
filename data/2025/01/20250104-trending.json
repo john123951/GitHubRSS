@@ -1,0 +1,146 @@
+[
+  {
+    "projectName": "codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "stars": "322,189",
+    "todayStars": "489",
+    "forks": "29,867",
+    "link": "/codecrafters-io/build-your-own-x"
+  },
+  {
+    "projectName": "Byaidu/PDFMathTranslate",
+    "desc": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+    "language": "Python",
+    "stars": "13,518",
+    "todayStars": "256",
+    "forks": "988",
+    "link": "/Byaidu/PDFMathTranslate"
+  },
+  {
+    "projectName": "gitroomhq/postiz-app",
+    "desc": "📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
+    "language": "TypeScript",
+    "stars": "16,339",
+    "todayStars": "463",
+    "forks": "2,653",
+    "link": "/gitroomhq/postiz-app"
+  },
+  {
+    "projectName": "loco-rs/loco",
+    "desc": "🚂 🦀 The one-person framework for Rust for side-projects and startups",
+    "language": "Rust",
+    "stars": "5,969",
+    "todayStars": "37",
+    "forks": "263",
+    "link": "/loco-rs/loco"
+  },
+  {
+    "projectName": "elizaOS/eliza",
+    "desc": "Autonomous agents for everyone",
+    "language": "TypeScript",
+    "stars": "9,164",
+    "todayStars": "363",
+    "forks": "2,387",
+    "link": "/elizaOS/eliza"
+  },
+  {
+    "projectName": "hashicorp/terraform",
+    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "language": "Go",
+    "stars": "43,471",
+    "todayStars": "9",
+    "forks": "9,605",
+    "link": "/hashicorp/terraform"
+  },
+  {
+    "projectName": "f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "language": "HTML",
+    "stars": "115,472",
+    "todayStars": "403",
+    "forks": "15,723",
+    "link": "/f/awesome-chatgpt-prompts"
+  },
+  {
+    "projectName": "louis-e/arnis",
+    "desc": "Generate any location from the real world in Minecraft Java Edition with a high level of detail.",
+    "language": "Rust",
+    "stars": "3,202",
+    "todayStars": "998",
+    "forks": "80",
+    "link": "/louis-e/arnis"
+  },
+  {
+    "projectName": "janhq/jan",
+    "desc": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+    "language": "TypeScript",
+    "stars": "25,417",
+    "todayStars": "132",
+    "forks": "1,464",
+    "link": "/janhq/jan"
+  },
+  {
+    "projectName": "nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "stars": "81,384",
+    "todayStars": "30",
+    "forks": "8,103",
+    "link": "/nvm-sh/nvm"
+  },
+  {
+    "projectName": "spaceandtimelabs/sxt-proof-of-sql",
+    "desc": "Space and Time | Proof of SQL",
+    "language": "Rust",
+    "stars": "4,309",
+    "todayStars": "168",
+    "forks": "157",
+    "link": "/spaceandtimelabs/sxt-proof-of-sql"
+  },
+  {
+    "projectName": "bytedance/monolith",
+    "desc": "A Lightweight Recommendation System",
+    "language": "Python",
+    "stars": "6,342",
+    "todayStars": "899",
+    "forks": "474",
+    "link": "/bytedance/monolith"
+  },
+  {
+    "projectName": "deepseek-ai/DeepSeek-Coder",
+    "desc": "DeepSeek Coder: Let the Code Write Itself",
+    "language": "Python",
+    "stars": "9,525",
+    "todayStars": "457",
+    "forks": "628",
+    "link": "/deepseek-ai/DeepSeek-Coder"
+  },
+  {
+    "projectName": "QwenLM/Qwen-Agent",
+    "desc": "Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+    "language": "Python",
+    "stars": "5,031",
+    "todayStars": "54",
+    "forks": "436",
+    "link": "/QwenLM/Qwen-Agent"
+  },
+  {
+    "projectName": "Cinnamon/kotaemon",
+    "desc": "An open-source RAG-based tool for chatting with your documents.",
+    "language": "Python",
+    "stars": "19,133",
+    "todayStars": "350",
+    "forks": "1,470",
+    "link": "/Cinnamon/kotaemon"
+  },
+  {
+    "projectName": "stanford-oval/storm",
+    "desc": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+    "language": "Python",
+    "stars": "15,784",
+    "todayStars": "412",
+    "forks": "1,470",
+    "link": "/stanford-oval/storm"
+  }
+]
